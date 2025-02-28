@@ -1,0 +1,14 @@
+Epoch 1/10 - Loss: 2.3013 - Accuracy: 0.1863
+Epoch 2/10 - Loss: 2.1585 - Accuracy: 0.3597
+Epoch 3/10 - Loss: 1.2095 - Accuracy: 0.6232
+Epoch 4/10 - Loss: 0.8978 - Accuracy: 0.6763
+Epoch 5/10 - Loss: 0.8278 - Accuracy: 0.7028
+Epoch 6/10 - Loss: 0.7827 - Accuracy: 0.7217
+Epoch 7/10 - Loss: 0.7394 - Accuracy: 0.7382
+Epoch 8/10 - Loss: 0.6937 - Accuracy: 0.7527
+Epoch 9/10 - Loss: 0.6456 - Accuracy: 0.7668
+Epoch 10/10 - Loss: 0.6057 - Accuracy: 0.7790
+Test Accuracy: 0.7715
+Create sweep with ID: o2064fzb
+Sweep URL: https://wandb.ai/snehalma23m020-iit-madras/DLassignment1/sweeps/o2064fzb
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
