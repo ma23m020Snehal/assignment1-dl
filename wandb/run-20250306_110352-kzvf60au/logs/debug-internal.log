@@ -1,0 +1,16 @@
+{"time":"2025-03-06T11:03:52.224678091+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250306_110352-kzvf60au/logs/debug-core.log"}
+{"time":"2025-03-06T11:03:52.333765547+05:30","level":"INFO","msg":"created new stream","id":"kzvf60au"}
+{"time":"2025-03-06T11:03:52.333841646+05:30","level":"INFO","msg":"stream: started","id":"kzvf60au"}
+{"time":"2025-03-06T11:03:52.334040868+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kzvf60au"}
+{"time":"2025-03-06T11:03:52.33407195+05:30","level":"INFO","msg":"sender: started","stream_id":"kzvf60au"}
+{"time":"2025-03-06T11:03:52.334385895+05:30","level":"INFO","msg":"handler: started","stream_id":"kzvf60au"}
+{"time":"2025-03-06T11:03:52.840198136+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T11:05:07.432575398+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T11:05:07.433581481+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T11:05:08.441858936+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.410601635},{"desc":"uploading wandb-summary.json","runtime_seconds":0.410568791,"progress":"267B/267B"},{"desc":"uploading config.yaml","runtime_seconds":0.132570565,"progress":"882B/882B"}],"total_operations":3}}
+{"time":"2025-03-06T11:05:08.876654779+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T11:05:10.218672225+05:30","level":"INFO","msg":"stream: closing","id":"kzvf60au"}
+{"time":"2025-03-06T11:05:10.218714789+05:30","level":"INFO","msg":"handler: closed","stream_id":"kzvf60au"}
+{"time":"2025-03-06T11:05:10.218735042+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kzvf60au"}
+{"time":"2025-03-06T11:05:10.218772022+05:30","level":"INFO","msg":"sender: closed","stream_id":"kzvf60au"}
+{"time":"2025-03-06T11:05:10.218891118+05:30","level":"INFO","msg":"stream: closed","id":"kzvf60au"}

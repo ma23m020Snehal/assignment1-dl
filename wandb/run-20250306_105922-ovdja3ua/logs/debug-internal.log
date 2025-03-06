@@ -1,0 +1,16 @@
+{"time":"2025-03-06T10:59:22.904897989+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250306_105922-ovdja3ua/logs/debug-core.log"}
+{"time":"2025-03-06T10:59:23.012774073+05:30","level":"INFO","msg":"created new stream","id":"ovdja3ua"}
+{"time":"2025-03-06T10:59:23.012824083+05:30","level":"INFO","msg":"stream: started","id":"ovdja3ua"}
+{"time":"2025-03-06T10:59:23.012913131+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ovdja3ua"}
+{"time":"2025-03-06T10:59:23.013034813+05:30","level":"INFO","msg":"handler: started","stream_id":"ovdja3ua"}
+{"time":"2025-03-06T10:59:23.01309135+05:30","level":"INFO","msg":"sender: started","stream_id":"ovdja3ua"}
+{"time":"2025-03-06T10:59:23.409890425+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T10:59:29.669719233+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T10:59:29.670219345+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T10:59:30.674236086+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.515615997,"progress":"263B/263B"},{"desc":"uploading config.yaml","runtime_seconds":0.108303149,"progress":"888B/888B"}],"total_operations":2}}
+{"time":"2025-03-06T10:59:31.282792589+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T10:59:32.918681721+05:30","level":"INFO","msg":"stream: closing","id":"ovdja3ua"}
+{"time":"2025-03-06T10:59:32.918713063+05:30","level":"INFO","msg":"handler: closed","stream_id":"ovdja3ua"}
+{"time":"2025-03-06T10:59:32.918728026+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ovdja3ua"}
+{"time":"2025-03-06T10:59:32.918795888+05:30","level":"INFO","msg":"sender: closed","stream_id":"ovdja3ua"}
+{"time":"2025-03-06T10:59:32.918855224+05:30","level":"INFO","msg":"stream: closed","id":"ovdja3ua"}

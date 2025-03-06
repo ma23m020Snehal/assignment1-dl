@@ -1,0 +1,16 @@
+{"time":"2025-03-06T11:02:57.830188073+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250306_110257-ksdim6gx/logs/debug-core.log"}
+{"time":"2025-03-06T11:02:57.937644884+05:30","level":"INFO","msg":"created new stream","id":"ksdim6gx"}
+{"time":"2025-03-06T11:02:57.937724657+05:30","level":"INFO","msg":"stream: started","id":"ksdim6gx"}
+{"time":"2025-03-06T11:02:57.937852638+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ksdim6gx"}
+{"time":"2025-03-06T11:02:57.937869381+05:30","level":"INFO","msg":"sender: started","stream_id":"ksdim6gx"}
+{"time":"2025-03-06T11:02:57.938025728+05:30","level":"INFO","msg":"handler: started","stream_id":"ksdim6gx"}
+{"time":"2025-03-06T11:02:58.469501694+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T11:03:09.040128636+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T11:03:09.042135912+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T11:03:10.05207012+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.50700991},{"desc":"uploading wandb-summary.json","runtime_seconds":0.506981098,"progress":"275B/275B"}],"total_operations":2}}
+{"time":"2025-03-06T11:03:10.55864302+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T11:03:12.327064979+05:30","level":"INFO","msg":"stream: closing","id":"ksdim6gx"}
+{"time":"2025-03-06T11:03:12.327104988+05:30","level":"INFO","msg":"handler: closed","stream_id":"ksdim6gx"}
+{"time":"2025-03-06T11:03:12.327125703+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ksdim6gx"}
+{"time":"2025-03-06T11:03:12.3271842+05:30","level":"INFO","msg":"sender: closed","stream_id":"ksdim6gx"}
+{"time":"2025-03-06T11:03:12.327262502+05:30","level":"INFO","msg":"stream: closed","id":"ksdim6gx"}
