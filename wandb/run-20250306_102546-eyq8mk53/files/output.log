@@ -1,0 +1,24 @@
+Original shapes:
+ X_train: (60000, 28, 28)
+ y_train: (60000,)
+ X_test:  (10000, 28, 28)
+ y_test:  (10000,)
+
+After reshaping & normalization:
+ X_train: (60000, 784)
+ X_test:  (10000, 784)
+y_train_oh shape: (60000, 10)
+y_test_oh shape:  (10000, 10)
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+Epoch 1/10 | Train Loss: 2.4500, Train Acc: 0.1179 | Test Loss: 2.4440, Test Acc: 0.1208
+Epoch 2/10 | Train Loss: 2.4500, Train Acc: 0.1179 | Test Loss: 2.4440, Test Acc: 0.1208
+Epoch 3/10 | Train Loss: 2.4500, Train Acc: 0.1179 | Test Loss: 2.4440, Test Acc: 0.1208
+Epoch 4/10 | Train Loss: 2.4500, Train Acc: 0.1179 | Test Loss: 2.4440, Test Acc: 0.1208
+Epoch 5/10 | Train Loss: 2.4500, Train Acc: 0.1179 | Test Loss: 2.4440, Test Acc: 0.1208
+Epoch 6/10 | Train Loss: 2.4500, Train Acc: 0.1179 | Test Loss: 2.4440, Test Acc: 0.1208
+Epoch 7/10 | Train Loss: 2.4500, Train Acc: 0.1179 | Test Loss: 2.4440, Test Acc: 0.1208
+Epoch 8/10 | Train Loss: 2.4500, Train Acc: 0.1179 | Test Loss: 2.4440, Test Acc: 0.1208
+Epoch 9/10 | Train Loss: 2.4500, Train Acc: 0.1179 | Test Loss: 2.4440, Test Acc: 0.1208
+Epoch 10/10 | Train Loss: 2.4500, Train Acc: 0.1179 | Test Loss: 2.4440, Test Acc: 0.1208
