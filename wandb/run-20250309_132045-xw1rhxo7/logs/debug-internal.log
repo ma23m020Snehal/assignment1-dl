@@ -1,0 +1,19 @@
+{"time":"2025-03-09T13:20:45.7984608+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_132045-xw1rhxo7/logs/debug-core.log"}
+{"time":"2025-03-09T13:20:45.90651823+05:30","level":"INFO","msg":"created new stream","id":"xw1rhxo7"}
+{"time":"2025-03-09T13:20:45.906574062+05:30","level":"INFO","msg":"stream: started","id":"xw1rhxo7"}
+{"time":"2025-03-09T13:20:45.906617037+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xw1rhxo7"}
+{"time":"2025-03-09T13:20:45.906732422+05:30","level":"INFO","msg":"sender: started","stream_id":"xw1rhxo7"}
+{"time":"2025-03-09T13:20:45.90673212+05:30","level":"INFO","msg":"handler: started","stream_id":"xw1rhxo7"}
+{"time":"2025-03-09T13:20:46.343845847+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T13:21:02.408611189+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/snehalma23m020-iit-madras/DLassignment1/xw1rhxo7/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: no such host"}
+{"time":"2025-03-09T13:21:04.867359835+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/snehalma23m020-iit-madras/DLassignment1/xw1rhxo7/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: no such host"}
+{"time":"2025-03-09T13:21:09.839468041+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/snehalma23m020-iit-madras/DLassignment1/xw1rhxo7/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: no such host"}
+{"time":"2025-03-09T13:21:39.409727796+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T13:21:39.410944536+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T13:21:40.415121441+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.297813475}],"total_operations":1}}
+{"time":"2025-03-09T13:21:41.306256832+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T13:21:42.775272009+05:30","level":"INFO","msg":"stream: closing","id":"xw1rhxo7"}
+{"time":"2025-03-09T13:21:42.775325577+05:30","level":"INFO","msg":"handler: closed","stream_id":"xw1rhxo7"}
+{"time":"2025-03-09T13:21:42.775376867+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xw1rhxo7"}
+{"time":"2025-03-09T13:21:42.775463031+05:30","level":"INFO","msg":"sender: closed","stream_id":"xw1rhxo7"}
+{"time":"2025-03-09T13:21:42.775585153+05:30","level":"INFO","msg":"stream: closed","id":"xw1rhxo7"}

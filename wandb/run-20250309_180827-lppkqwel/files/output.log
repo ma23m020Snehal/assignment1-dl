@@ -1,0 +1,88 @@
+Epoch 1/10 - Loss: 0.5788 - Accuracy: 0.8446
+Epoch 2/10 - Loss: 0.4091 - Accuracy: 0.8699
+Epoch 3/10 - Loss: 0.3683 - Accuracy: 0.8764
+Epoch 4/10 - Loss: 0.3428 - Accuracy: 0.8821
+Epoch 5/10 - Loss: 0.3236 - Accuracy: 0.8887
+Epoch 6/10 - Loss: 0.3077 - Accuracy: 0.8913
+Epoch 7/10 - Loss: 0.2951 - Accuracy: 0.8970
+Epoch 8/10 - Loss: 0.2853 - Accuracy: 0.8929
+Epoch 9/10 - Loss: 0.2752 - Accuracy: 0.9007
+Epoch 10/10 - Loss: 0.2675 - Accuracy: 0.9098
+Test Accuracy: 0.8768
+
+Test Image 250 Probability Distribution:
+T-shirt/top: 0.0000
+Trouser: 0.0000
+Pullover: 0.0000
+Dress: 0.0000
+Coat: 0.0000
+Sandal: 0.0003
+Shirt: 0.0000
+Sneaker: 0.3027
+Bag: 0.0000
+Ankle boot: 0.6970
+
+
+Test Image 1 Probability Distribution:
+T-shirt/top: 0.0000
+Trouser: 0.0000
+Pullover: 0.9951
+Dress: 0.0000
+Coat: 0.0017
+Sandal: 0.0000
+Shirt: 0.0032
+Sneaker: 0.0000
+Bag: 0.0000
+Ankle boot: 0.0000
+
+
+Test Image 45 Probability Distribution:
+T-shirt/top: 0.0001
+Trouser: 0.0001
+Pullover: 0.0002
+Dress: 0.0010
+Coat: 0.0008
+Sandal: 0.0181
+Shirt: 0.0000
+Sneaker: 0.9557
+Bag: 0.0017
+Ankle boot: 0.0222
+
+
+Test Image 80 Probability Distribution:
+T-shirt/top: 0.0085
+Trouser: 0.9814
+Pullover: 0.0048
+Dress: 0.0028
+Coat: 0.0023
+Sandal: 0.0000
+Shirt: 0.0002
+Sneaker: 0.0000
+Bag: 0.0000
+Ankle boot: 0.0000
+
+
+Test Image 980 Probability Distribution:
+T-shirt/top: 0.0000
+Trouser: 0.0000
+Pullover: 0.0000
+Dress: 0.0000
+Coat: 0.0000
+Sandal: 0.0000
+Shirt: 0.0000
+Sneaker: 0.0068
+Bag: 0.0000
+Ankle boot: 0.9932
+
+
+Test Image 6 Probability Distribution:
+T-shirt/top: 0.0000
+Trouser: 0.0000
+Pullover: 0.0022
+Dress: 0.0001
+Coat: 0.9917
+Sandal: 0.0000
+Shirt: 0.0060
+Sneaker: 0.0000
+Bag: 0.0000
+Ankle boot: 0.0000

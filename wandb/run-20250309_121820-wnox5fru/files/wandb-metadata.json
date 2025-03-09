@@ -1,0 +1,31 @@
+{
+  "os":  "Linux-6.8.0-52-generic-x86_64-with-glibc2.39",
+  "python":  "CPython 3.12.3",
+  "startedAt":  "2025-03-09T06:48:20.433552Z",
+  "program":  "/home/snehal/Downloads/dl_ass1/deepak.ipynb",
+  "codePath":  "deepak.ipynb",
+  "git":  {
+    "remote":  "git@github.com:ma23m020Snehal/assignment1-dl.git",
+    "commit":  "9b21899d10d994be4921b192053ecdb8eaaf9707"
+  },
+  "email":  "ma23m020@smail.iitm.ac.in",
+  "root":  "/home/snehal/Downloads/dl_ass1",
+  "host":  "snehal-HP-Laptop-15s-fq5xxx",
+  "executable":  "/home/snehal/Downloads/dl_ass1/dvenv/bin/python",
+  "codePathLocal":  "deepak.ipynb",
+  "cpu_count":  10,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "194964811776",
+      "used":  "152485187584"
+    }
+  },
+  "memory":  {
+    "total":  "16425246720"
+  },
+  "cpu":  {
+    "count":  10,
+    "countLogical":  12
+  }
+}

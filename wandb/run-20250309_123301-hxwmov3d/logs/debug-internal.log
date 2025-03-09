@@ -1,0 +1,16 @@
+{"time":"2025-03-09T12:33:01.195580351+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_123301-hxwmov3d/logs/debug-core.log"}
+{"time":"2025-03-09T12:33:01.30050512+05:30","level":"INFO","msg":"created new stream","id":"hxwmov3d"}
+{"time":"2025-03-09T12:33:01.300582725+05:30","level":"INFO","msg":"stream: started","id":"hxwmov3d"}
+{"time":"2025-03-09T12:33:01.300707367+05:30","level":"INFO","msg":"sender: started","stream_id":"hxwmov3d"}
+{"time":"2025-03-09T12:33:01.300680293+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hxwmov3d"}
+{"time":"2025-03-09T12:33:01.300800683+05:30","level":"INFO","msg":"handler: started","stream_id":"hxwmov3d"}
+{"time":"2025-03-09T12:33:02.257423103+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T12:33:57.114142857+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T12:33:57.114809545+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T12:33:58.118586407+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.299768552}],"total_operations":1}}
+{"time":"2025-03-09T12:33:59.650607701+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T12:34:01.282877452+05:30","level":"INFO","msg":"stream: closing","id":"hxwmov3d"}
+{"time":"2025-03-09T12:34:01.282912854+05:30","level":"INFO","msg":"handler: closed","stream_id":"hxwmov3d"}
+{"time":"2025-03-09T12:34:01.282930855+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hxwmov3d"}
+{"time":"2025-03-09T12:34:01.282970328+05:30","level":"INFO","msg":"sender: closed","stream_id":"hxwmov3d"}
+{"time":"2025-03-09T12:34:01.283061132+05:30","level":"INFO","msg":"stream: closed","id":"hxwmov3d"}

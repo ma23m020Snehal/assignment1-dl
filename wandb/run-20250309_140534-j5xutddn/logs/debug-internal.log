@@ -1,0 +1,16 @@
+{"time":"2025-03-09T14:05:34.282083115+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_140534-j5xutddn/logs/debug-core.log"}
+{"time":"2025-03-09T14:05:34.38614888+05:30","level":"INFO","msg":"created new stream","id":"j5xutddn"}
+{"time":"2025-03-09T14:05:34.386224094+05:30","level":"INFO","msg":"stream: started","id":"j5xutddn"}
+{"time":"2025-03-09T14:05:34.386374905+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"j5xutddn"}
+{"time":"2025-03-09T14:05:34.386423559+05:30","level":"INFO","msg":"sender: started","stream_id":"j5xutddn"}
+{"time":"2025-03-09T14:05:34.386424127+05:30","level":"INFO","msg":"handler: started","stream_id":"j5xutddn"}
+{"time":"2025-03-09T14:05:34.73650635+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T14:06:36.301267681+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T14:06:36.302492341+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T14:06:37.307976943+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-j5xutddn-val_confusion_matrix_interactive_table","runtime_seconds":1.016600639},{"desc":"uploading config.yaml","runtime_seconds":0.380971898,"progress":"2.2KB/2.2KB"}],"total_operations":2}}
+{"time":"2025-03-09T14:06:39.203300198+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T14:06:40.777170278+05:30","level":"INFO","msg":"stream: closing","id":"j5xutddn"}
+{"time":"2025-03-09T14:06:40.777208365+05:30","level":"INFO","msg":"handler: closed","stream_id":"j5xutddn"}
+{"time":"2025-03-09T14:06:40.777251083+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"j5xutddn"}
+{"time":"2025-03-09T14:06:40.777328598+05:30","level":"INFO","msg":"sender: closed","stream_id":"j5xutddn"}
+{"time":"2025-03-09T14:06:40.777437369+05:30","level":"INFO","msg":"stream: closed","id":"j5xutddn"}

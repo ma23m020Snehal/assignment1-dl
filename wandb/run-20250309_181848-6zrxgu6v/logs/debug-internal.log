@@ -1,0 +1,18 @@
+{"time":"2025-03-09T18:18:48.256920031+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_181848-6zrxgu6v/logs/debug-core.log"}
+{"time":"2025-03-09T18:18:48.359537719+05:30","level":"INFO","msg":"created new stream","id":"6zrxgu6v"}
+{"time":"2025-03-09T18:18:48.359562685+05:30","level":"INFO","msg":"stream: started","id":"6zrxgu6v"}
+{"time":"2025-03-09T18:18:48.3596183+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"6zrxgu6v"}
+{"time":"2025-03-09T18:18:48.359689011+05:30","level":"INFO","msg":"handler: started","stream_id":"6zrxgu6v"}
+{"time":"2025-03-09T18:18:48.359694132+05:30","level":"INFO","msg":"sender: started","stream_id":"6zrxgu6v"}
+{"time":"2025-03-09T18:18:48.71546861+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T18:19:07.995839553+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T18:19:08.022465299+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T18:19:09.363864737+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T18:19:09.365336819+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T18:19:10.331617766+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-6zrxgu6v-sample_prob_distributions","runtime_seconds":1.008841024},{"desc":"uploading config.yaml","runtime_seconds":0.017864904,"progress":"602B/602B"}],"total_operations":2}}
+{"time":"2025-03-09T18:19:12.280592932+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T18:19:13.635602811+05:30","level":"INFO","msg":"stream: closing","id":"6zrxgu6v"}
+{"time":"2025-03-09T18:19:13.635643884+05:30","level":"INFO","msg":"handler: closed","stream_id":"6zrxgu6v"}
+{"time":"2025-03-09T18:19:13.635665998+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"6zrxgu6v"}
+{"time":"2025-03-09T18:19:13.635721483+05:30","level":"INFO","msg":"sender: closed","stream_id":"6zrxgu6v"}
+{"time":"2025-03-09T18:19:13.635829708+05:30","level":"INFO","msg":"stream: closed","id":"6zrxgu6v"}

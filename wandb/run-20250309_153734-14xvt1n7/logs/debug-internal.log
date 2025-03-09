@@ -1,0 +1,16 @@
+{"time":"2025-03-09T15:37:34.474674342+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_153734-14xvt1n7/logs/debug-core.log"}
+{"time":"2025-03-09T15:37:34.579530338+05:30","level":"INFO","msg":"created new stream","id":"14xvt1n7"}
+{"time":"2025-03-09T15:37:34.579599564+05:30","level":"INFO","msg":"stream: started","id":"14xvt1n7"}
+{"time":"2025-03-09T15:37:34.579695911+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"14xvt1n7"}
+{"time":"2025-03-09T15:37:34.579752768+05:30","level":"INFO","msg":"sender: started","stream_id":"14xvt1n7"}
+{"time":"2025-03-09T15:37:34.579820774+05:30","level":"INFO","msg":"handler: started","stream_id":"14xvt1n7"}
+{"time":"2025-03-09T15:37:35.028110412+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T15:37:35.175944287+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T15:37:35.176759446+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T15:37:36.174448435+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.67410198,"progress":"856B/856B"},{"desc":"uploading requirements.txt","runtime_seconds":0.673986358,"progress":"1.5KB/1.5KB"},{"desc":"uploading summary","runtime_seconds":0.266231743},{"desc":"updating run config","runtime_seconds":0.265928437}],"total_operations":4}}
+{"time":"2025-03-09T15:37:37.772239481+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T15:37:39.118478959+05:30","level":"INFO","msg":"stream: closing","id":"14xvt1n7"}
+{"time":"2025-03-09T15:37:39.118523538+05:30","level":"INFO","msg":"handler: closed","stream_id":"14xvt1n7"}
+{"time":"2025-03-09T15:37:39.118540213+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"14xvt1n7"}
+{"time":"2025-03-09T15:37:39.118583958+05:30","level":"INFO","msg":"sender: closed","stream_id":"14xvt1n7"}
+{"time":"2025-03-09T15:37:39.118649892+05:30","level":"INFO","msg":"stream: closed","id":"14xvt1n7"}

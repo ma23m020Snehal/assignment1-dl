@@ -1,0 +1,16 @@
+{"time":"2025-03-09T15:58:20.841107951+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_155820-iba1pu03/logs/debug-core.log"}
+{"time":"2025-03-09T15:58:20.944105282+05:30","level":"INFO","msg":"created new stream","id":"iba1pu03"}
+{"time":"2025-03-09T15:58:20.944130721+05:30","level":"INFO","msg":"stream: started","id":"iba1pu03"}
+{"time":"2025-03-09T15:58:20.944183312+05:30","level":"INFO","msg":"handler: started","stream_id":"iba1pu03"}
+{"time":"2025-03-09T15:58:20.944205205+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"iba1pu03"}
+{"time":"2025-03-09T15:58:20.944210563+05:30","level":"INFO","msg":"sender: started","stream_id":"iba1pu03"}
+{"time":"2025-03-09T15:58:21.53547928+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T15:58:21.707716255+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T15:58:21.708302749+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T15:58:22.69525088+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.513302926,"progress":"1.5KB/1.5KB"},{"desc":"uploading data","runtime_seconds":0.040193825},{"desc":"updating run config","runtime_seconds":0.038463105}],"total_operations":3}}
+{"time":"2025-03-09T15:58:24.341441904+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T15:58:25.679556133+05:30","level":"INFO","msg":"stream: closing","id":"iba1pu03"}
+{"time":"2025-03-09T15:58:25.679590657+05:30","level":"INFO","msg":"handler: closed","stream_id":"iba1pu03"}
+{"time":"2025-03-09T15:58:25.679606988+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"iba1pu03"}
+{"time":"2025-03-09T15:58:25.679723035+05:30","level":"INFO","msg":"sender: closed","stream_id":"iba1pu03"}
+{"time":"2025-03-09T15:58:25.679804445+05:30","level":"INFO","msg":"stream: closed","id":"iba1pu03"}

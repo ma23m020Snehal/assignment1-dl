@@ -1,0 +1,16 @@
+{"time":"2025-03-09T11:27:56.717853604+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_112756-huqlir9d/logs/debug-core.log"}
+{"time":"2025-03-09T11:27:56.821854396+05:30","level":"INFO","msg":"created new stream","id":"huqlir9d"}
+{"time":"2025-03-09T11:27:56.821915353+05:30","level":"INFO","msg":"stream: started","id":"huqlir9d"}
+{"time":"2025-03-09T11:27:56.822040179+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"huqlir9d"}
+{"time":"2025-03-09T11:27:56.822082571+05:30","level":"INFO","msg":"handler: started","stream_id":"huqlir9d"}
+{"time":"2025-03-09T11:27:56.822138825+05:30","level":"INFO","msg":"sender: started","stream_id":"huqlir9d"}
+{"time":"2025-03-09T11:27:57.636380004+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T11:29:06.618516711+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T11:29:06.622376239+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T11:29:07.621822616+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.229763437}],"total_operations":1}}
+{"time":"2025-03-09T11:29:08.407959858+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T11:29:09.783703242+05:30","level":"INFO","msg":"stream: closing","id":"huqlir9d"}
+{"time":"2025-03-09T11:29:09.783721516+05:30","level":"INFO","msg":"handler: closed","stream_id":"huqlir9d"}
+{"time":"2025-03-09T11:29:09.783733671+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"huqlir9d"}
+{"time":"2025-03-09T11:29:09.783747758+05:30","level":"INFO","msg":"sender: closed","stream_id":"huqlir9d"}
+{"time":"2025-03-09T11:29:09.783815698+05:30","level":"INFO","msg":"stream: closed","id":"huqlir9d"}
