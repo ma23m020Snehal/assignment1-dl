@@ -1,0 +1,28 @@
+{"time":"2025-03-08T18:13:18.834627551+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250308_181318-fvpmd0wd/logs/debug-core.log"}
+{"time":"2025-03-08T18:13:18.938905259+05:30","level":"INFO","msg":"created new stream","id":"fvpmd0wd"}
+{"time":"2025-03-08T18:13:18.938974944+05:30","level":"INFO","msg":"stream: started","id":"fvpmd0wd"}
+{"time":"2025-03-08T18:13:18.939056392+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fvpmd0wd"}
+{"time":"2025-03-08T18:13:18.939067001+05:30","level":"INFO","msg":"handler: started","stream_id":"fvpmd0wd"}
+{"time":"2025-03-08T18:13:18.939147005+05:30","level":"INFO","msg":"sender: started","stream_id":"fvpmd0wd"}
+{"time":"2025-03-08T18:13:19.27662474+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-08T18:13:19.561804548+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T18:16:14.514967123+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T18:16:14.555738763+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T18:16:16.318625457+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T18:16:16.972073549+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T18:16:17.263901443+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T18:16:17.272668297+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T18:16:18.240435263+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T18:16:18.25453947+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T18:16:19.503097435+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T18:16:19.57630175+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T18:16:20.743616294+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T18:16:20.767542097+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-08T18:16:20.769627074+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-08T18:16:21.773148677+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.271398881,"progress":"800B/800B"}],"total_operations":1}}
+{"time":"2025-03-08T18:16:21.862325206+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-08T18:16:23.192995449+05:30","level":"INFO","msg":"stream: closing","id":"fvpmd0wd"}
+{"time":"2025-03-08T18:16:23.193045657+05:30","level":"INFO","msg":"handler: closed","stream_id":"fvpmd0wd"}
+{"time":"2025-03-08T18:16:23.193069439+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fvpmd0wd"}
+{"time":"2025-03-08T18:16:23.193146412+05:30","level":"INFO","msg":"sender: closed","stream_id":"fvpmd0wd"}
+{"time":"2025-03-08T18:16:23.193247349+05:30","level":"INFO","msg":"stream: closed","id":"fvpmd0wd"}

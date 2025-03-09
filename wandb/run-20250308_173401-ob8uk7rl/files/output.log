@@ -1,0 +1,12 @@
+Training Data: (60000, 784), Labels: (60000, 10)
+Test Data: (10000, 784), Labels: (10000, 10)
+Epoch 1/10 - Loss: 0.5727
+Epoch 2/10 - Loss: 0.4077
+Epoch 3/10 - Loss: 0.3661
+Epoch 4/10 - Loss: 0.3398
+Epoch 5/10 - Loss: 0.3210
+Epoch 6/10 - Loss: 0.3069
+Epoch 7/10 - Loss: 0.2947
+Epoch 8/10 - Loss: 0.2835
+Epoch 9/10 - Loss: 0.2759
+Epoch 10/10 - Loss: 0.2671

@@ -1,0 +1,100 @@
+Epoch 1/10 - Loss: 0.5776 - Accuracy: 0.8460
+Epoch 2/10 - Loss: 0.4106 - Accuracy: 0.8492
+Epoch 3/10 - Loss: 0.3718 - Accuracy: 0.8765
+Epoch 4/10 - Loss: 0.3467 - Accuracy: 0.8678
+Epoch 5/10 - Loss: 0.3259 - Accuracy: 0.8911
+Epoch 6/10 - Loss: 0.3100 - Accuracy: 0.8921
+Epoch 7/10 - Loss: 0.2976 - Accuracy: 0.8927
+Epoch 8/10 - Loss: 0.2877 - Accuracy: 0.8986
+Epoch 9/10 - Loss: 0.2777 - Accuracy: 0.9016
+Epoch 10/10 - Loss: 0.2693 - Accuracy: 0.9038
+Test Accuracy: 0.8760
+/tmp/ipykernel_77651/2855654264.py:28: UserWarning: set_ticklabels() should only be used with a fixed number of ticks, i.e. after set_ticks() or using a FixedLocator.
+  axes[row, 1].set_xticklabels(CLASS_NAMES, rotation=45, ha="right")
+/tmp/ipykernel_77651/2855654264.py:28: UserWarning: set_ticklabels() should only be used with a fixed number of ticks, i.e. after set_ticks() or using a FixedLocator.
+  axes[row, 1].set_xticklabels(CLASS_NAMES, rotation=45, ha="right")
+/tmp/ipykernel_77651/2855654264.py:28: UserWarning: set_ticklabels() should only be used with a fixed number of ticks, i.e. after set_ticks() or using a FixedLocator.
+  axes[row, 1].set_xticklabels(CLASS_NAMES, rotation=45, ha="right")
+/tmp/ipykernel_77651/2855654264.py:28: UserWarning: set_ticklabels() should only be used with a fixed number of ticks, i.e. after set_ticks() or using a FixedLocator.
+  axes[row, 1].set_xticklabels(CLASS_NAMES, rotation=45, ha="right")
+/tmp/ipykernel_77651/2855654264.py:28: UserWarning: set_ticklabels() should only be used with a fixed number of ticks, i.e. after set_ticks() or using a FixedLocator.
+  axes[row, 1].set_xticklabels(CLASS_NAMES, rotation=45, ha="right")
+/tmp/ipykernel_77651/2855654264.py:28: UserWarning: set_ticklabels() should only be used with a fixed number of ticks, i.e. after set_ticks() or using a FixedLocator.
+  axes[row, 1].set_xticklabels(CLASS_NAMES, rotation=45, ha="right")
+
+Test Image 25 Probability Distribution:
+T-shirt/top: 0.0010
+Trouser: 0.0000
+Pullover: 0.8412
+Dress: 0.0000
+Coat: 0.1183
+Sandal: 0.0000
+Shirt: 0.0395
+Sneaker: 0.0000
+Bag: 0.0000
+Ankle boot: 0.0000
+
+
+Test Image 1 Probability Distribution:
+T-shirt/top: 0.0000
+Trouser: 0.0000
+Pullover: 0.9905
+Dress: 0.0000
+Coat: 0.0093
+Sandal: 0.0000
+Shirt: 0.0002
+Sneaker: 0.0000
+Bag: 0.0000
+Ankle boot: 0.0000
+
+
+Test Image 45 Probability Distribution:
+T-shirt/top: 0.0000
+Trouser: 0.0000
+Pullover: 0.0000
+Dress: 0.0000
+Coat: 0.0000
+Sandal: 0.0364
+Shirt: 0.0000
+Sneaker: 0.9293
+Bag: 0.0001
+Ankle boot: 0.0342
+
+
+Test Image 80 Probability Distribution:
+T-shirt/top: 0.0004
+Trouser: 0.9991
+Pullover: 0.0001
+Dress: 0.0001
+Coat: 0.0002
+Sandal: 0.0000
+Shirt: 0.0000
+Sneaker: 0.0000
+Bag: 0.0000
+Ankle boot: 0.0000
+
+
+Test Image 980 Probability Distribution:
+T-shirt/top: 0.0000
+Trouser: 0.0000
+Pullover: 0.0000
+Dress: 0.0000
+Coat: 0.0000
+Sandal: 0.0000
+Shirt: 0.0000
+Sneaker: 0.0005
+Bag: 0.0000
+Ankle boot: 0.9995
+
+
+Test Image 6 Probability Distribution:
+T-shirt/top: 0.0000
+Trouser: 0.0000
+Pullover: 0.0079
+Dress: 0.0000
+Coat: 0.9906
+Sandal: 0.0000
+Shirt: 0.0015
+Sneaker: 0.0000
+Bag: 0.0000
+Ankle boot: 0.0000

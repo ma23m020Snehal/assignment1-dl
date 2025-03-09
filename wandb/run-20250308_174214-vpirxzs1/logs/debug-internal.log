@@ -1,0 +1,28 @@
+{"time":"2025-03-08T17:42:14.998681185+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250308_174214-vpirxzs1/logs/debug-core.log"}
+{"time":"2025-03-08T17:42:15.104447773+05:30","level":"INFO","msg":"created new stream","id":"vpirxzs1"}
+{"time":"2025-03-08T17:42:15.104482131+05:30","level":"INFO","msg":"stream: started","id":"vpirxzs1"}
+{"time":"2025-03-08T17:42:15.104565563+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vpirxzs1"}
+{"time":"2025-03-08T17:42:15.104627027+05:30","level":"INFO","msg":"handler: started","stream_id":"vpirxzs1"}
+{"time":"2025-03-08T17:42:15.104663038+05:30","level":"INFO","msg":"sender: started","stream_id":"vpirxzs1"}
+{"time":"2025-03-08T17:42:15.831668607+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-08T17:42:48.813359062+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T17:44:05.524934279+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T17:44:35.777573003+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T17:44:35.79571152+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T17:44:35.801006512+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T17:44:35.811990529+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T17:44:35.822659076+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T17:44:35.830746892+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T17:44:35.84303981+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T17:44:51.041341871+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T17:45:23.473902079+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T17:45:24.709633726+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T17:45:25.239728305+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-08T17:45:25.240230503+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-08T17:45:26.24328456+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-vpirxzs1-sample_prob_distributions","runtime_seconds":1.090667113},{"desc":"uploading media/table/sample_prob_distributions_33_75f7c42098ec63e7aeec.table.json","runtime_seconds":0.733125174,"progress":"2.4KB/2.4KB"},{"desc":"uploading output.log","runtime_seconds":0.370408314,"progress":"2.5KB/2.5KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.370378628,"progress":"859B/859B"}],"total_operations":4}}
+{"time":"2025-03-08T17:45:28.67472804+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-08T17:45:30.061553022+05:30","level":"INFO","msg":"stream: closing","id":"vpirxzs1"}
+{"time":"2025-03-08T17:45:30.061632079+05:30","level":"INFO","msg":"handler: closed","stream_id":"vpirxzs1"}
+{"time":"2025-03-08T17:45:30.061679534+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vpirxzs1"}
+{"time":"2025-03-08T17:45:30.061751475+05:30","level":"INFO","msg":"sender: closed","stream_id":"vpirxzs1"}
+{"time":"2025-03-08T17:45:30.061804596+05:30","level":"INFO","msg":"stream: closed","id":"vpirxzs1"}

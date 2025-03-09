@@ -1,0 +1,13 @@
+
+Starting training with optimizer: Nesterov
+Nesterov | Epoch 1/10 - Loss: 0.5341 - Train Accuracy: 0.8607
+Nesterov | Epoch 2/10 - Loss: 0.3903 - Train Accuracy: 0.8722
+Nesterov | Epoch 3/10 - Loss: 0.3527 - Train Accuracy: 0.8840
+Nesterov | Epoch 4/10 - Loss: 0.3314 - Train Accuracy: 0.8832
+Nesterov | Epoch 5/10 - Loss: 0.3137 - Train Accuracy: 0.8802
+Nesterov | Epoch 6/10 - Loss: 0.2999 - Train Accuracy: 0.8924
+Nesterov | Epoch 7/10 - Loss: 0.2880 - Train Accuracy: 0.9002
+Nesterov | Epoch 8/10 - Loss: 0.2763 - Train Accuracy: 0.8949
+Nesterov | Epoch 9/10 - Loss: 0.2674 - Train Accuracy: 0.9046
+Nesterov | Epoch 10/10 - Loss: 0.2572 - Train Accuracy: 0.9124
+Nesterov | Test Accuracy: 0.8767

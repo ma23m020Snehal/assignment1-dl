@@ -1,0 +1,16 @@
+{"time":"2025-03-08T18:40:43.762053576+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250308_184043-s6hutv77/logs/debug-core.log"}
+{"time":"2025-03-08T18:40:43.870504816+05:30","level":"INFO","msg":"created new stream","id":"s6hutv77"}
+{"time":"2025-03-08T18:40:43.870568179+05:30","level":"INFO","msg":"stream: started","id":"s6hutv77"}
+{"time":"2025-03-08T18:40:43.870666699+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"s6hutv77"}
+{"time":"2025-03-08T18:40:43.870678572+05:30","level":"INFO","msg":"handler: started","stream_id":"s6hutv77"}
+{"time":"2025-03-08T18:40:43.870732887+05:30","level":"INFO","msg":"sender: started","stream_id":"s6hutv77"}
+{"time":"2025-03-08T18:40:44.213904478+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-08T18:40:44.67530666+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-08T18:40:44.676834272+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-08T18:40:45.649448411+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":1.120872232,"progress":"856B/856B"},{"desc":"uploading requirements.txt","runtime_seconds":1.0240979,"progress":"1.5KB/1.5KB"},{"desc":"uploading artifact run-s6hutv77-OptimizerComparison","runtime_seconds":0.671859275},{"desc":"uploading wandb-summary.json","runtime_seconds":0.355548008,"progress":"743B/743B"},{"desc":"uploading media/table/Optimizer Comparison_0_5cc4c3a8df3e3f23a6a1.table.json","runtime_seconds":0.355524298,"progress":"421B/421B"},{"desc":"uploading output.log","runtime_seconds":0.355518768},{"desc":"uploading config.yaml","runtime_seconds":0.070370952,"progress":"602B/602B"}],"total_operations":7}}
+{"time":"2025-03-08T18:40:47.483057589+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-08T18:40:48.856282272+05:30","level":"INFO","msg":"stream: closing","id":"s6hutv77"}
+{"time":"2025-03-08T18:40:48.856318338+05:30","level":"INFO","msg":"handler: closed","stream_id":"s6hutv77"}
+{"time":"2025-03-08T18:40:48.856336223+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"s6hutv77"}
+{"time":"2025-03-08T18:40:48.856362423+05:30","level":"INFO","msg":"sender: closed","stream_id":"s6hutv77"}
+{"time":"2025-03-08T18:40:48.856483949+05:30","level":"INFO","msg":"stream: closed","id":"s6hutv77"}

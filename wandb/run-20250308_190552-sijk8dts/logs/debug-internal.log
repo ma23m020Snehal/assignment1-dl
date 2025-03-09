@@ -1,0 +1,16 @@
+{"time":"2025-03-08T19:05:52.941668254+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250308_190552-sijk8dts/logs/debug-core.log"}
+{"time":"2025-03-08T19:05:53.049782349+05:30","level":"INFO","msg":"created new stream","id":"sijk8dts"}
+{"time":"2025-03-08T19:05:53.049858023+05:30","level":"INFO","msg":"stream: started","id":"sijk8dts"}
+{"time":"2025-03-08T19:05:53.049958166+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"sijk8dts"}
+{"time":"2025-03-08T19:05:53.049981173+05:30","level":"INFO","msg":"sender: started","stream_id":"sijk8dts"}
+{"time":"2025-03-08T19:05:53.050079402+05:30","level":"INFO","msg":"handler: started","stream_id":"sijk8dts"}
+{"time":"2025-03-08T19:05:53.699181434+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-08T19:06:11.173517099+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-08T19:06:11.174307289+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-08T19:06:12.178561043+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.309164349,"progress":"219B/219B"},{"desc":"uploading output.log","runtime_seconds":0.309135655,"progress":"70B/70B"}],"total_operations":2}}
+{"time":"2025-03-08T19:06:12.724600033+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-08T19:06:14.084323258+05:30","level":"INFO","msg":"stream: closing","id":"sijk8dts"}
+{"time":"2025-03-08T19:06:14.084360984+05:30","level":"INFO","msg":"handler: closed","stream_id":"sijk8dts"}
+{"time":"2025-03-08T19:06:14.084378831+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"sijk8dts"}
+{"time":"2025-03-08T19:06:14.084457739+05:30","level":"INFO","msg":"sender: closed","stream_id":"sijk8dts"}
+{"time":"2025-03-08T19:06:14.084495629+05:30","level":"INFO","msg":"stream: closed","id":"sijk8dts"}

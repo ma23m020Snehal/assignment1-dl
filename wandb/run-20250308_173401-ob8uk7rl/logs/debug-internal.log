@@ -1,0 +1,22 @@
+{"time":"2025-03-08T17:34:01.634355822+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250308_173401-ob8uk7rl/logs/debug-core.log"}
+{"time":"2025-03-08T17:34:01.738639992+05:30","level":"INFO","msg":"created new stream","id":"ob8uk7rl"}
+{"time":"2025-03-08T17:34:01.738689228+05:30","level":"INFO","msg":"stream: started","id":"ob8uk7rl"}
+{"time":"2025-03-08T17:34:01.73875123+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ob8uk7rl"}
+{"time":"2025-03-08T17:34:01.738797935+05:30","level":"INFO","msg":"handler: started","stream_id":"ob8uk7rl"}
+{"time":"2025-03-08T17:34:01.738822501+05:30","level":"INFO","msg":"sender: started","stream_id":"ob8uk7rl"}
+{"time":"2025-03-08T17:34:02.225892213+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-08T17:34:02.597106339+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T17:34:46.159565061+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T17:34:46.646816916+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T17:34:47.206109397+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T17:34:47.214752522+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T17:34:48.192710266+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T17:35:04.373132878+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-08T17:35:04.374530126+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-08T17:35:05.377655963+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.315527844,"progress":"623B/623B"}],"total_operations":1}}
+{"time":"2025-03-08T17:35:05.461625882+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-08T17:35:06.891355142+05:30","level":"INFO","msg":"stream: closing","id":"ob8uk7rl"}
+{"time":"2025-03-08T17:35:06.891393008+05:30","level":"INFO","msg":"handler: closed","stream_id":"ob8uk7rl"}
+{"time":"2025-03-08T17:35:06.891411658+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ob8uk7rl"}
+{"time":"2025-03-08T17:35:06.891460984+05:30","level":"INFO","msg":"sender: closed","stream_id":"ob8uk7rl"}
+{"time":"2025-03-08T17:35:06.891510858+05:30","level":"INFO","msg":"stream: closed","id":"ob8uk7rl"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-08T18:36:34.832536655+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250308_183634-vh40m45c/logs/debug-core.log"}
+{"time":"2025-03-08T18:36:34.939392679+05:30","level":"INFO","msg":"created new stream","id":"vh40m45c"}
+{"time":"2025-03-08T18:36:34.939433731+05:30","level":"INFO","msg":"stream: started","id":"vh40m45c"}
+{"time":"2025-03-08T18:36:34.939514265+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vh40m45c"}
+{"time":"2025-03-08T18:36:34.939613767+05:30","level":"INFO","msg":"handler: started","stream_id":"vh40m45c"}
+{"time":"2025-03-08T18:36:34.939673685+05:30","level":"INFO","msg":"sender: started","stream_id":"vh40m45c"}
+{"time":"2025-03-08T18:36:35.332721304+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-08T18:37:03.826560898+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-08T18:37:03.827104474+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-08T18:37:04.832983849+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.012880293,"progress":"779B/779B"}],"total_operations":1}}
+{"time":"2025-03-08T18:37:05.223965746+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-08T18:37:06.910875059+05:30","level":"INFO","msg":"stream: closing","id":"vh40m45c"}
+{"time":"2025-03-08T18:37:06.910941547+05:30","level":"INFO","msg":"handler: closed","stream_id":"vh40m45c"}
+{"time":"2025-03-08T18:37:06.910983257+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vh40m45c"}
+{"time":"2025-03-08T18:37:06.911014026+05:30","level":"INFO","msg":"sender: closed","stream_id":"vh40m45c"}
+{"time":"2025-03-08T18:37:06.911134805+05:30","level":"INFO","msg":"stream: closed","id":"vh40m45c"}

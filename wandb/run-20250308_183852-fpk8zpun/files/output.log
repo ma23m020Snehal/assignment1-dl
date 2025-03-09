@@ -1,0 +1,13 @@
+
+Starting training with optimizer: Adam
+Adam | Epoch 1/10 - Loss: 0.5090 - Train Accuracy: 0.8598
+Adam | Epoch 2/10 - Loss: 0.3731 - Train Accuracy: 0.8804
+Adam | Epoch 3/10 - Loss: 0.3373 - Train Accuracy: 0.8792
+Adam | Epoch 4/10 - Loss: 0.3123 - Train Accuracy: 0.8971
+Adam | Epoch 5/10 - Loss: 0.2938 - Train Accuracy: 0.8869
+Adam | Epoch 6/10 - Loss: 0.2818 - Train Accuracy: 0.8988
+Adam | Epoch 7/10 - Loss: 0.2684 - Train Accuracy: 0.8975
+Adam | Epoch 8/10 - Loss: 0.2575 - Train Accuracy: 0.9119
+Adam | Epoch 9/10 - Loss: 0.2497 - Train Accuracy: 0.9147
+Adam | Epoch 10/10 - Loss: 0.2406 - Train Accuracy: 0.9172
+Adam | Test Accuracy: 0.8845

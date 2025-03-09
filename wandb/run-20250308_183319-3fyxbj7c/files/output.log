@@ -1,0 +1,13 @@
+
+Starting training with optimizer: RMSProp
+RMSProp | Epoch 1/10 - Loss: 0.5264 - Train Accuracy: 0.8478
+RMSProp | Epoch 2/10 - Loss: 0.3784 - Train Accuracy: 0.8728
+RMSProp | Epoch 3/10 - Loss: 0.3426 - Train Accuracy: 0.8765
+RMSProp | Epoch 4/10 - Loss: 0.3182 - Train Accuracy: 0.8714
+RMSProp | Epoch 5/10 - Loss: 0.3027 - Train Accuracy: 0.9018
+RMSProp | Epoch 6/10 - Loss: 0.2903 - Train Accuracy: 0.8983
+RMSProp | Epoch 7/10 - Loss: 0.2792 - Train Accuracy: 0.9073
+RMSProp | Epoch 8/10 - Loss: 0.2710 - Train Accuracy: 0.9113
+RMSProp | Epoch 9/10 - Loss: 0.2649 - Train Accuracy: 0.9069
+RMSProp | Epoch 10/10 - Loss: 0.2591 - Train Accuracy: 0.8892
+RMSProp | Test Accuracy: 0.8599

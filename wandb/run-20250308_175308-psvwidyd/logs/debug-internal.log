@@ -1,0 +1,20 @@
+{"time":"2025-03-08T17:53:08.104360494+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250308_175308-psvwidyd/logs/debug-core.log"}
+{"time":"2025-03-08T17:53:08.210516804+05:30","level":"INFO","msg":"created new stream","id":"psvwidyd"}
+{"time":"2025-03-08T17:53:08.210567736+05:30","level":"INFO","msg":"stream: started","id":"psvwidyd"}
+{"time":"2025-03-08T17:53:08.210585484+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"psvwidyd"}
+{"time":"2025-03-08T17:53:08.210647534+05:30","level":"INFO","msg":"handler: started","stream_id":"psvwidyd"}
+{"time":"2025-03-08T17:53:08.210665148+05:30","level":"INFO","msg":"sender: started","stream_id":"psvwidyd"}
+{"time":"2025-03-08T17:53:08.998437903+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-08T17:53:38.590940202+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T17:53:38.602931153+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T17:53:39.875937755+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-08T17:53:56.75013805+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-08T17:53:57.765158268+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-08T17:53:57.766180427+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-08T17:53:58.771105364+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-psvwidyd-sample_prob_distributions","runtime_seconds":1.01472067},{"desc":"uploading output.log","runtime_seconds":0.207561825,"progress":"3.0KB/3.0KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.207534184,"progress":"845B/845B"}],"total_operations":3}}
+{"time":"2025-03-08T17:54:01.578683412+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-08T17:54:02.906765918+05:30","level":"INFO","msg":"stream: closing","id":"psvwidyd"}
+{"time":"2025-03-08T17:54:02.906824049+05:30","level":"INFO","msg":"handler: closed","stream_id":"psvwidyd"}
+{"time":"2025-03-08T17:54:02.906845266+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"psvwidyd"}
+{"time":"2025-03-08T17:54:02.906893831+05:30","level":"INFO","msg":"sender: closed","stream_id":"psvwidyd"}
+{"time":"2025-03-08T17:54:02.906964957+05:30","level":"INFO","msg":"stream: closed","id":"psvwidyd"}
