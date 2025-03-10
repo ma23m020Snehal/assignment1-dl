@@ -1,0 +1,53 @@
+2025-03-10 12:33:44,190 INFO    MainThread:140707 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_123344-rfq77a46/logs/debug.log
+2025-03-10 12:33:44,190 INFO    MainThread:140707 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_123344-rfq77a46/logs/debug-internal.log
+2025-03-10 12:33:44,190 INFO    MainThread:140707 [wandb_init.py:init():761] calling init triggers
+2025-03-10 12:33:44,190 INFO    MainThread:140707 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation_function': 'relu', 'batch_size': 16, 'epochs': 15, 'hidden_layer_size': 128, 'learning_rate': 0.001, 'num_hidden_layers': 3, 'optimizer': 'nadam', 'weight_decay': 0.0005, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-10 12:33:44,190 INFO    MainThread:140707 [wandb_init.py:init():773] finishing previous run: rfq77a46
+2025-03-10 12:33:44,190 INFO    MainThread:140707 [wandb_run.py:_finish():2112] finishing run snehalma23m020-iit-madras/DLassignment1/rfq77a46
+2025-03-10 12:33:44,191 ERROR   MainThread:140707 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-03-10 12:33:44,191 INFO    MainThread:140707 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-10 12:33:44,191 INFO    MainThread:140707 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-10 12:33:44,191 INFO    MainThread:140707 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 0
+2025-03-10 12:33:44,191 INFO    MainThread:140707 [wandb_run.py:_restore():2324] restore
+2025-03-10 12:33:44,191 INFO    MainThread:140707 [wandb_run.py:_restore():2330] restore done
+2025-03-10 12:35:47,220 INFO    Thread-535 (_run_job):140707 [wandb_run.py:_finish():2112] finishing run snehalma23m020-iit-madras/DLassignment1/rfq77a46
+2025-03-10 12:35:47,221 ERROR   Thread-535 (_run_job):140707 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-03-10 12:35:47,221 INFO    Thread-535 (_run_job):140707 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-10 12:35:47,221 INFO    Thread-535 (_run_job):140707 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-10 12:36:33,713 WARNING MainThread:140707 [wandb_init.py:init():1475] interrupted
+Traceback (most recent call last):
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 774, in init
+    wandb.run.finish()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 449, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 391, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 2106, in finish
+    return self._finish(exit_code)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 2127, in _finish
+    self._atexit_cleanup(exit_code=exit_code)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 2354, in _atexit_cleanup
+    self._on_finish()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 2611, in _on_finish
+    wait_with_progress(
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/mailbox/wait_with_progress.py", line 23, in wait_with_progress
+    return wait_all_with_progress(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/mailbox/wait_with_progress.py", line 86, in wait_all_with_progress
+    return asyncio_compat.run(progress_loop_with_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/asyncio_compat.py", line 30, in run
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/concurrent/futures/_base.py", line 451, in result
+    self._condition.wait(timeout)
+  File "/usr/lib/python3.12/threading.py", line 355, in wait
+    waiter.acquire()
+KeyboardInterrupt

@@ -1,0 +1,18 @@
+{"time":"2025-03-10T08:48:52.539357481+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_084852-5tmkkshn/logs/debug-core.log"}
+{"time":"2025-03-10T08:48:52.646879564+05:30","level":"INFO","msg":"created new stream","id":"5tmkkshn"}
+{"time":"2025-03-10T08:48:52.646954748+05:30","level":"INFO","msg":"stream: started","id":"5tmkkshn"}
+{"time":"2025-03-10T08:48:52.647184612+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5tmkkshn"}
+{"time":"2025-03-10T08:48:52.647231183+05:30","level":"INFO","msg":"handler: started","stream_id":"5tmkkshn"}
+{"time":"2025-03-10T08:48:52.647315007+05:30","level":"INFO","msg":"sender: started","stream_id":"5tmkkshn"}
+{"time":"2025-03-10T08:48:53.291441135+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T09:16:01.707310195+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/snehalma23m020-iit-madras/DLassignment1/5tmkkshn/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-03-10T09:16:09.346906304+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.137.214:52050->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-10T09:28:02.918479195+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T09:28:02.939295233+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T09:28:03.884350426+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.07848705}],"total_operations":1}}
+{"time":"2025-03-10T09:28:04.770360259+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T09:28:06.126601069+05:30","level":"INFO","msg":"stream: closing","id":"5tmkkshn"}
+{"time":"2025-03-10T09:28:06.126638751+05:30","level":"INFO","msg":"handler: closed","stream_id":"5tmkkshn"}
+{"time":"2025-03-10T09:28:06.126658636+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5tmkkshn"}
+{"time":"2025-03-10T09:28:06.126705069+05:30","level":"INFO","msg":"sender: closed","stream_id":"5tmkkshn"}
+{"time":"2025-03-10T09:28:06.126777677+05:30","level":"INFO","msg":"stream: closed","id":"5tmkkshn"}

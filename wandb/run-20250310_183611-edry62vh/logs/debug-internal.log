@@ -1,0 +1,16 @@
+{"time":"2025-03-10T18:36:11.3623871+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_183611-edry62vh/logs/debug-core.log"}
+{"time":"2025-03-10T18:36:11.467235779+05:30","level":"INFO","msg":"created new stream","id":"edry62vh"}
+{"time":"2025-03-10T18:36:11.467287141+05:30","level":"INFO","msg":"stream: started","id":"edry62vh"}
+{"time":"2025-03-10T18:36:11.467346831+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"edry62vh"}
+{"time":"2025-03-10T18:36:11.467388719+05:30","level":"INFO","msg":"handler: started","stream_id":"edry62vh"}
+{"time":"2025-03-10T18:36:11.46746101+05:30","level":"INFO","msg":"sender: started","stream_id":"edry62vh"}
+{"time":"2025-03-10T18:36:11.81185193+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T18:37:00.639774009+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T18:37:00.640614832+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T18:37:01.646092915+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-03-10T18:37:02.290648895+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T18:37:04.077463784+05:30","level":"INFO","msg":"stream: closing","id":"edry62vh"}
+{"time":"2025-03-10T18:37:04.077483736+05:30","level":"INFO","msg":"handler: closed","stream_id":"edry62vh"}
+{"time":"2025-03-10T18:37:04.077494104+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"edry62vh"}
+{"time":"2025-03-10T18:37:04.077553416+05:30","level":"INFO","msg":"sender: closed","stream_id":"edry62vh"}
+{"time":"2025-03-10T18:37:04.07757255+05:30","level":"INFO","msg":"stream: closed","id":"edry62vh"}

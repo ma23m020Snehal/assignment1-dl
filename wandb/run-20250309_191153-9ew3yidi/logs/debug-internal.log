@@ -1,0 +1,32 @@
+{"time":"2025-03-09T19:11:53.851791309+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_191153-9ew3yidi/logs/debug-core.log"}
+{"time":"2025-03-09T19:11:53.955141315+05:30","level":"INFO","msg":"created new stream","id":"9ew3yidi"}
+{"time":"2025-03-09T19:11:53.955165499+05:30","level":"INFO","msg":"stream: started","id":"9ew3yidi"}
+{"time":"2025-03-09T19:11:53.95522205+05:30","level":"INFO","msg":"handler: started","stream_id":"9ew3yidi"}
+{"time":"2025-03-09T19:11:53.955219926+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9ew3yidi"}
+{"time":"2025-03-09T19:11:53.955223608+05:30","level":"INFO","msg":"sender: started","stream_id":"9ew3yidi"}
+{"time":"2025-03-09T19:11:54.586162928+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T19:11:54.746306646+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T19:11:58.85958028+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T19:11:58.874931993+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T19:11:59.24022251+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T19:11:59.243039859+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T19:11:59.608290744+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T19:11:59.627331069+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T19:12:08.205151218+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T19:12:08.431240805+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T19:12:13.119069586+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T19:12:13.240991828+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T19:12:13.908744527+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T19:12:13.910902715+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T19:12:14.498157435+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T19:13:19.203440471+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T19:13:19.222101793+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T19:13:21.202857603+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T19:13:21.203995278+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T19:13:22.207730446+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-9ew3yidi-sample_prob_distributions","runtime_seconds":1.6787248639999999},{"desc":"uploading output.log","runtime_seconds":0.359365178,"progress":"2.1KB/2.1KB"},{"desc":"uploading config.yaml","runtime_seconds":0.064092352,"progress":"623B/623B"}],"total_operations":3}}
+{"time":"2025-03-09T19:13:23.280697007+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T19:13:24.627882997+05:30","level":"INFO","msg":"stream: closing","id":"9ew3yidi"}
+{"time":"2025-03-09T19:13:24.627905115+05:30","level":"INFO","msg":"handler: closed","stream_id":"9ew3yidi"}
+{"time":"2025-03-09T19:13:24.62791493+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9ew3yidi"}
+{"time":"2025-03-09T19:13:24.627975945+05:30","level":"INFO","msg":"sender: closed","stream_id":"9ew3yidi"}
+{"time":"2025-03-09T19:13:24.628015254+05:30","level":"INFO","msg":"stream: closed","id":"9ew3yidi"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-10T18:49:44.555214264+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_184944-hi5hk7lv/logs/debug-core.log"}
+{"time":"2025-03-10T18:49:44.659579499+05:30","level":"INFO","msg":"created new stream","id":"hi5hk7lv"}
+{"time":"2025-03-10T18:49:44.659625648+05:30","level":"INFO","msg":"stream: started","id":"hi5hk7lv"}
+{"time":"2025-03-10T18:49:44.659740891+05:30","level":"INFO","msg":"handler: started","stream_id":"hi5hk7lv"}
+{"time":"2025-03-10T18:49:44.659825872+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hi5hk7lv"}
+{"time":"2025-03-10T18:49:44.659844435+05:30","level":"INFO","msg":"sender: started","stream_id":"hi5hk7lv"}
+{"time":"2025-03-10T18:49:45.173988023+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T18:50:02.204318191+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T18:50:02.204969576+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T18:50:03.207410979+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.382365288,"progress":"223B/223B"},{"desc":"uploading config.yaml","runtime_seconds":0.110055276,"progress":"890B/890B"}],"total_operations":2}}
+{"time":"2025-03-10T18:50:03.45039234+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T18:50:04.809842027+05:30","level":"INFO","msg":"stream: closing","id":"hi5hk7lv"}
+{"time":"2025-03-10T18:50:04.809893173+05:30","level":"INFO","msg":"handler: closed","stream_id":"hi5hk7lv"}
+{"time":"2025-03-10T18:50:04.809912868+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hi5hk7lv"}
+{"time":"2025-03-10T18:50:04.809945455+05:30","level":"INFO","msg":"sender: closed","stream_id":"hi5hk7lv"}
+{"time":"2025-03-10T18:50:04.810069316+05:30","level":"INFO","msg":"stream: closed","id":"hi5hk7lv"}

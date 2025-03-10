@@ -1,0 +1,16 @@
+{"time":"2025-03-10T16:07:28.657770358+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_160728-raginzxc/logs/debug-core.log"}
+{"time":"2025-03-10T16:07:28.760146737+05:30","level":"INFO","msg":"created new stream","id":"raginzxc"}
+{"time":"2025-03-10T16:07:28.76016817+05:30","level":"INFO","msg":"stream: started","id":"raginzxc"}
+{"time":"2025-03-10T16:07:28.76020136+05:30","level":"INFO","msg":"sender: started","stream_id":"raginzxc"}
+{"time":"2025-03-10T16:07:28.760186668+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"raginzxc"}
+{"time":"2025-03-10T16:07:28.760223039+05:30","level":"INFO","msg":"handler: started","stream_id":"raginzxc"}
+{"time":"2025-03-10T16:07:29.252186716+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T16:08:23.793661415+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T16:08:23.794170868+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T16:08:24.798509428+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.095164091}],"total_operations":1}}
+{"time":"2025-03-10T16:08:26.857706779+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T16:08:28.385309452+05:30","level":"INFO","msg":"stream: closing","id":"raginzxc"}
+{"time":"2025-03-10T16:08:28.385329288+05:30","level":"INFO","msg":"handler: closed","stream_id":"raginzxc"}
+{"time":"2025-03-10T16:08:28.385337968+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"raginzxc"}
+{"time":"2025-03-10T16:08:28.385347044+05:30","level":"INFO","msg":"sender: closed","stream_id":"raginzxc"}
+{"time":"2025-03-10T16:08:28.385398639+05:30","level":"INFO","msg":"stream: closed","id":"raginzxc"}

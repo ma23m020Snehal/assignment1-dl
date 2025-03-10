@@ -1,0 +1,16 @@
+{"time":"2025-03-09T18:50:41.277322707+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_185041-ets28qbu/logs/debug-core.log"}
+{"time":"2025-03-09T18:50:41.380043056+05:30","level":"INFO","msg":"created new stream","id":"ets28qbu"}
+{"time":"2025-03-09T18:50:41.38007056+05:30","level":"INFO","msg":"stream: started","id":"ets28qbu"}
+{"time":"2025-03-09T18:50:41.380132378+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ets28qbu"}
+{"time":"2025-03-09T18:50:41.380161886+05:30","level":"INFO","msg":"sender: started","stream_id":"ets28qbu"}
+{"time":"2025-03-09T18:50:41.380273229+05:30","level":"INFO","msg":"handler: started","stream_id":"ets28qbu"}
+{"time":"2025-03-09T18:50:41.714139239+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T18:50:58.585810249+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T18:50:58.586530707+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T18:50:59.589578627+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.352041853,"progress":"70B/70B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.352031873,"progress":"210B/210B"}],"total_operations":2}}
+{"time":"2025-03-09T18:51:00.200539262+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T18:51:01.569305765+05:30","level":"INFO","msg":"stream: closing","id":"ets28qbu"}
+{"time":"2025-03-09T18:51:01.56933332+05:30","level":"INFO","msg":"handler: closed","stream_id":"ets28qbu"}
+{"time":"2025-03-09T18:51:01.569344669+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ets28qbu"}
+{"time":"2025-03-09T18:51:01.569353988+05:30","level":"INFO","msg":"sender: closed","stream_id":"ets28qbu"}
+{"time":"2025-03-09T18:51:01.569419871+05:30","level":"INFO","msg":"stream: closed","id":"ets28qbu"}

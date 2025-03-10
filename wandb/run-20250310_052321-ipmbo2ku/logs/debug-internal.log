@@ -1,0 +1,16 @@
+{"time":"2025-03-10T05:23:21.577741391+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_052321-ipmbo2ku/logs/debug-core.log"}
+{"time":"2025-03-10T05:23:21.68119924+05:30","level":"INFO","msg":"created new stream","id":"ipmbo2ku"}
+{"time":"2025-03-10T05:23:21.68129168+05:30","level":"INFO","msg":"stream: started","id":"ipmbo2ku"}
+{"time":"2025-03-10T05:23:21.681442988+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ipmbo2ku"}
+{"time":"2025-03-10T05:23:21.681509412+05:30","level":"INFO","msg":"handler: started","stream_id":"ipmbo2ku"}
+{"time":"2025-03-10T05:23:21.681573775+05:30","level":"INFO","msg":"sender: started","stream_id":"ipmbo2ku"}
+{"time":"2025-03-10T05:23:22.020407896+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T05:24:43.100199537+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T05:24:43.100947481+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T05:24:44.106535402+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.100510286}],"total_operations":1}}
+{"time":"2025-03-10T05:24:45.90671859+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T05:24:47.357282027+05:30","level":"INFO","msg":"stream: closing","id":"ipmbo2ku"}
+{"time":"2025-03-10T05:24:47.357316882+05:30","level":"INFO","msg":"handler: closed","stream_id":"ipmbo2ku"}
+{"time":"2025-03-10T05:24:47.357335877+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ipmbo2ku"}
+{"time":"2025-03-10T05:24:47.357429763+05:30","level":"INFO","msg":"sender: closed","stream_id":"ipmbo2ku"}
+{"time":"2025-03-10T05:24:47.357503725+05:30","level":"INFO","msg":"stream: closed","id":"ipmbo2ku"}

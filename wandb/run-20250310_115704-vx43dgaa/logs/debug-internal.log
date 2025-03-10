@@ -1,0 +1,16 @@
+{"time":"2025-03-10T11:57:04.18342792+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_115704-vx43dgaa/logs/debug-core.log"}
+{"time":"2025-03-10T11:57:04.291501851+05:30","level":"INFO","msg":"created new stream","id":"vx43dgaa"}
+{"time":"2025-03-10T11:57:04.291583235+05:30","level":"INFO","msg":"stream: started","id":"vx43dgaa"}
+{"time":"2025-03-10T11:57:04.291750278+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vx43dgaa"}
+{"time":"2025-03-10T11:57:04.291868428+05:30","level":"INFO","msg":"sender: started","stream_id":"vx43dgaa"}
+{"time":"2025-03-10T11:57:04.291917309+05:30","level":"INFO","msg":"handler: started","stream_id":"vx43dgaa"}
+{"time":"2025-03-10T11:57:04.703025708+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T11:58:49.251400301+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T11:58:49.252033333+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T11:58:50.2609761+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"creating run","runtime_seconds":0.559684933}],"total_operations":1}}
+{"time":"2025-03-10T11:58:52.135826211+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T11:58:53.48625452+05:30","level":"INFO","msg":"stream: closing","id":"vx43dgaa"}
+{"time":"2025-03-10T11:58:53.48628705+05:30","level":"INFO","msg":"handler: closed","stream_id":"vx43dgaa"}
+{"time":"2025-03-10T11:58:53.4863048+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vx43dgaa"}
+{"time":"2025-03-10T11:58:53.48638767+05:30","level":"INFO","msg":"sender: closed","stream_id":"vx43dgaa"}
+{"time":"2025-03-10T11:58:53.486468061+05:30","level":"INFO","msg":"stream: closed","id":"vx43dgaa"}

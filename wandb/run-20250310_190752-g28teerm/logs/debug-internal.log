@@ -1,0 +1,16 @@
+{"time":"2025-03-10T19:07:52.574942667+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_190752-g28teerm/logs/debug-core.log"}
+{"time":"2025-03-10T19:07:52.681074553+05:30","level":"INFO","msg":"created new stream","id":"g28teerm"}
+{"time":"2025-03-10T19:07:52.681109172+05:30","level":"INFO","msg":"stream: started","id":"g28teerm"}
+{"time":"2025-03-10T19:07:52.681181532+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"g28teerm"}
+{"time":"2025-03-10T19:07:52.68127991+05:30","level":"INFO","msg":"sender: started","stream_id":"g28teerm"}
+{"time":"2025-03-10T19:07:52.681386534+05:30","level":"INFO","msg":"handler: started","stream_id":"g28teerm"}
+{"time":"2025-03-10T19:07:53.087481941+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T19:08:33.348018681+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T19:08:33.349238735+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T19:08:34.355584705+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.307787463}],"total_operations":1}}
+{"time":"2025-03-10T19:08:35.290472809+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T19:08:36.713111089+05:30","level":"INFO","msg":"stream: closing","id":"g28teerm"}
+{"time":"2025-03-10T19:08:36.713184396+05:30","level":"INFO","msg":"handler: closed","stream_id":"g28teerm"}
+{"time":"2025-03-10T19:08:36.713226144+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"g28teerm"}
+{"time":"2025-03-10T19:08:36.713247483+05:30","level":"INFO","msg":"sender: closed","stream_id":"g28teerm"}
+{"time":"2025-03-10T19:08:36.713349011+05:30","level":"INFO","msg":"stream: closed","id":"g28teerm"}

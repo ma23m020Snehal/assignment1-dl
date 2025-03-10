@@ -1,0 +1,16 @@
+{"time":"2025-03-10T17:00:59.798217325+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_170059-ovukjlpo/logs/debug-core.log"}
+{"time":"2025-03-10T17:00:59.901432799+05:30","level":"INFO","msg":"created new stream","id":"ovukjlpo"}
+{"time":"2025-03-10T17:00:59.901489991+05:30","level":"INFO","msg":"stream: started","id":"ovukjlpo"}
+{"time":"2025-03-10T17:00:59.901639495+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ovukjlpo"}
+{"time":"2025-03-10T17:00:59.901656019+05:30","level":"INFO","msg":"sender: started","stream_id":"ovukjlpo"}
+{"time":"2025-03-10T17:00:59.901810434+05:30","level":"INFO","msg":"handler: started","stream_id":"ovukjlpo"}
+{"time":"2025-03-10T17:01:00.266232427+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T17:01:09.244768691+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T17:01:09.246464611+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T17:01:10.249175313+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.259089123,"progress":"83B/83B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.259054644,"progress":"208B/208B"}],"total_operations":2}}
+{"time":"2025-03-10T17:01:10.957927237+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T17:01:12.635910069+05:30","level":"INFO","msg":"stream: closing","id":"ovukjlpo"}
+{"time":"2025-03-10T17:01:12.635926291+05:30","level":"INFO","msg":"handler: closed","stream_id":"ovukjlpo"}
+{"time":"2025-03-10T17:01:12.635933805+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ovukjlpo"}
+{"time":"2025-03-10T17:01:12.635982576+05:30","level":"INFO","msg":"sender: closed","stream_id":"ovukjlpo"}
+{"time":"2025-03-10T17:01:12.636001601+05:30","level":"INFO","msg":"stream: closed","id":"ovukjlpo"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-09T19:01:56.119387203+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_190156-gwgrde1u/logs/debug-core.log"}
+{"time":"2025-03-09T19:01:56.223238423+05:30","level":"INFO","msg":"created new stream","id":"gwgrde1u"}
+{"time":"2025-03-09T19:01:56.22326956+05:30","level":"INFO","msg":"stream: started","id":"gwgrde1u"}
+{"time":"2025-03-09T19:01:56.223341807+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gwgrde1u"}
+{"time":"2025-03-09T19:01:56.22343663+05:30","level":"INFO","msg":"handler: started","stream_id":"gwgrde1u"}
+{"time":"2025-03-09T19:01:56.223381135+05:30","level":"INFO","msg":"sender: started","stream_id":"gwgrde1u"}
+{"time":"2025-03-09T19:01:56.539134534+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T19:02:35.026716116+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T19:02:35.028653365+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T19:02:36.029509964+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.157968961}],"total_operations":1}}
+{"time":"2025-03-09T19:02:37.602792265+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T19:02:38.920704821+05:30","level":"INFO","msg":"stream: closing","id":"gwgrde1u"}
+{"time":"2025-03-09T19:02:38.920722847+05:30","level":"INFO","msg":"handler: closed","stream_id":"gwgrde1u"}
+{"time":"2025-03-09T19:02:38.920732533+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gwgrde1u"}
+{"time":"2025-03-09T19:02:38.920736646+05:30","level":"INFO","msg":"sender: closed","stream_id":"gwgrde1u"}
+{"time":"2025-03-09T19:02:38.920784936+05:30","level":"INFO","msg":"stream: closed","id":"gwgrde1u"}

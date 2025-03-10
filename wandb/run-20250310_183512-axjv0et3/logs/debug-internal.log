@@ -1,0 +1,16 @@
+{"time":"2025-03-10T18:35:12.641568393+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_183512-axjv0et3/logs/debug-core.log"}
+{"time":"2025-03-10T18:35:12.745059064+05:30","level":"INFO","msg":"created new stream","id":"axjv0et3"}
+{"time":"2025-03-10T18:35:12.745096868+05:30","level":"INFO","msg":"stream: started","id":"axjv0et3"}
+{"time":"2025-03-10T18:35:12.74520983+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"axjv0et3"}
+{"time":"2025-03-10T18:35:12.74522838+05:30","level":"INFO","msg":"handler: started","stream_id":"axjv0et3"}
+{"time":"2025-03-10T18:35:12.745313471+05:30","level":"INFO","msg":"sender: started","stream_id":"axjv0et3"}
+{"time":"2025-03-10T18:35:13.179836024+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T18:35:56.985630541+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T18:35:56.98866373+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T18:35:57.989674557+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.140665977}],"total_operations":1}}
+{"time":"2025-03-10T18:35:59.098456628+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T18:36:00.429495019+05:30","level":"INFO","msg":"stream: closing","id":"axjv0et3"}
+{"time":"2025-03-10T18:36:00.429525238+05:30","level":"INFO","msg":"handler: closed","stream_id":"axjv0et3"}
+{"time":"2025-03-10T18:36:00.429541622+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"axjv0et3"}
+{"time":"2025-03-10T18:36:00.429598647+05:30","level":"INFO","msg":"sender: closed","stream_id":"axjv0et3"}
+{"time":"2025-03-10T18:36:00.429645797+05:30","level":"INFO","msg":"stream: closed","id":"axjv0et3"}

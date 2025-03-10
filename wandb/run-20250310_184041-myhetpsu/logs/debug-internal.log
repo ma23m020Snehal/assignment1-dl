@@ -1,0 +1,16 @@
+{"time":"2025-03-10T18:40:41.39836086+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_184041-myhetpsu/logs/debug-core.log"}
+{"time":"2025-03-10T18:40:41.503090437+05:30","level":"INFO","msg":"created new stream","id":"myhetpsu"}
+{"time":"2025-03-10T18:40:41.503129149+05:30","level":"INFO","msg":"stream: started","id":"myhetpsu"}
+{"time":"2025-03-10T18:40:41.503223011+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"myhetpsu"}
+{"time":"2025-03-10T18:40:41.503323771+05:30","level":"INFO","msg":"sender: started","stream_id":"myhetpsu"}
+{"time":"2025-03-10T18:40:41.50339415+05:30","level":"INFO","msg":"handler: started","stream_id":"myhetpsu"}
+{"time":"2025-03-10T18:40:42.02917372+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T18:41:01.856963244+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T18:41:01.857944006+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T18:41:02.862278478+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.134363082,"progress":"80B/80B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.134341828,"progress":"225B/225B"}],"total_operations":2}}
+{"time":"2025-03-10T18:41:03.401761054+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T18:41:04.829789907+05:30","level":"INFO","msg":"stream: closing","id":"myhetpsu"}
+{"time":"2025-03-10T18:41:04.829811698+05:30","level":"INFO","msg":"handler: closed","stream_id":"myhetpsu"}
+{"time":"2025-03-10T18:41:04.829823647+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"myhetpsu"}
+{"time":"2025-03-10T18:41:04.829893587+05:30","level":"INFO","msg":"sender: closed","stream_id":"myhetpsu"}
+{"time":"2025-03-10T18:41:04.829951121+05:30","level":"INFO","msg":"stream: closed","id":"myhetpsu"}

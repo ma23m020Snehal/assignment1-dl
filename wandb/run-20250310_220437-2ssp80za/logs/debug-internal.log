@@ -1,0 +1,16 @@
+{"time":"2025-03-10T22:04:37.385847647+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_220437-2ssp80za/logs/debug-core.log"}
+{"time":"2025-03-10T22:04:37.488832632+05:30","level":"INFO","msg":"created new stream","id":"2ssp80za"}
+{"time":"2025-03-10T22:04:37.488875305+05:30","level":"INFO","msg":"stream: started","id":"2ssp80za"}
+{"time":"2025-03-10T22:04:37.489044302+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"2ssp80za"}
+{"time":"2025-03-10T22:04:37.48915394+05:30","level":"INFO","msg":"handler: started","stream_id":"2ssp80za"}
+{"time":"2025-03-10T22:04:37.489248054+05:30","level":"INFO","msg":"sender: started","stream_id":"2ssp80za"}
+{"time":"2025-03-10T22:04:37.817893758+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T22:04:52.846494032+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T22:04:52.846918128+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T22:04:53.852326445+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.39391412,"progress":"80B/80B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.39388239,"progress":"213B/213B"},{"desc":"uploading config.yaml","runtime_seconds":0.122960087,"progress":"892B/892B"},{"desc":"uploading history steps 0-10, summary, console lines 0-0","runtime_seconds":0.100663688}],"total_operations":4}}
+{"time":"2025-03-10T22:04:54.257891088+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T22:04:55.693415592+05:30","level":"INFO","msg":"stream: closing","id":"2ssp80za"}
+{"time":"2025-03-10T22:04:55.693459764+05:30","level":"INFO","msg":"handler: closed","stream_id":"2ssp80za"}
+{"time":"2025-03-10T22:04:55.693475376+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"2ssp80za"}
+{"time":"2025-03-10T22:04:55.693519185+05:30","level":"INFO","msg":"sender: closed","stream_id":"2ssp80za"}
+{"time":"2025-03-10T22:04:55.693560895+05:30","level":"INFO","msg":"stream: closed","id":"2ssp80za"}

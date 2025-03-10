@@ -1,0 +1,16 @@
+{"time":"2025-03-10T15:53:29.71317972+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_155329-fil4fpp1/logs/debug-core.log"}
+{"time":"2025-03-10T15:53:29.819101837+05:30","level":"INFO","msg":"created new stream","id":"fil4fpp1"}
+{"time":"2025-03-10T15:53:29.819143087+05:30","level":"INFO","msg":"stream: started","id":"fil4fpp1"}
+{"time":"2025-03-10T15:53:29.81922414+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fil4fpp1"}
+{"time":"2025-03-10T15:53:29.8192671+05:30","level":"INFO","msg":"sender: started","stream_id":"fil4fpp1"}
+{"time":"2025-03-10T15:53:29.819317803+05:30","level":"INFO","msg":"handler: started","stream_id":"fil4fpp1"}
+{"time":"2025-03-10T15:53:30.172227178+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T15:53:36.723584141+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T15:53:36.72421993+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T15:53:37.726701885+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.359968942,"progress":"82B/82B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.359936201,"progress":"222B/222B"},{"desc":"uploading config.yaml","runtime_seconds":0.075836317,"progress":"892B/892B"}],"total_operations":3}}
+{"time":"2025-03-10T15:53:38.020886486+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T15:53:39.62865342+05:30","level":"INFO","msg":"stream: closing","id":"fil4fpp1"}
+{"time":"2025-03-10T15:53:39.62868267+05:30","level":"INFO","msg":"handler: closed","stream_id":"fil4fpp1"}
+{"time":"2025-03-10T15:53:39.628708026+05:30","level":"INFO","msg":"sender: closed","stream_id":"fil4fpp1"}
+{"time":"2025-03-10T15:53:39.628698515+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fil4fpp1"}
+{"time":"2025-03-10T15:53:39.628807141+05:30","level":"INFO","msg":"stream: closed","id":"fil4fpp1"}

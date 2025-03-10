@@ -1,0 +1,16 @@
+{"time":"2025-03-10T16:05:34.723167546+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_160534-cjlfws9t/logs/debug-core.log"}
+{"time":"2025-03-10T16:05:34.828754939+05:30","level":"INFO","msg":"created new stream","id":"cjlfws9t"}
+{"time":"2025-03-10T16:05:34.82882721+05:30","level":"INFO","msg":"stream: started","id":"cjlfws9t"}
+{"time":"2025-03-10T16:05:34.828885172+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cjlfws9t"}
+{"time":"2025-03-10T16:05:34.828931947+05:30","level":"INFO","msg":"sender: started","stream_id":"cjlfws9t"}
+{"time":"2025-03-10T16:05:34.82904279+05:30","level":"INFO","msg":"handler: started","stream_id":"cjlfws9t"}
+{"time":"2025-03-10T16:05:35.233055166+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T16:05:40.806022883+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T16:05:40.806832226+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T16:05:41.809539928+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.351550055,"progress":"79B/79B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.351522329,"progress":"222B/222B"},{"desc":"uploading config.yaml","runtime_seconds":0.029840779,"progress":"889B/889B"}],"total_operations":3}}
+{"time":"2025-03-10T16:05:42.201470159+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T16:05:43.6565095+05:30","level":"INFO","msg":"stream: closing","id":"cjlfws9t"}
+{"time":"2025-03-10T16:05:43.656530969+05:30","level":"INFO","msg":"handler: closed","stream_id":"cjlfws9t"}
+{"time":"2025-03-10T16:05:43.656539441+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cjlfws9t"}
+{"time":"2025-03-10T16:05:43.656567755+05:30","level":"INFO","msg":"sender: closed","stream_id":"cjlfws9t"}
+{"time":"2025-03-10T16:05:43.656614207+05:30","level":"INFO","msg":"stream: closed","id":"cjlfws9t"}

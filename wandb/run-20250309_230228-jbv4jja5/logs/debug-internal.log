@@ -1,0 +1,16 @@
+{"time":"2025-03-09T23:02:28.826586632+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_230228-jbv4jja5/logs/debug-core.log"}
+{"time":"2025-03-09T23:02:28.935567371+05:30","level":"INFO","msg":"created new stream","id":"jbv4jja5"}
+{"time":"2025-03-09T23:02:28.935693139+05:30","level":"INFO","msg":"stream: started","id":"jbv4jja5"}
+{"time":"2025-03-09T23:02:28.935853565+05:30","level":"INFO","msg":"handler: started","stream_id":"jbv4jja5"}
+{"time":"2025-03-09T23:02:28.93589009+05:30","level":"INFO","msg":"sender: started","stream_id":"jbv4jja5"}
+{"time":"2025-03-09T23:02:28.935898812+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jbv4jja5"}
+{"time":"2025-03-09T23:02:29.45046859+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T23:02:29.584950656+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T23:02:29.586006851+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T23:02:30.556973429+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.779311588,"progress":"856B/856B"},{"desc":"uploading requirements.txt","runtime_seconds":0.685324852,"progress":"1.5KB/1.5KB"},{"desc":"uploading summary","runtime_seconds":0.367726554},{"desc":"updating run config","runtime_seconds":0.357114481},{"desc":"uploading output.log","runtime_seconds":0.03314954,"progress":"252B/252B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.033129018,"progress":"24B/24B"}],"total_operations":6}}
+{"time":"2025-03-09T23:02:31.274428666+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T23:02:32.704410097+05:30","level":"INFO","msg":"stream: closing","id":"jbv4jja5"}
+{"time":"2025-03-09T23:02:32.704444553+05:30","level":"INFO","msg":"handler: closed","stream_id":"jbv4jja5"}
+{"time":"2025-03-09T23:02:32.704459152+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jbv4jja5"}
+{"time":"2025-03-09T23:02:32.704505323+05:30","level":"INFO","msg":"sender: closed","stream_id":"jbv4jja5"}
+{"time":"2025-03-09T23:02:32.70456545+05:30","level":"INFO","msg":"stream: closed","id":"jbv4jja5"}

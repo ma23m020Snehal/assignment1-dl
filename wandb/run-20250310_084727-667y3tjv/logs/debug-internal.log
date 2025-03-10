@@ -1,0 +1,18 @@
+{"time":"2025-03-10T08:47:27.393543893+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_084727-667y3tjv/logs/debug-core.log"}
+{"time":"2025-03-10T08:47:27.50304047+05:30","level":"INFO","msg":"created new stream","id":"667y3tjv"}
+{"time":"2025-03-10T08:47:27.503151586+05:30","level":"INFO","msg":"stream: started","id":"667y3tjv"}
+{"time":"2025-03-10T08:47:27.503436446+05:30","level":"INFO","msg":"handler: started","stream_id":"667y3tjv"}
+{"time":"2025-03-10T08:47:27.503377461+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"667y3tjv"}
+{"time":"2025-03-10T08:47:27.503528029+05:30","level":"INFO","msg":"sender: started","stream_id":"667y3tjv"}
+{"time":"2025-03-10T08:47:27.878153509+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T08:47:58.653774332+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/snehalma23m020-iit-madras/DLassignment1/667y3tjv/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-03-10T08:48:00.774933587+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/snehalma23m020-iit-madras/DLassignment1/667y3tjv/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-03-10T08:48:43.993881321+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T08:48:43.995055962+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T08:48:44.998219428+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.200551651}],"total_operations":1}}
+{"time":"2025-03-10T08:48:45.785763141+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T08:48:47.136575667+05:30","level":"INFO","msg":"stream: closing","id":"667y3tjv"}
+{"time":"2025-03-10T08:48:47.136603649+05:30","level":"INFO","msg":"handler: closed","stream_id":"667y3tjv"}
+{"time":"2025-03-10T08:48:47.136618875+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"667y3tjv"}
+{"time":"2025-03-10T08:48:47.136674208+05:30","level":"INFO","msg":"sender: closed","stream_id":"667y3tjv"}
+{"time":"2025-03-10T08:48:47.136721585+05:30","level":"INFO","msg":"stream: closed","id":"667y3tjv"}

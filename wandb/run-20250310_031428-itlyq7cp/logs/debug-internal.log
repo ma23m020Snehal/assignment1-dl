@@ -1,0 +1,16 @@
+{"time":"2025-03-10T03:14:28.170343047+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_031428-itlyq7cp/logs/debug-core.log"}
+{"time":"2025-03-10T03:14:28.275320023+05:30","level":"INFO","msg":"created new stream","id":"itlyq7cp"}
+{"time":"2025-03-10T03:14:28.275347921+05:30","level":"INFO","msg":"stream: started","id":"itlyq7cp"}
+{"time":"2025-03-10T03:14:28.275374344+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"itlyq7cp"}
+{"time":"2025-03-10T03:14:28.275421571+05:30","level":"INFO","msg":"handler: started","stream_id":"itlyq7cp"}
+{"time":"2025-03-10T03:14:28.275451069+05:30","level":"INFO","msg":"sender: started","stream_id":"itlyq7cp"}
+{"time":"2025-03-10T03:14:28.781890145+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T03:18:13.52604625+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T03:18:13.526777757+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T03:18:14.531000604+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.279637334}],"total_operations":1}}
+{"time":"2025-03-10T03:18:16.029387499+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T03:18:17.343511141+05:30","level":"INFO","msg":"stream: closing","id":"itlyq7cp"}
+{"time":"2025-03-10T03:18:17.343540108+05:30","level":"INFO","msg":"handler: closed","stream_id":"itlyq7cp"}
+{"time":"2025-03-10T03:18:17.343554069+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"itlyq7cp"}
+{"time":"2025-03-10T03:18:17.34361554+05:30","level":"INFO","msg":"sender: closed","stream_id":"itlyq7cp"}
+{"time":"2025-03-10T03:18:17.34368485+05:30","level":"INFO","msg":"stream: closed","id":"itlyq7cp"}

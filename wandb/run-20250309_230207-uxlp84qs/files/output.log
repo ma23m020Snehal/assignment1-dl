@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/tmp/ipykernel_140707/4148178774.py", line 18, in train_model_sweep
+    optimizer = SGD(learning_rate=config.learning_rate)
+                ^^^
+NameError: name 'SGD' is not defined

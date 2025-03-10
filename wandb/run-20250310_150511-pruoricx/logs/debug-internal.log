@@ -1,0 +1,16 @@
+{"time":"2025-03-10T15:05:11.553829824+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_150511-pruoricx/logs/debug-core.log"}
+{"time":"2025-03-10T15:05:11.657713971+05:30","level":"INFO","msg":"created new stream","id":"pruoricx"}
+{"time":"2025-03-10T15:05:11.657768941+05:30","level":"INFO","msg":"stream: started","id":"pruoricx"}
+{"time":"2025-03-10T15:05:11.657942987+05:30","level":"INFO","msg":"sender: started","stream_id":"pruoricx"}
+{"time":"2025-03-10T15:05:11.658010666+05:30","level":"INFO","msg":"handler: started","stream_id":"pruoricx"}
+{"time":"2025-03-10T15:05:11.657912314+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pruoricx"}
+{"time":"2025-03-10T15:05:12.20284292+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T15:05:56.0416575+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T15:05:56.043577785+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T15:05:57.043256282+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.190797008}],"total_operations":1}}
+{"time":"2025-03-10T15:05:58.733183936+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T15:06:00.071871602+05:30","level":"INFO","msg":"stream: closing","id":"pruoricx"}
+{"time":"2025-03-10T15:06:00.071903168+05:30","level":"INFO","msg":"handler: closed","stream_id":"pruoricx"}
+{"time":"2025-03-10T15:06:00.071919003+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pruoricx"}
+{"time":"2025-03-10T15:06:00.071964413+05:30","level":"INFO","msg":"sender: closed","stream_id":"pruoricx"}
+{"time":"2025-03-10T15:06:00.072020904+05:30","level":"INFO","msg":"stream: closed","id":"pruoricx"}

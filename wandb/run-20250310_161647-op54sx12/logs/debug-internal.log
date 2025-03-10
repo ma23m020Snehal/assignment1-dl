@@ -1,0 +1,16 @@
+{"time":"2025-03-10T16:16:47.276121596+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_161647-op54sx12/logs/debug-core.log"}
+{"time":"2025-03-10T16:16:47.379574948+05:30","level":"INFO","msg":"created new stream","id":"op54sx12"}
+{"time":"2025-03-10T16:16:47.379639145+05:30","level":"INFO","msg":"stream: started","id":"op54sx12"}
+{"time":"2025-03-10T16:16:47.379837407+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"op54sx12"}
+{"time":"2025-03-10T16:16:47.379893457+05:30","level":"INFO","msg":"handler: started","stream_id":"op54sx12"}
+{"time":"2025-03-10T16:16:47.380013201+05:30","level":"INFO","msg":"sender: started","stream_id":"op54sx12"}
+{"time":"2025-03-10T16:16:47.7530648+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T16:17:08.643819569+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T16:17:08.644461624+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T16:17:09.648675569+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.320273115,"progress":"80B/80B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.320264919,"progress":"212B/212B"},{"desc":"uploading config.yaml","runtime_seconds":0.027325263,"progress":"891B/891B"}],"total_operations":3}}
+{"time":"2025-03-10T16:17:09.986801098+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T16:17:11.342733371+05:30","level":"INFO","msg":"stream: closing","id":"op54sx12"}
+{"time":"2025-03-10T16:17:11.342769041+05:30","level":"INFO","msg":"handler: closed","stream_id":"op54sx12"}
+{"time":"2025-03-10T16:17:11.342786668+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"op54sx12"}
+{"time":"2025-03-10T16:17:11.342859861+05:30","level":"INFO","msg":"sender: closed","stream_id":"op54sx12"}
+{"time":"2025-03-10T16:17:11.34292114+05:30","level":"INFO","msg":"stream: closed","id":"op54sx12"}

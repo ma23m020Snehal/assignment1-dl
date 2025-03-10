@@ -1,0 +1,16 @@
+{"time":"2025-03-09T23:02:22.390079055+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_230222-tzelzhfk/logs/debug-core.log"}
+{"time":"2025-03-09T23:02:22.497084732+05:30","level":"INFO","msg":"created new stream","id":"tzelzhfk"}
+{"time":"2025-03-09T23:02:22.497161245+05:30","level":"INFO","msg":"stream: started","id":"tzelzhfk"}
+{"time":"2025-03-09T23:02:22.497380955+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tzelzhfk"}
+{"time":"2025-03-09T23:02:22.49754196+05:30","level":"INFO","msg":"handler: started","stream_id":"tzelzhfk"}
+{"time":"2025-03-09T23:02:22.497680549+05:30","level":"INFO","msg":"sender: started","stream_id":"tzelzhfk"}
+{"time":"2025-03-09T23:02:22.869598533+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T23:02:23.010117623+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T23:02:23.011561082+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T23:02:23.976240083+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading console lines 0-1","runtime_seconds":0.316421316}],"total_operations":1}}
+{"time":"2025-03-09T23:02:24.669881826+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T23:02:26.05445884+05:30","level":"INFO","msg":"stream: closing","id":"tzelzhfk"}
+{"time":"2025-03-09T23:02:26.054482265+05:30","level":"INFO","msg":"handler: closed","stream_id":"tzelzhfk"}
+{"time":"2025-03-09T23:02:26.054493931+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tzelzhfk"}
+{"time":"2025-03-09T23:02:26.054535764+05:30","level":"INFO","msg":"sender: closed","stream_id":"tzelzhfk"}
+{"time":"2025-03-09T23:02:26.054578148+05:30","level":"INFO","msg":"stream: closed","id":"tzelzhfk"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-10T13:04:24.128212744+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_130424-qox8dr1m/logs/debug-core.log"}
+{"time":"2025-03-10T13:04:24.230929187+05:30","level":"INFO","msg":"created new stream","id":"qox8dr1m"}
+{"time":"2025-03-10T13:04:24.230950844+05:30","level":"INFO","msg":"stream: started","id":"qox8dr1m"}
+{"time":"2025-03-10T13:04:24.230962011+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"qox8dr1m"}
+{"time":"2025-03-10T13:04:24.230983869+05:30","level":"INFO","msg":"handler: started","stream_id":"qox8dr1m"}
+{"time":"2025-03-10T13:04:24.23096618+05:30","level":"INFO","msg":"sender: started","stream_id":"qox8dr1m"}
+{"time":"2025-03-10T13:04:24.554808823+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T13:05:38.150945198+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T13:05:38.152665803+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T13:05:39.116724423+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.36742433,"progress":"961B/961B"},{"desc":"uploading config.yaml","runtime_seconds":0.105744904,"progress":"602B/602B"}],"total_operations":2}}
+{"time":"2025-03-10T13:05:39.549427595+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T13:05:40.889212963+05:30","level":"INFO","msg":"stream: closing","id":"qox8dr1m"}
+{"time":"2025-03-10T13:05:40.889246682+05:30","level":"INFO","msg":"handler: closed","stream_id":"qox8dr1m"}
+{"time":"2025-03-10T13:05:40.88926291+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"qox8dr1m"}
+{"time":"2025-03-10T13:05:40.88933596+05:30","level":"INFO","msg":"sender: closed","stream_id":"qox8dr1m"}
+{"time":"2025-03-10T13:05:40.889370108+05:30","level":"INFO","msg":"stream: closed","id":"qox8dr1m"}

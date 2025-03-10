@@ -1,0 +1,16 @@
+{"time":"2025-03-10T18:52:44.402771657+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_185244-jberdlms/logs/debug-core.log"}
+{"time":"2025-03-10T18:52:44.511617125+05:30","level":"INFO","msg":"created new stream","id":"jberdlms"}
+{"time":"2025-03-10T18:52:44.511664106+05:30","level":"INFO","msg":"stream: started","id":"jberdlms"}
+{"time":"2025-03-10T18:52:44.511754418+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jberdlms"}
+{"time":"2025-03-10T18:52:44.511792067+05:30","level":"INFO","msg":"sender: started","stream_id":"jberdlms"}
+{"time":"2025-03-10T18:52:44.511875402+05:30","level":"INFO","msg":"handler: started","stream_id":"jberdlms"}
+{"time":"2025-03-10T18:52:45.015336158+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T18:53:15.410628143+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T18:53:15.41123944+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T18:53:16.418226092+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 5-10","runtime_seconds":0.295128862},{"desc":"updating run config","runtime_seconds":0.275838894}],"total_operations":2}}
+{"time":"2025-03-10T18:53:17.890619908+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T18:53:19.224007472+05:30","level":"INFO","msg":"stream: closing","id":"jberdlms"}
+{"time":"2025-03-10T18:53:19.224040016+05:30","level":"INFO","msg":"handler: closed","stream_id":"jberdlms"}
+{"time":"2025-03-10T18:53:19.224058708+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jberdlms"}
+{"time":"2025-03-10T18:53:19.224116067+05:30","level":"INFO","msg":"sender: closed","stream_id":"jberdlms"}
+{"time":"2025-03-10T18:53:19.224163883+05:30","level":"INFO","msg":"stream: closed","id":"jberdlms"}

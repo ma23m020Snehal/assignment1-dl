@@ -1,0 +1,16 @@
+{"time":"2025-03-10T19:08:47.511868076+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_190847-namoym29/logs/debug-core.log"}
+{"time":"2025-03-10T19:08:47.617100227+05:30","level":"INFO","msg":"created new stream","id":"namoym29"}
+{"time":"2025-03-10T19:08:47.617172387+05:30","level":"INFO","msg":"stream: started","id":"namoym29"}
+{"time":"2025-03-10T19:08:47.61729094+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"namoym29"}
+{"time":"2025-03-10T19:08:47.617307508+05:30","level":"INFO","msg":"handler: started","stream_id":"namoym29"}
+{"time":"2025-03-10T19:08:47.617458195+05:30","level":"INFO","msg":"sender: started","stream_id":"namoym29"}
+{"time":"2025-03-10T19:08:47.989465547+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T19:09:02.946400957+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T19:09:02.946968063+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T19:09:03.952027785+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.352960337},{"desc":"uploading history steps 0-5, summary, console lines 0-0","runtime_seconds":0.218172786}],"total_operations":2}}
+{"time":"2025-03-10T19:09:04.993923009+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T19:09:06.34041622+05:30","level":"INFO","msg":"stream: closing","id":"namoym29"}
+{"time":"2025-03-10T19:09:06.340444115+05:30","level":"INFO","msg":"handler: closed","stream_id":"namoym29"}
+{"time":"2025-03-10T19:09:06.340456469+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"namoym29"}
+{"time":"2025-03-10T19:09:06.340533697+05:30","level":"INFO","msg":"sender: closed","stream_id":"namoym29"}
+{"time":"2025-03-10T19:09:06.340585431+05:30","level":"INFO","msg":"stream: closed","id":"namoym29"}

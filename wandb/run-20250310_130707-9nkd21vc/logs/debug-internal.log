@@ -1,0 +1,16 @@
+{"time":"2025-03-10T13:07:07.153437012+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_130707-9nkd21vc/logs/debug-core.log"}
+{"time":"2025-03-10T13:07:07.257983428+05:30","level":"INFO","msg":"created new stream","id":"9nkd21vc"}
+{"time":"2025-03-10T13:07:07.258107971+05:30","level":"INFO","msg":"stream: started","id":"9nkd21vc"}
+{"time":"2025-03-10T13:07:07.258151509+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9nkd21vc"}
+{"time":"2025-03-10T13:07:07.2582561+05:30","level":"INFO","msg":"sender: started","stream_id":"9nkd21vc"}
+{"time":"2025-03-10T13:07:07.258247337+05:30","level":"INFO","msg":"handler: started","stream_id":"9nkd21vc"}
+{"time":"2025-03-10T13:07:07.661079513+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T13:07:08.006556162+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T13:07:08.007723167+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T13:07:08.969539515+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/comparison_plot_0_dc70cfaab473e870b52e.png","runtime_seconds":0.27078752,"progress":"64.7KB/64.7KB"},{"desc":"uploading output.log","runtime_seconds":0.270745765},{"desc":"uploading wandb-summary.json","runtime_seconds":0.27072543,"progress":"328B/328B"}],"total_operations":3}}
+{"time":"2025-03-10T13:07:09.646621332+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T13:07:10.970295677+05:30","level":"INFO","msg":"stream: closing","id":"9nkd21vc"}
+{"time":"2025-03-10T13:07:10.970327152+05:30","level":"INFO","msg":"handler: closed","stream_id":"9nkd21vc"}
+{"time":"2025-03-10T13:07:10.970342006+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9nkd21vc"}
+{"time":"2025-03-10T13:07:10.970413711+05:30","level":"INFO","msg":"sender: closed","stream_id":"9nkd21vc"}
+{"time":"2025-03-10T13:07:10.970439269+05:30","level":"INFO","msg":"stream: closed","id":"9nkd21vc"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-10T01:47:06.562579433+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_014706-xbj85egi/logs/debug-core.log"}
+{"time":"2025-03-10T01:47:06.667310312+05:30","level":"INFO","msg":"created new stream","id":"xbj85egi"}
+{"time":"2025-03-10T01:47:06.667384056+05:30","level":"INFO","msg":"stream: started","id":"xbj85egi"}
+{"time":"2025-03-10T01:47:06.667589181+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xbj85egi"}
+{"time":"2025-03-10T01:47:06.667589186+05:30","level":"INFO","msg":"handler: started","stream_id":"xbj85egi"}
+{"time":"2025-03-10T01:47:06.667715996+05:30","level":"INFO","msg":"sender: started","stream_id":"xbj85egi"}
+{"time":"2025-03-10T01:47:07.043725702+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T01:59:43.446940385+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T01:59:43.448097279+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T01:59:44.453091816+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.436832812}],"total_operations":1}}
+{"time":"2025-03-10T01:59:46.012744201+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T01:59:47.351736152+05:30","level":"INFO","msg":"stream: closing","id":"xbj85egi"}
+{"time":"2025-03-10T01:59:47.351784299+05:30","level":"INFO","msg":"handler: closed","stream_id":"xbj85egi"}
+{"time":"2025-03-10T01:59:47.351813632+05:30","level":"INFO","msg":"sender: closed","stream_id":"xbj85egi"}
+{"time":"2025-03-10T01:59:47.351803901+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xbj85egi"}
+{"time":"2025-03-10T01:59:47.351912765+05:30","level":"INFO","msg":"stream: closed","id":"xbj85egi"}

@@ -1,0 +1,89 @@
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.
+Epoch 1/10 - Loss: 2.2955 - Accuracy: 0.2363
+Epoch 2/10 - Loss: 2.2700 - Accuracy: 0.2525
+Epoch 3/10 - Loss: 2.1400 - Accuracy: 0.2792
+Epoch 4/10 - Loss: 1.9885 - Accuracy: 0.2035
+Epoch 5/10 - Loss: 1.8404 - Accuracy: 0.5072
+Epoch 6/10 - Loss: 1.7131 - Accuracy: 0.2906
+Epoch 7/10 - Loss: 1.5903 - Accuracy: 0.4515
+Epoch 8/10 - Loss: 1.4809 - Accuracy: 0.4776
+Epoch 9/10 - Loss: 1.3892 - Accuracy: 0.4314
+Epoch 10/10 - Loss: 1.3238 - Accuracy: 0.4923
+Test Accuracy: 0.4961
+
+Test Image 100 Probability Distribution:
+T-shirt/top: 0.0601
+Trouser: 0.5925
+Pullover: 0.0045
+Dress: 0.3104
+Coat: 0.0067
+Sandal: 0.0057
+Shirt: 0.0185
+Sneaker: 0.0005
+Bag: 0.0008
+Ankle boot: 0.0002
+
+
+Test Image 1 Probability Distribution:
+T-shirt/top: 0.0295
+Trouser: 0.0004
+Pullover: 0.3166
+Dress: 0.0075
+Coat: 0.4206
+Sandal: 0.0002
+Shirt: 0.1762
+Sneaker: 0.0000
+Bag: 0.0480
+Ankle boot: 0.0009
+
+
+Test Image 45 Probability Distribution:
+T-shirt/top: 0.0018
+Trouser: 0.0007
+Pullover: 0.0021
+Dress: 0.0024
+Coat: 0.0007
+Sandal: 0.4470
+Shirt: 0.0041
+Sneaker: 0.4790
+Bag: 0.0134
+Ankle boot: 0.0489
+
+
+Test Image 80 Probability Distribution:
+T-shirt/top: 0.0536
+Trouser: 0.6059
+Pullover: 0.0085
+Dress: 0.2681
+Coat: 0.0091
+Sandal: 0.0230
+Shirt: 0.0264
+Sneaker: 0.0031
+Bag: 0.0017
+Ankle boot: 0.0006
+
+
+Test Image 980 Probability Distribution:
+T-shirt/top: 0.0101
+Trouser: 0.0001
+Pullover: 0.0228
+Dress: 0.0042
+Coat: 0.0146
+Sandal: 0.0769
+Shirt: 0.0318
+Sneaker: 0.0313
+Bag: 0.3015
+Ankle boot: 0.5066
+
+
+Test Image 6 Probability Distribution:
+T-shirt/top: 0.0973
+Trouser: 0.1672
+Pullover: 0.0717
+Dress: 0.2623
+Coat: 0.0611
+Sandal: 0.1232
+Shirt: 0.1417
+Sneaker: 0.0259
+Bag: 0.0408
+Ankle boot: 0.0088

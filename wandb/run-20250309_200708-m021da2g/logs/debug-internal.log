@@ -1,0 +1,16 @@
+{"time":"2025-03-09T20:07:08.467602281+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_200708-m021da2g/logs/debug-core.log"}
+{"time":"2025-03-09T20:07:08.573402065+05:30","level":"INFO","msg":"created new stream","id":"m021da2g"}
+{"time":"2025-03-09T20:07:08.573476879+05:30","level":"INFO","msg":"stream: started","id":"m021da2g"}
+{"time":"2025-03-09T20:07:08.57359633+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"m021da2g"}
+{"time":"2025-03-09T20:07:08.573641903+05:30","level":"INFO","msg":"sender: started","stream_id":"m021da2g"}
+{"time":"2025-03-09T20:07:08.573888995+05:30","level":"INFO","msg":"handler: started","stream_id":"m021da2g"}
+{"time":"2025-03-09T20:07:09.352162392+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T20:07:35.057351201+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T20:07:35.057989127+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T20:07:36.061664736+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.331584637,"progress":"78B/78B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.331548179,"progress":"225B/225B"},{"desc":"uploading config.yaml","runtime_seconds":0.037912805,"progress":"890B/890B"}],"total_operations":3}}
+{"time":"2025-03-09T20:07:37.138401866+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T20:07:38.468569735+05:30","level":"INFO","msg":"stream: closing","id":"m021da2g"}
+{"time":"2025-03-09T20:07:38.468607067+05:30","level":"INFO","msg":"handler: closed","stream_id":"m021da2g"}
+{"time":"2025-03-09T20:07:38.46862732+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"m021da2g"}
+{"time":"2025-03-09T20:07:38.468679101+05:30","level":"INFO","msg":"sender: closed","stream_id":"m021da2g"}
+{"time":"2025-03-09T20:07:38.468760672+05:30","level":"INFO","msg":"stream: closed","id":"m021da2g"}

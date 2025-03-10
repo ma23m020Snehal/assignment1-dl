@@ -1,0 +1,16 @@
+{"time":"2025-03-10T17:05:32.359418702+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_170532-mng2bvz2/logs/debug-core.log"}
+{"time":"2025-03-10T17:05:32.463570304+05:30","level":"INFO","msg":"created new stream","id":"mng2bvz2"}
+{"time":"2025-03-10T17:05:32.463635189+05:30","level":"INFO","msg":"stream: started","id":"mng2bvz2"}
+{"time":"2025-03-10T17:05:32.463688826+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mng2bvz2"}
+{"time":"2025-03-10T17:05:32.463736883+05:30","level":"INFO","msg":"handler: started","stream_id":"mng2bvz2"}
+{"time":"2025-03-10T17:05:32.463830275+05:30","level":"INFO","msg":"sender: started","stream_id":"mng2bvz2"}
+{"time":"2025-03-10T17:05:32.788571009+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T17:05:47.658896965+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T17:05:47.659524895+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T17:05:48.662113913+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.43825589},{"desc":"uploading history steps 0-10, summary, console lines 0-0","runtime_seconds":0.156539877},{"desc":"uploading output.log","runtime_seconds":0.111962015,"progress":"79B/79B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.111929446,"progress":"225B/225B"}],"total_operations":4}}
+{"time":"2025-03-10T17:05:49.405058772+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T17:05:50.707842374+05:30","level":"INFO","msg":"stream: closing","id":"mng2bvz2"}
+{"time":"2025-03-10T17:05:50.707873426+05:30","level":"INFO","msg":"handler: closed","stream_id":"mng2bvz2"}
+{"time":"2025-03-10T17:05:50.707887438+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mng2bvz2"}
+{"time":"2025-03-10T17:05:50.707895986+05:30","level":"INFO","msg":"sender: closed","stream_id":"mng2bvz2"}
+{"time":"2025-03-10T17:05:50.708009133+05:30","level":"INFO","msg":"stream: closed","id":"mng2bvz2"}

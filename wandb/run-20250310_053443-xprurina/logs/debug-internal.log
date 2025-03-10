@@ -1,0 +1,16 @@
+{"time":"2025-03-10T05:34:43.075139897+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_053443-xprurina/logs/debug-core.log"}
+{"time":"2025-03-10T05:34:43.17866888+05:30","level":"INFO","msg":"created new stream","id":"xprurina"}
+{"time":"2025-03-10T05:34:43.178726316+05:30","level":"INFO","msg":"stream: started","id":"xprurina"}
+{"time":"2025-03-10T05:34:43.178850901+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xprurina"}
+{"time":"2025-03-10T05:34:43.178850663+05:30","level":"INFO","msg":"handler: started","stream_id":"xprurina"}
+{"time":"2025-03-10T05:34:43.178985663+05:30","level":"INFO","msg":"sender: started","stream_id":"xprurina"}
+{"time":"2025-03-10T05:34:43.691288922+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T05:45:56.469462008+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T05:45:56.470058981+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T05:45:57.474472712+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.082142915,"progress":"80B/80B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.082110627,"progress":"226B/226B"}],"total_operations":2}}
+{"time":"2025-03-10T05:45:58.783486526+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T05:46:00.135056092+05:30","level":"INFO","msg":"stream: closing","id":"xprurina"}
+{"time":"2025-03-10T05:46:00.135078225+05:30","level":"INFO","msg":"handler: closed","stream_id":"xprurina"}
+{"time":"2025-03-10T05:46:00.135089783+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xprurina"}
+{"time":"2025-03-10T05:46:00.135111402+05:30","level":"INFO","msg":"sender: closed","stream_id":"xprurina"}
+{"time":"2025-03-10T05:46:00.135167508+05:30","level":"INFO","msg":"stream: closed","id":"xprurina"}

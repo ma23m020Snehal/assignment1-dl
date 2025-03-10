@@ -1,0 +1,16 @@
+{"time":"2025-03-09T23:02:07.315649406+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_230207-uxlp84qs/logs/debug-core.log"}
+{"time":"2025-03-09T23:02:07.422331794+05:30","level":"INFO","msg":"created new stream","id":"uxlp84qs"}
+{"time":"2025-03-09T23:02:07.422404628+05:30","level":"INFO","msg":"stream: started","id":"uxlp84qs"}
+{"time":"2025-03-09T23:02:07.422535581+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"uxlp84qs"}
+{"time":"2025-03-09T23:02:07.42259826+05:30","level":"INFO","msg":"sender: started","stream_id":"uxlp84qs"}
+{"time":"2025-03-09T23:02:07.42271293+05:30","level":"INFO","msg":"handler: started","stream_id":"uxlp84qs"}
+{"time":"2025-03-09T23:02:08.265349399+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T23:02:08.458113373+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T23:02:08.459273528+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T23:02:09.430329951+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.311250043}],"total_operations":1}}
+{"time":"2025-03-09T23:02:10.142883523+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T23:02:11.543406857+05:30","level":"INFO","msg":"stream: closing","id":"uxlp84qs"}
+{"time":"2025-03-09T23:02:11.543444532+05:30","level":"INFO","msg":"handler: closed","stream_id":"uxlp84qs"}
+{"time":"2025-03-09T23:02:11.543470335+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"uxlp84qs"}
+{"time":"2025-03-09T23:02:11.543545098+05:30","level":"INFO","msg":"sender: closed","stream_id":"uxlp84qs"}
+{"time":"2025-03-09T23:02:11.543596714+05:30","level":"INFO","msg":"stream: closed","id":"uxlp84qs"}

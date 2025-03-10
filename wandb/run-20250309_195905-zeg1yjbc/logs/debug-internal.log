@@ -1,0 +1,16 @@
+{"time":"2025-03-09T19:59:05.761169844+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_195905-zeg1yjbc/logs/debug-core.log"}
+{"time":"2025-03-09T19:59:05.868797648+05:30","level":"INFO","msg":"created new stream","id":"zeg1yjbc"}
+{"time":"2025-03-09T19:59:05.868937948+05:30","level":"INFO","msg":"stream: started","id":"zeg1yjbc"}
+{"time":"2025-03-09T19:59:05.869015627+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zeg1yjbc"}
+{"time":"2025-03-09T19:59:05.869143476+05:30","level":"INFO","msg":"handler: started","stream_id":"zeg1yjbc"}
+{"time":"2025-03-09T19:59:05.86915835+05:30","level":"INFO","msg":"sender: started","stream_id":"zeg1yjbc"}
+{"time":"2025-03-09T19:59:06.681048456+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T19:59:06.842788676+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T19:59:06.843884122+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T19:59:07.808208827+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.621857296,"progress":"1.5KB/1.5KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.621822818,"progress":"856B/856B"},{"desc":"uploading summary","runtime_seconds":0.279940993},{"desc":"updating run config","runtime_seconds":0.259437716}],"total_operations":4}}
+{"time":"2025-03-09T19:59:08.485851018+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T19:59:09.833152201+05:30","level":"INFO","msg":"stream: closing","id":"zeg1yjbc"}
+{"time":"2025-03-09T19:59:09.833201165+05:30","level":"INFO","msg":"handler: closed","stream_id":"zeg1yjbc"}
+{"time":"2025-03-09T19:59:09.833223155+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zeg1yjbc"}
+{"time":"2025-03-09T19:59:09.833270241+05:30","level":"INFO","msg":"sender: closed","stream_id":"zeg1yjbc"}
+{"time":"2025-03-09T19:59:09.833341104+05:30","level":"INFO","msg":"stream: closed","id":"zeg1yjbc"}

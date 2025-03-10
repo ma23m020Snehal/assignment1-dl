@@ -1,0 +1,16 @@
+{"time":"2025-03-10T17:48:59.716852866+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_174859-ktdrex6j/logs/debug-core.log"}
+{"time":"2025-03-10T17:48:59.821391311+05:30","level":"INFO","msg":"created new stream","id":"ktdrex6j"}
+{"time":"2025-03-10T17:48:59.82145285+05:30","level":"INFO","msg":"stream: started","id":"ktdrex6j"}
+{"time":"2025-03-10T17:48:59.821594534+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ktdrex6j"}
+{"time":"2025-03-10T17:48:59.821646945+05:30","level":"INFO","msg":"handler: started","stream_id":"ktdrex6j"}
+{"time":"2025-03-10T17:48:59.821805468+05:30","level":"INFO","msg":"sender: started","stream_id":"ktdrex6j"}
+{"time":"2025-03-10T17:49:00.194255756+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T17:49:50.349662303+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T17:49:50.350608539+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T17:49:51.316253186+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.045815816}],"total_operations":1}}
+{"time":"2025-03-10T17:49:52.315798857+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T17:49:53.821734488+05:30","level":"INFO","msg":"stream: closing","id":"ktdrex6j"}
+{"time":"2025-03-10T17:49:53.82176345+05:30","level":"INFO","msg":"handler: closed","stream_id":"ktdrex6j"}
+{"time":"2025-03-10T17:49:53.821780819+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ktdrex6j"}
+{"time":"2025-03-10T17:49:53.821809692+05:30","level":"INFO","msg":"sender: closed","stream_id":"ktdrex6j"}
+{"time":"2025-03-10T17:49:53.821894682+05:30","level":"INFO","msg":"stream: closed","id":"ktdrex6j"}

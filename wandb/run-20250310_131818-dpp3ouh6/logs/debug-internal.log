@@ -1,0 +1,16 @@
+{"time":"2025-03-10T13:18:18.538558346+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_131818-dpp3ouh6/logs/debug-core.log"}
+{"time":"2025-03-10T13:18:18.64196505+05:30","level":"INFO","msg":"created new stream","id":"dpp3ouh6"}
+{"time":"2025-03-10T13:18:18.642002437+05:30","level":"INFO","msg":"stream: started","id":"dpp3ouh6"}
+{"time":"2025-03-10T13:18:18.642029617+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dpp3ouh6"}
+{"time":"2025-03-10T13:18:18.642075479+05:30","level":"INFO","msg":"handler: started","stream_id":"dpp3ouh6"}
+{"time":"2025-03-10T13:18:18.642043261+05:30","level":"INFO","msg":"sender: started","stream_id":"dpp3ouh6"}
+{"time":"2025-03-10T13:18:19.025151512+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T13:18:19.115512867+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T13:18:19.116000348+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T13:18:20.08242339+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.657875309,"progress":"856B/856B"},{"desc":"uploading requirements.txt","runtime_seconds":0.657808758,"progress":"1.5KB/1.5KB"},{"desc":"uploading summary","runtime_seconds":0.139384216},{"desc":"updating run config","runtime_seconds":0.128847527}],"total_operations":4}}
+{"time":"2025-03-10T13:18:21.858783464+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T13:18:23.173953508+05:30","level":"INFO","msg":"stream: closing","id":"dpp3ouh6"}
+{"time":"2025-03-10T13:18:23.173978555+05:30","level":"INFO","msg":"handler: closed","stream_id":"dpp3ouh6"}
+{"time":"2025-03-10T13:18:23.173989706+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"dpp3ouh6"}
+{"time":"2025-03-10T13:18:23.174046468+05:30","level":"INFO","msg":"sender: closed","stream_id":"dpp3ouh6"}
+{"time":"2025-03-10T13:18:23.174087835+05:30","level":"INFO","msg":"stream: closed","id":"dpp3ouh6"}

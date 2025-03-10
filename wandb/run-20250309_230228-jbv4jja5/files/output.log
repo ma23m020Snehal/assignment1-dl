@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/tmp/ipykernel_140707/4148178774.py", line 24, in train_model_sweep
+    optimizer = RMSProp(learning_rate=config.learning_rate, decay_rate=0.9)
+                ^^^^^^^
+NameError: name 'RMSProp' is not defined

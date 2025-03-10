@@ -1,0 +1,16 @@
+{"time":"2025-03-10T16:36:55.398275451+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_163655-yz7042wm/logs/debug-core.log"}
+{"time":"2025-03-10T16:36:55.504184143+05:30","level":"INFO","msg":"created new stream","id":"yz7042wm"}
+{"time":"2025-03-10T16:36:55.504270801+05:30","level":"INFO","msg":"stream: started","id":"yz7042wm"}
+{"time":"2025-03-10T16:36:55.504328553+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"yz7042wm"}
+{"time":"2025-03-10T16:36:55.50442305+05:30","level":"INFO","msg":"handler: started","stream_id":"yz7042wm"}
+{"time":"2025-03-10T16:36:55.504549489+05:30","level":"INFO","msg":"sender: started","stream_id":"yz7042wm"}
+{"time":"2025-03-10T16:36:55.847056536+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T16:37:22.899221174+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T16:37:22.900315602+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T16:37:23.903470417+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.342647248}],"total_operations":1}}
+{"time":"2025-03-10T16:37:24.676752811+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T16:37:26.106644167+05:30","level":"INFO","msg":"stream: closing","id":"yz7042wm"}
+{"time":"2025-03-10T16:37:26.10667416+05:30","level":"INFO","msg":"handler: closed","stream_id":"yz7042wm"}
+{"time":"2025-03-10T16:37:26.106689063+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"yz7042wm"}
+{"time":"2025-03-10T16:37:26.106760483+05:30","level":"INFO","msg":"sender: closed","stream_id":"yz7042wm"}
+{"time":"2025-03-10T16:37:26.106815356+05:30","level":"INFO","msg":"stream: closed","id":"yz7042wm"}

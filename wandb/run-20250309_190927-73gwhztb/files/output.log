@@ -1,0 +1,98 @@
+Epoch 1/20 - Loss: 2.3030 - Accuracy: 0.1001
+Epoch 2/20 - Loss: 2.3031 - Accuracy: 0.0997
+Epoch 3/20 - Loss: 2.3030 - Accuracy: 0.1007
+Epoch 4/20 - Loss: 2.3030 - Accuracy: 0.1000
+Epoch 5/20 - Loss: 2.3030 - Accuracy: 0.1001
+Epoch 6/20 - Loss: 2.3030 - Accuracy: 0.1007
+Epoch 7/20 - Loss: 2.3031 - Accuracy: 0.1002
+Epoch 8/20 - Loss: 2.3030 - Accuracy: 0.0992
+Epoch 9/20 - Loss: 2.3030 - Accuracy: 0.1001
+Epoch 10/20 - Loss: 2.3030 - Accuracy: 0.1001
+Epoch 11/20 - Loss: 2.3031 - Accuracy: 0.1003
+Epoch 12/20 - Loss: 2.3030 - Accuracy: 0.0997
+Epoch 13/20 - Loss: 2.3030 - Accuracy: 0.0997
+Epoch 14/20 - Loss: 2.3030 - Accuracy: 0.0992
+Epoch 15/20 - Loss: 2.3031 - Accuracy: 0.0992
+Epoch 16/20 - Loss: 2.3030 - Accuracy: 0.0992
+Epoch 17/20 - Loss: 2.3030 - Accuracy: 0.1000
+Epoch 18/20 - Loss: 2.3030 - Accuracy: 0.1003
+Epoch 19/20 - Loss: 2.3030 - Accuracy: 0.1007
+Epoch 20/20 - Loss: 2.3029 - Accuracy: 0.0992
+Test Accuracy: 0.1000
+
+Test Image 10 Probability Distribution:
+T-shirt/top: 0.0977
+Trouser: 0.1048
+Pullover: 0.1019
+Dress: 0.0973
+Coat: 0.1003
+Sandal: 0.0970
+Shirt: 0.1026
+Sneaker: 0.1005
+Bag: 0.0965
+Ankle boot: 0.1014
+
+
+Test Image 20 Probability Distribution:
+T-shirt/top: 0.0977
+Trouser: 0.1048
+Pullover: 0.1019
+Dress: 0.0973
+Coat: 0.1003
+Sandal: 0.0970
+Shirt: 0.1026
+Sneaker: 0.1005
+Bag: 0.0965
+Ankle boot: 0.1014
+
+
+Test Image 45 Probability Distribution:
+T-shirt/top: 0.0977
+Trouser: 0.1048
+Pullover: 0.1019
+Dress: 0.0973
+Coat: 0.1003
+Sandal: 0.0970
+Shirt: 0.1026
+Sneaker: 0.1005
+Bag: 0.0965
+Ankle boot: 0.1014
+
+
+Test Image 80 Probability Distribution:
+T-shirt/top: 0.0977
+Trouser: 0.1048
+Pullover: 0.1019
+Dress: 0.0973
+Coat: 0.1003
+Sandal: 0.0970
+Shirt: 0.1026
+Sneaker: 0.1005
+Bag: 0.0965
+Ankle boot: 0.1014
+
+
+Test Image 980 Probability Distribution:
+T-shirt/top: 0.0977
+Trouser: 0.1048
+Pullover: 0.1019
+Dress: 0.0973
+Coat: 0.1003
+Sandal: 0.0970
+Shirt: 0.1026
+Sneaker: 0.1005
+Bag: 0.0965
+Ankle boot: 0.1014
+
+
+Test Image 60 Probability Distribution:
+T-shirt/top: 0.0977
+Trouser: 0.1048
+Pullover: 0.1019
+Dress: 0.0973
+Coat: 0.1003
+Sandal: 0.0970
+Shirt: 0.1026
+Sneaker: 0.1005
+Bag: 0.0965
+Ankle boot: 0.1014

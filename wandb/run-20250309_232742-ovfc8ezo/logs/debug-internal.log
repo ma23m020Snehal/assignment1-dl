@@ -1,0 +1,16 @@
+{"time":"2025-03-09T23:27:42.032187343+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_232742-ovfc8ezo/logs/debug-core.log"}
+{"time":"2025-03-09T23:27:42.138985686+05:30","level":"INFO","msg":"created new stream","id":"ovfc8ezo"}
+{"time":"2025-03-09T23:27:42.139054459+05:30","level":"INFO","msg":"stream: started","id":"ovfc8ezo"}
+{"time":"2025-03-09T23:27:42.139281191+05:30","level":"INFO","msg":"handler: started","stream_id":"ovfc8ezo"}
+{"time":"2025-03-09T23:27:42.139329263+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ovfc8ezo"}
+{"time":"2025-03-09T23:27:42.139377722+05:30","level":"INFO","msg":"sender: started","stream_id":"ovfc8ezo"}
+{"time":"2025-03-09T23:27:42.708543716+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T23:28:24.518920616+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T23:28:24.524286912+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T23:28:25.531395249+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.21163775}],"total_operations":1}}
+{"time":"2025-03-09T23:28:26.378862643+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T23:28:27.753147247+05:30","level":"INFO","msg":"stream: closing","id":"ovfc8ezo"}
+{"time":"2025-03-09T23:28:27.753190489+05:30","level":"INFO","msg":"handler: closed","stream_id":"ovfc8ezo"}
+{"time":"2025-03-09T23:28:27.753236245+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ovfc8ezo"}
+{"time":"2025-03-09T23:28:27.753251696+05:30","level":"INFO","msg":"sender: closed","stream_id":"ovfc8ezo"}
+{"time":"2025-03-09T23:28:27.753427782+05:30","level":"INFO","msg":"stream: closed","id":"ovfc8ezo"}

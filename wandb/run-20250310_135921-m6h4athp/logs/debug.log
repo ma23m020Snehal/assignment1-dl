@@ -1,0 +1,470 @@
+2025-03-10 13:59:21,331 INFO    Thread-386 (_run_job):198064 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-10 13:59:21,336 INFO    Thread-386 (_run_job):198064 [wandb_setup.py:_flush():67] Configure stats pid to 198064
+2025-03-10 13:59:21,341 INFO    Thread-386 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/.config/wandb/settings
+2025-03-10 13:59:21,346 INFO    Thread-386 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/Downloads/dl_ass1/wandb/settings
+2025-03-10 13:59:21,352 INFO    Thread-386 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-10 13:59:21,358 INFO    Thread-386 (_run_job):198064 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_135921-m6h4athp/logs/debug.log
+2025-03-10 13:59:21,364 INFO    Thread-386 (_run_job):198064 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_135921-m6h4athp/logs/debug-internal.log
+2025-03-10 13:59:21,369 INFO    Thread-386 (_run_job):198064 [wandb_init.py:init():761] calling init triggers
+2025-03-10 13:59:21,374 INFO    Thread-386 (_run_job):198064 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation_function': 'sigmoid', 'batch_size': 64, 'epochs': 10, 'hidden_layer_size': 128, 'learning_rate': 0.0001, 'num_hidden_layers': 3, 'optimizer': 'rmsprop', 'weight_decay': 0.0005, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-10 13:59:21,379 INFO    Thread-386 (_run_job):198064 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-10 13:59:21,383 ERROR   Thread-386 (_run_job):198064 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 32] Broken pipe
+2025-03-10 13:59:21,395 INFO    Thread-386 (_run_job):198064 [wandb_run.py:_finish():2112] finishing run snehalma23m020-iit-madras/DLassignment1/hx7kfgf3
+2025-03-10 13:59:31,491 INFO    Thread-387 (_run_job):198064 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-10 13:59:31,499 INFO    Thread-387 (_run_job):198064 [wandb_setup.py:_flush():67] Configure stats pid to 198064
+2025-03-10 13:59:31,507 INFO    Thread-387 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/.config/wandb/settings
+2025-03-10 13:59:31,514 INFO    Thread-387 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/Downloads/dl_ass1/wandb/settings
+2025-03-10 13:59:31,522 INFO    Thread-387 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-10 13:59:31,530 INFO    Thread-387 (_run_job):198064 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_135931-m8sysjjk/logs/debug.log
+2025-03-10 13:59:31,538 INFO    Thread-387 (_run_job):198064 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_135931-m8sysjjk/logs/debug-internal.log
+2025-03-10 13:59:31,546 INFO    Thread-387 (_run_job):198064 [wandb_init.py:init():761] calling init triggers
+2025-03-10 13:59:31,554 INFO    Thread-387 (_run_job):198064 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation_function': 'relu', 'batch_size': 64, 'epochs': 10, 'hidden_layer_size': 128, 'learning_rate': 0.001, 'num_hidden_layers': 5, 'optimizer': 'sgd', 'weight_decay': 0.0005, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-10 13:59:31,562 INFO    Thread-387 (_run_job):198064 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-10 13:59:31,571 ERROR   Thread-387 (_run_job):198064 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 32] Broken pipe
+2025-03-10 13:59:31,593 INFO    Thread-387 (_run_job):198064 [wandb_run.py:_finish():2112] finishing run snehalma23m020-iit-madras/DLassignment1/hx7kfgf3
+2025-03-10 13:59:32,737 INFO    Thread-388 (_run_job):198064 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-10 13:59:32,743 INFO    Thread-388 (_run_job):198064 [wandb_setup.py:_flush():67] Configure stats pid to 198064
+2025-03-10 13:59:32,749 INFO    Thread-388 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/.config/wandb/settings
+2025-03-10 13:59:32,753 INFO    Thread-388 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/Downloads/dl_ass1/wandb/settings
+2025-03-10 13:59:32,757 INFO    Thread-388 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-10 13:59:32,760 INFO    Thread-388 (_run_job):198064 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_135932-akr1bz8x/logs/debug.log
+2025-03-10 13:59:32,763 INFO    Thread-388 (_run_job):198064 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_135932-akr1bz8x/logs/debug-internal.log
+2025-03-10 13:59:32,766 INFO    Thread-388 (_run_job):198064 [wandb_init.py:init():761] calling init triggers
+2025-03-10 13:59:32,771 INFO    Thread-388 (_run_job):198064 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation_function': 'sigmoid', 'batch_size': 16, 'epochs': 5, 'hidden_layer_size': 32, 'learning_rate': 0.0001, 'num_hidden_layers': 5, 'optimizer': 'adam', 'weight_decay': 0.0005, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-10 13:59:32,786 INFO    Thread-388 (_run_job):198064 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-10 13:59:32,800 ERROR   Thread-388 (_run_job):198064 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 32] Broken pipe
+2025-03-10 13:59:32,826 INFO    Thread-388 (_run_job):198064 [wandb_run.py:_finish():2112] finishing run snehalma23m020-iit-madras/DLassignment1/hx7kfgf3
+2025-03-10 13:59:42,897 INFO    Thread-389 (_run_job):198064 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-10 13:59:42,907 INFO    Thread-389 (_run_job):198064 [wandb_setup.py:_flush():67] Configure stats pid to 198064
+2025-03-10 13:59:42,918 INFO    Thread-389 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/.config/wandb/settings
+2025-03-10 13:59:42,924 INFO    Thread-389 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/Downloads/dl_ass1/wandb/settings
+2025-03-10 13:59:42,935 INFO    Thread-389 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-10 13:59:42,948 INFO    Thread-389 (_run_job):198064 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_135942-g3xck8rp/logs/debug.log
+2025-03-10 13:59:42,964 INFO    Thread-389 (_run_job):198064 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_135942-g3xck8rp/logs/debug-internal.log
+2025-03-10 13:59:42,982 INFO    Thread-389 (_run_job):198064 [wandb_init.py:init():761] calling init triggers
+2025-03-10 13:59:43,000 INFO    Thread-389 (_run_job):198064 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation_function': 'relu', 'batch_size': 16, 'epochs': 10, 'hidden_layer_size': 64, 'learning_rate': 0.0001, 'num_hidden_layers': 3, 'optimizer': 'rmsprop', 'weight_decay': 0, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-10 13:59:43,010 INFO    Thread-389 (_run_job):198064 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-10 13:59:43,018 ERROR   Thread-389 (_run_job):198064 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 32] Broken pipe
+2025-03-10 13:59:43,033 INFO    Thread-389 (_run_job):198064 [wandb_run.py:_finish():2112] finishing run snehalma23m020-iit-madras/DLassignment1/hx7kfgf3
+2025-03-10 13:59:43,720 INFO    Thread-390 (_run_job):198064 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-10 13:59:43,731 INFO    Thread-390 (_run_job):198064 [wandb_setup.py:_flush():67] Configure stats pid to 198064
+2025-03-10 13:59:43,742 INFO    Thread-390 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/.config/wandb/settings
+2025-03-10 13:59:43,752 INFO    Thread-390 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/Downloads/dl_ass1/wandb/settings
+2025-03-10 13:59:43,761 INFO    Thread-390 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-10 13:59:43,774 INFO    Thread-390 (_run_job):198064 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_135943-gejralop/logs/debug.log
+2025-03-10 13:59:43,789 INFO    Thread-390 (_run_job):198064 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_135943-gejralop/logs/debug-internal.log
+2025-03-10 13:59:43,807 INFO    Thread-390 (_run_job):198064 [wandb_init.py:init():761] calling init triggers
+2025-03-10 13:59:43,822 INFO    Thread-390 (_run_job):198064 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation_function': 'sigmoid', 'batch_size': 64, 'epochs': 5, 'hidden_layer_size': 32, 'learning_rate': 0.001, 'num_hidden_layers': 4, 'optimizer': 'momentum', 'weight_decay': 0.5, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-10 13:59:43,834 INFO    Thread-390 (_run_job):198064 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-10 13:59:43,844 ERROR   Thread-390 (_run_job):198064 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 32] Broken pipe
+2025-03-10 13:59:43,856 INFO    Thread-390 (_run_job):198064 [wandb_run.py:_finish():2112] finishing run snehalma23m020-iit-madras/DLassignment1/hx7kfgf3
+2025-03-10 13:59:53,903 INFO    Thread-391 (_run_job):198064 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-10 13:59:53,908 INFO    Thread-391 (_run_job):198064 [wandb_setup.py:_flush():67] Configure stats pid to 198064
+2025-03-10 13:59:53,914 INFO    Thread-391 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/.config/wandb/settings
+2025-03-10 13:59:53,920 INFO    Thread-391 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/Downloads/dl_ass1/wandb/settings
+2025-03-10 13:59:53,925 INFO    Thread-391 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-10 13:59:53,930 INFO    Thread-391 (_run_job):198064 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_135953-g544pk18/logs/debug.log
+2025-03-10 13:59:53,935 INFO    Thread-391 (_run_job):198064 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_135953-g544pk18/logs/debug-internal.log
+2025-03-10 13:59:53,940 INFO    Thread-391 (_run_job):198064 [wandb_init.py:init():761] calling init triggers
+2025-03-10 13:59:53,945 INFO    Thread-391 (_run_job):198064 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation_function': 'tanh', 'batch_size': 16, 'epochs': 5, 'hidden_layer_size': 128, 'learning_rate': 0.0001, 'num_hidden_layers': 5, 'optimizer': 'momentum', 'weight_decay': 0.0005, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-10 13:59:53,949 INFO    Thread-391 (_run_job):198064 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-10 13:59:53,954 ERROR   Thread-391 (_run_job):198064 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 32] Broken pipe
+2025-03-10 13:59:53,976 INFO    Thread-391 (_run_job):198064 [wandb_run.py:_finish():2112] finishing run snehalma23m020-iit-madras/DLassignment1/hx7kfgf3
+2025-03-10 13:59:54,765 INFO    Thread-392 (_run_job):198064 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-10 13:59:54,774 INFO    Thread-392 (_run_job):198064 [wandb_setup.py:_flush():67] Configure stats pid to 198064
+2025-03-10 13:59:54,784 INFO    Thread-392 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/.config/wandb/settings
+2025-03-10 13:59:54,790 INFO    Thread-392 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/Downloads/dl_ass1/wandb/settings
+2025-03-10 13:59:54,794 INFO    Thread-392 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-10 13:59:54,799 INFO    Thread-392 (_run_job):198064 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_135954-e24qi5c2/logs/debug.log
+2025-03-10 13:59:54,805 INFO    Thread-392 (_run_job):198064 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_135954-e24qi5c2/logs/debug-internal.log
+2025-03-10 13:59:54,813 INFO    Thread-392 (_run_job):198064 [wandb_init.py:init():761] calling init triggers
+2025-03-10 13:59:54,829 INFO    Thread-392 (_run_job):198064 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation_function': 'sigmoid', 'batch_size': 64, 'epochs': 5, 'hidden_layer_size': 128, 'learning_rate': 0.001, 'num_hidden_layers': 3, 'optimizer': 'nadam', 'weight_decay': 0, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-10 13:59:54,846 INFO    Thread-392 (_run_job):198064 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-10 13:59:54,864 ERROR   Thread-392 (_run_job):198064 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 32] Broken pipe
+2025-03-10 13:59:54,898 INFO    Thread-392 (_run_job):198064 [wandb_run.py:_finish():2112] finishing run snehalma23m020-iit-madras/DLassignment1/hx7kfgf3
+2025-03-10 14:00:04,959 INFO    Thread-393 (_run_job):198064 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-10 14:00:04,965 INFO    Thread-393 (_run_job):198064 [wandb_setup.py:_flush():67] Configure stats pid to 198064
+2025-03-10 14:00:04,971 INFO    Thread-393 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/.config/wandb/settings
+2025-03-10 14:00:04,976 INFO    Thread-393 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/Downloads/dl_ass1/wandb/settings
+2025-03-10 14:00:04,982 INFO    Thread-393 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-10 14:00:04,987 INFO    Thread-393 (_run_job):198064 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_140004-3ka0r9e0/logs/debug.log
+2025-03-10 14:00:04,992 INFO    Thread-393 (_run_job):198064 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_140004-3ka0r9e0/logs/debug-internal.log
+2025-03-10 14:00:04,997 INFO    Thread-393 (_run_job):198064 [wandb_init.py:init():761] calling init triggers
+2025-03-10 14:00:05,002 INFO    Thread-393 (_run_job):198064 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation_function': 'relu', 'batch_size': 16, 'epochs': 5, 'hidden_layer_size': 32, 'learning_rate': 0.0001, 'num_hidden_layers': 3, 'optimizer': 'adam', 'weight_decay': 0, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-10 14:00:05,006 INFO    Thread-393 (_run_job):198064 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-10 14:00:05,011 ERROR   Thread-393 (_run_job):198064 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 32] Broken pipe
+2025-03-10 14:00:05,038 INFO    Thread-393 (_run_job):198064 [wandb_run.py:_finish():2112] finishing run snehalma23m020-iit-madras/DLassignment1/hx7kfgf3
+2025-03-10 14:00:05,853 INFO    Thread-394 (_run_job):198064 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-10 14:00:05,861 INFO    Thread-394 (_run_job):198064 [wandb_setup.py:_flush():67] Configure stats pid to 198064
+2025-03-10 14:00:05,872 INFO    Thread-394 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/.config/wandb/settings
+2025-03-10 14:00:05,881 INFO    Thread-394 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/Downloads/dl_ass1/wandb/settings
+2025-03-10 14:00:05,890 INFO    Thread-394 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-10 14:00:05,896 INFO    Thread-394 (_run_job):198064 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_140005-dsg7iius/logs/debug.log
+2025-03-10 14:00:05,905 INFO    Thread-394 (_run_job):198064 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_140005-dsg7iius/logs/debug-internal.log
+2025-03-10 14:00:05,921 INFO    Thread-394 (_run_job):198064 [wandb_init.py:init():761] calling init triggers
+2025-03-10 14:00:05,931 INFO    Thread-394 (_run_job):198064 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation_function': 'sigmoid', 'batch_size': 64, 'epochs': 5, 'hidden_layer_size': 32, 'learning_rate': 0.001, 'num_hidden_layers': 3, 'optimizer': 'adam', 'weight_decay': 0.5, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-10 14:00:05,942 INFO    Thread-394 (_run_job):198064 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-10 14:00:05,954 ERROR   Thread-394 (_run_job):198064 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 32] Broken pipe
+2025-03-10 14:00:05,984 INFO    Thread-394 (_run_job):198064 [wandb_run.py:_finish():2112] finishing run snehalma23m020-iit-madras/DLassignment1/hx7kfgf3
+2025-03-10 14:08:43,140 INFO    Thread-395 (_run_job):198064 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-10 14:08:43,149 INFO    Thread-395 (_run_job):198064 [wandb_setup.py:_flush():67] Configure stats pid to 198064
+2025-03-10 14:08:43,158 INFO    Thread-395 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/.config/wandb/settings
+2025-03-10 14:08:43,167 INFO    Thread-395 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/Downloads/dl_ass1/wandb/settings
+2025-03-10 14:08:43,176 INFO    Thread-395 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-10 14:08:43,183 INFO    Thread-395 (_run_job):198064 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_140843-0p3m2ych/logs/debug.log
+2025-03-10 14:08:43,191 INFO    Thread-395 (_run_job):198064 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_140843-0p3m2ych/logs/debug-internal.log
+2025-03-10 14:08:43,200 INFO    Thread-395 (_run_job):198064 [wandb_init.py:init():761] calling init triggers
+2025-03-10 14:08:43,210 INFO    Thread-395 (_run_job):198064 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation_function': 'relu', 'batch_size': 32, 'epochs': 10, 'hidden_layer_size': 128, 'learning_rate': 0.001, 'num_hidden_layers': 5, 'optimizer': 'nadam', 'weight_decay': 0.0005, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-10 14:08:43,218 INFO    Thread-395 (_run_job):198064 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-10 14:08:43,225 ERROR   Thread-395 (_run_job):198064 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 32] Broken pipe
+2025-03-10 14:08:43,240 INFO    Thread-395 (_run_job):198064 [wandb_run.py:_finish():2112] finishing run snehalma23m020-iit-madras/DLassignment1/hx7kfgf3
+2025-03-10 14:08:53,359 INFO    Thread-396 (_run_job):198064 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-10 14:08:53,366 INFO    Thread-396 (_run_job):198064 [wandb_setup.py:_flush():67] Configure stats pid to 198064
+2025-03-10 14:08:53,373 INFO    Thread-396 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/.config/wandb/settings
+2025-03-10 14:08:53,378 INFO    Thread-396 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/Downloads/dl_ass1/wandb/settings
+2025-03-10 14:08:53,383 INFO    Thread-396 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-10 14:08:53,389 INFO    Thread-396 (_run_job):198064 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_140853-0dwgczph/logs/debug.log
+2025-03-10 14:08:53,397 INFO    Thread-396 (_run_job):198064 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_140853-0dwgczph/logs/debug-internal.log
+2025-03-10 14:08:53,405 INFO    Thread-396 (_run_job):198064 [wandb_init.py:init():761] calling init triggers
+2025-03-10 14:08:53,418 INFO    Thread-396 (_run_job):198064 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation_function': 'tanh', 'batch_size': 32, 'epochs': 5, 'hidden_layer_size': 64, 'learning_rate': 0.0001, 'num_hidden_layers': 5, 'optimizer': 'sgd', 'weight_decay': 0.0005, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-10 14:08:53,433 INFO    Thread-396 (_run_job):198064 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-10 14:08:53,447 ERROR   Thread-396 (_run_job):198064 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 32] Broken pipe
+2025-03-10 14:08:53,470 INFO    Thread-396 (_run_job):198064 [wandb_run.py:_finish():2112] finishing run snehalma23m020-iit-madras/DLassignment1/hx7kfgf3
+2025-03-10 14:08:54,198 INFO    Thread-397 (_run_job):198064 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-10 14:08:54,205 INFO    Thread-397 (_run_job):198064 [wandb_setup.py:_flush():67] Configure stats pid to 198064
+2025-03-10 14:08:54,213 INFO    Thread-397 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/.config/wandb/settings
+2025-03-10 14:08:54,220 INFO    Thread-397 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/Downloads/dl_ass1/wandb/settings
+2025-03-10 14:08:54,228 INFO    Thread-397 (_run_job):198064 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-10 14:08:54,237 INFO    Thread-397 (_run_job):198064 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_140854-lh73b5bm/logs/debug.log
+2025-03-10 14:08:54,246 INFO    Thread-397 (_run_job):198064 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250310_140854-lh73b5bm/logs/debug-internal.log
+2025-03-10 14:08:54,263 INFO    Thread-397 (_run_job):198064 [wandb_init.py:init():761] calling init triggers
+2025-03-10 14:08:54,279 INFO    Thread-397 (_run_job):198064 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation_function': 'tanh', 'batch_size': 64, 'epochs': 10, 'hidden_layer_size': 32, 'learning_rate': 0.001, 'num_hidden_layers': 3, 'optimizer': 'nesterov', 'weight_decay': 0.5, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-10 14:08:54,294 INFO    Thread-397 (_run_job):198064 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-10 14:08:54,307 ERROR   Thread-397 (_run_job):198064 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/interface/interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 32] Broken pipe
+2025-03-10 14:08:54,330 INFO    Thread-397 (_run_job):198064 [wandb_run.py:_finish():2112] finishing run snehalma23m020-iit-madras/DLassignment1/hx7kfgf3
+2025-03-10 14:08:54,391 INFO    MainThread:198064 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-10 14:08:54,395 INFO    MainThread:198064 [wandb_init.py:_pause_backend():564] pausing backend

@@ -1,0 +1,16 @@
+{"time":"2025-03-10T17:05:16.238231227+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_170516-pimq4i1e/logs/debug-core.log"}
+{"time":"2025-03-10T17:05:16.342586708+05:30","level":"INFO","msg":"created new stream","id":"pimq4i1e"}
+{"time":"2025-03-10T17:05:16.34261497+05:30","level":"INFO","msg":"stream: started","id":"pimq4i1e"}
+{"time":"2025-03-10T17:05:16.342749131+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pimq4i1e"}
+{"time":"2025-03-10T17:05:16.34278057+05:30","level":"INFO","msg":"sender: started","stream_id":"pimq4i1e"}
+{"time":"2025-03-10T17:05:16.342825691+05:30","level":"INFO","msg":"handler: started","stream_id":"pimq4i1e"}
+{"time":"2025-03-10T17:05:16.813717486+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T17:05:25.884252559+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T17:05:25.884790015+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T17:05:26.887883545+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.073026364,"progress":"80B/80B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.073008137,"progress":"209B/209B"}],"total_operations":2}}
+{"time":"2025-03-10T17:05:28.429046503+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T17:05:29.946825984+05:30","level":"INFO","msg":"stream: closing","id":"pimq4i1e"}
+{"time":"2025-03-10T17:05:29.946861283+05:30","level":"INFO","msg":"handler: closed","stream_id":"pimq4i1e"}
+{"time":"2025-03-10T17:05:29.946875303+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pimq4i1e"}
+{"time":"2025-03-10T17:05:29.946927199+05:30","level":"INFO","msg":"sender: closed","stream_id":"pimq4i1e"}
+{"time":"2025-03-10T17:05:29.946986191+05:30","level":"INFO","msg":"stream: closed","id":"pimq4i1e"}

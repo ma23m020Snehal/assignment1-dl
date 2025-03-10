@@ -1,0 +1,16 @@
+{"time":"2025-03-10T16:54:20.500472402+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_165420-zibe0g20/logs/debug-core.log"}
+{"time":"2025-03-10T16:54:20.604645569+05:30","level":"INFO","msg":"created new stream","id":"zibe0g20"}
+{"time":"2025-03-10T16:54:20.604761914+05:30","level":"INFO","msg":"stream: started","id":"zibe0g20"}
+{"time":"2025-03-10T16:54:20.604887319+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zibe0g20"}
+{"time":"2025-03-10T16:54:20.604919594+05:30","level":"INFO","msg":"sender: started","stream_id":"zibe0g20"}
+{"time":"2025-03-10T16:54:20.60506459+05:30","level":"INFO","msg":"handler: started","stream_id":"zibe0g20"}
+{"time":"2025-03-10T16:54:21.056421808+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T16:55:04.112593278+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T16:55:04.113861845+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T16:55:05.117362154+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.170698464}],"total_operations":1}}
+{"time":"2025-03-10T16:55:06.192650766+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T16:55:07.65168592+05:30","level":"INFO","msg":"stream: closing","id":"zibe0g20"}
+{"time":"2025-03-10T16:55:07.651712001+05:30","level":"INFO","msg":"handler: closed","stream_id":"zibe0g20"}
+{"time":"2025-03-10T16:55:07.651725476+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zibe0g20"}
+{"time":"2025-03-10T16:55:07.651815511+05:30","level":"INFO","msg":"sender: closed","stream_id":"zibe0g20"}
+{"time":"2025-03-10T16:55:07.651828889+05:30","level":"INFO","msg":"stream: closed","id":"zibe0g20"}

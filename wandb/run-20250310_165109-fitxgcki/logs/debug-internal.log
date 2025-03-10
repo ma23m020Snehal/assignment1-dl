@@ -1,0 +1,16 @@
+{"time":"2025-03-10T16:51:09.838106367+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_165109-fitxgcki/logs/debug-core.log"}
+{"time":"2025-03-10T16:51:09.944921544+05:30","level":"INFO","msg":"created new stream","id":"fitxgcki"}
+{"time":"2025-03-10T16:51:09.944997356+05:30","level":"INFO","msg":"stream: started","id":"fitxgcki"}
+{"time":"2025-03-10T16:51:09.945114257+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fitxgcki"}
+{"time":"2025-03-10T16:51:09.945156789+05:30","level":"INFO","msg":"handler: started","stream_id":"fitxgcki"}
+{"time":"2025-03-10T16:51:09.945252083+05:30","level":"INFO","msg":"sender: started","stream_id":"fitxgcki"}
+{"time":"2025-03-10T16:51:10.466097491+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T16:51:22.37031881+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T16:51:22.372595197+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T16:51:23.376448644+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.325937323}],"total_operations":1}}
+{"time":"2025-03-10T16:51:25.086762177+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T16:51:26.615345655+05:30","level":"INFO","msg":"stream: closing","id":"fitxgcki"}
+{"time":"2025-03-10T16:51:26.615361248+05:30","level":"INFO","msg":"handler: closed","stream_id":"fitxgcki"}
+{"time":"2025-03-10T16:51:26.615369124+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fitxgcki"}
+{"time":"2025-03-10T16:51:26.615427065+05:30","level":"INFO","msg":"sender: closed","stream_id":"fitxgcki"}
+{"time":"2025-03-10T16:51:26.615459276+05:30","level":"INFO","msg":"stream: closed","id":"fitxgcki"}

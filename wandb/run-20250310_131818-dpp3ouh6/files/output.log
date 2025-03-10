@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/tmp/ipykernel_198064/4148178774.py", line 28, in train_model_sweep
+    optimizer = Nadam(learning_rate=config.learning_rate, beta1=0.9, beta2=0.999)
+                ^^^^^
+NameError: name 'Nadam' is not defined

@@ -1,0 +1,16 @@
+{"time":"2025-03-10T05:46:02.508928167+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_054602-cizv32ds/logs/debug-core.log"}
+{"time":"2025-03-10T05:46:02.613223021+05:30","level":"INFO","msg":"created new stream","id":"cizv32ds"}
+{"time":"2025-03-10T05:46:02.613294259+05:30","level":"INFO","msg":"stream: started","id":"cizv32ds"}
+{"time":"2025-03-10T05:46:02.613368309+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cizv32ds"}
+{"time":"2025-03-10T05:46:02.613415396+05:30","level":"INFO","msg":"sender: started","stream_id":"cizv32ds"}
+{"time":"2025-03-10T05:46:02.613523605+05:30","level":"INFO","msg":"handler: started","stream_id":"cizv32ds"}
+{"time":"2025-03-10T05:46:02.953229916+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T05:48:29.564533784+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T05:48:29.567304735+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T05:48:30.564543289+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.203383137}],"total_operations":1}}
+{"time":"2025-03-10T05:48:32.281128987+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T05:48:33.618643213+05:30","level":"INFO","msg":"stream: closing","id":"cizv32ds"}
+{"time":"2025-03-10T05:48:33.618667553+05:30","level":"INFO","msg":"handler: closed","stream_id":"cizv32ds"}
+{"time":"2025-03-10T05:48:33.618687996+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cizv32ds"}
+{"time":"2025-03-10T05:48:33.618762115+05:30","level":"INFO","msg":"sender: closed","stream_id":"cizv32ds"}
+{"time":"2025-03-10T05:48:33.618814525+05:30","level":"INFO","msg":"stream: closed","id":"cizv32ds"}

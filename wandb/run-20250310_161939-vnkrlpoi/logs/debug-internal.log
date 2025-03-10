@@ -1,0 +1,16 @@
+{"time":"2025-03-10T16:19:39.708133081+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_161939-vnkrlpoi/logs/debug-core.log"}
+{"time":"2025-03-10T16:19:39.811090729+05:30","level":"INFO","msg":"created new stream","id":"vnkrlpoi"}
+{"time":"2025-03-10T16:19:39.811119062+05:30","level":"INFO","msg":"stream: started","id":"vnkrlpoi"}
+{"time":"2025-03-10T16:19:39.811171402+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vnkrlpoi"}
+{"time":"2025-03-10T16:19:39.811190859+05:30","level":"INFO","msg":"handler: started","stream_id":"vnkrlpoi"}
+{"time":"2025-03-10T16:19:39.811251575+05:30","level":"INFO","msg":"sender: started","stream_id":"vnkrlpoi"}
+{"time":"2025-03-10T16:19:40.152435508+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T16:20:21.737085762+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T16:20:21.738769393+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T16:20:22.745589181+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.247300136}],"total_operations":1}}
+{"time":"2025-03-10T16:20:23.830227187+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T16:20:25.171241128+05:30","level":"INFO","msg":"stream: closing","id":"vnkrlpoi"}
+{"time":"2025-03-10T16:20:25.171255167+05:30","level":"INFO","msg":"handler: closed","stream_id":"vnkrlpoi"}
+{"time":"2025-03-10T16:20:25.171262421+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vnkrlpoi"}
+{"time":"2025-03-10T16:20:25.171308627+05:30","level":"INFO","msg":"sender: closed","stream_id":"vnkrlpoi"}
+{"time":"2025-03-10T16:20:25.171315604+05:30","level":"INFO","msg":"stream: closed","id":"vnkrlpoi"}

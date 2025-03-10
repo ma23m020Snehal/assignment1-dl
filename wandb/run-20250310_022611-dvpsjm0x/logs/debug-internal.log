@@ -1,0 +1,16 @@
+{"time":"2025-03-10T02:26:11.019754105+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_022611-dvpsjm0x/logs/debug-core.log"}
+{"time":"2025-03-10T02:26:11.123960122+05:30","level":"INFO","msg":"created new stream","id":"dvpsjm0x"}
+{"time":"2025-03-10T02:26:11.124012578+05:30","level":"INFO","msg":"stream: started","id":"dvpsjm0x"}
+{"time":"2025-03-10T02:26:11.124135998+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dvpsjm0x"}
+{"time":"2025-03-10T02:26:11.12416068+05:30","level":"INFO","msg":"sender: started","stream_id":"dvpsjm0x"}
+{"time":"2025-03-10T02:26:11.124326977+05:30","level":"INFO","msg":"handler: started","stream_id":"dvpsjm0x"}
+{"time":"2025-03-10T02:26:11.635305334+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T02:26:39.186203301+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T02:26:39.187514854+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T02:26:40.190002232+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.408835199,"progress":"80B/80B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.408808667,"progress":"213B/213B"},{"desc":"uploading config.yaml","runtime_seconds":0.093565074,"progress":"891B/891B"}],"total_operations":3}}
+{"time":"2025-03-10T02:26:41.120407732+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T02:26:42.752551385+05:30","level":"INFO","msg":"stream: closing","id":"dvpsjm0x"}
+{"time":"2025-03-10T02:26:42.752580007+05:30","level":"INFO","msg":"handler: closed","stream_id":"dvpsjm0x"}
+{"time":"2025-03-10T02:26:42.752602363+05:30","level":"INFO","msg":"sender: closed","stream_id":"dvpsjm0x"}
+{"time":"2025-03-10T02:26:42.75259406+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"dvpsjm0x"}
+{"time":"2025-03-10T02:26:42.752686885+05:30","level":"INFO","msg":"stream: closed","id":"dvpsjm0x"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-10T19:00:45.63812362+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250310_190045-nucy6dep/logs/debug-core.log"}
+{"time":"2025-03-10T19:00:45.744375999+05:30","level":"INFO","msg":"created new stream","id":"nucy6dep"}
+{"time":"2025-03-10T19:00:45.744445475+05:30","level":"INFO","msg":"stream: started","id":"nucy6dep"}
+{"time":"2025-03-10T19:00:45.744722361+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nucy6dep"}
+{"time":"2025-03-10T19:00:45.744731146+05:30","level":"INFO","msg":"sender: started","stream_id":"nucy6dep"}
+{"time":"2025-03-10T19:00:45.744912341+05:30","level":"INFO","msg":"handler: started","stream_id":"nucy6dep"}
+{"time":"2025-03-10T19:00:46.28519042+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T19:01:04.381887282+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T19:01:04.384651005+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T19:01:05.385892606+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.171856465,"progress":"83B/83B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.171831109,"progress":"213B/213B"}],"total_operations":2}}
+{"time":"2025-03-10T19:01:05.99461108+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T19:01:07.377047429+05:30","level":"INFO","msg":"stream: closing","id":"nucy6dep"}
+{"time":"2025-03-10T19:01:07.377088599+05:30","level":"INFO","msg":"handler: closed","stream_id":"nucy6dep"}
+{"time":"2025-03-10T19:01:07.377108054+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nucy6dep"}
+{"time":"2025-03-10T19:01:07.377188393+05:30","level":"INFO","msg":"sender: closed","stream_id":"nucy6dep"}
+{"time":"2025-03-10T19:01:07.37728146+05:30","level":"INFO","msg":"stream: closed","id":"nucy6dep"}

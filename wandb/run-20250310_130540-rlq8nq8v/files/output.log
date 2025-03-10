@@ -1,0 +1,10 @@
+Loss type: squared_error | Epoch 1/10 | Train Loss: 0.1353 | Val Loss: 0.1000 | Val Acc: 0.8615
+Loss type: squared_error | Epoch 2/10 | Train Loss: 0.1013 | Val Loss: 0.0934 | Val Acc: 0.8663
+Loss type: squared_error | Epoch 3/10 | Train Loss: 0.0928 | Val Loss: 0.0844 | Val Acc: 0.8795
+Loss type: squared_error | Epoch 4/10 | Train Loss: 0.0872 | Val Loss: 0.0870 | Val Acc: 0.8783
+Loss type: squared_error | Epoch 5/10 | Train Loss: 0.0831 | Val Loss: 0.0843 | Val Acc: 0.8845
+Loss type: squared_error | Epoch 6/10 | Train Loss: 0.0795 | Val Loss: 0.0833 | Val Acc: 0.8837
+Loss type: squared_error | Epoch 7/10 | Train Loss: 0.0772 | Val Loss: 0.0804 | Val Acc: 0.8872
+Loss type: squared_error | Epoch 8/10 | Train Loss: 0.0747 | Val Loss: 0.0809 | Val Acc: 0.8858
+Loss type: squared_error | Epoch 9/10 | Train Loss: 0.0738 | Val Loss: 0.0774 | Val Acc: 0.8900
+Loss type: squared_error | Epoch 10/10 | Train Loss: 0.0710 | Val Loss: 0.0805 | Val Acc: 0.8870

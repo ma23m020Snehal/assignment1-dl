@@ -1,0 +1,16 @@
+{"time":"2025-03-09T20:05:46.904408606+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250309_200546-mf6iern4/logs/debug-core.log"}
+{"time":"2025-03-09T20:05:47.009198728+05:30","level":"INFO","msg":"created new stream","id":"mf6iern4"}
+{"time":"2025-03-09T20:05:47.009228144+05:30","level":"INFO","msg":"stream: started","id":"mf6iern4"}
+{"time":"2025-03-09T20:05:47.009303293+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mf6iern4"}
+{"time":"2025-03-09T20:05:47.009310468+05:30","level":"INFO","msg":"handler: started","stream_id":"mf6iern4"}
+{"time":"2025-03-09T20:05:47.009385408+05:30","level":"INFO","msg":"sender: started","stream_id":"mf6iern4"}
+{"time":"2025-03-09T20:05:47.42187268+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T20:06:02.473121063+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T20:06:02.473715338+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T20:06:03.478686282+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.389250247,"progress":"83B/83B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.389200157,"progress":"223B/223B"},{"desc":"uploading history steps 0-15, summary, console lines 0-0","runtime_seconds":0.309660796}],"total_operations":3}}
+{"time":"2025-03-09T20:06:03.852783793+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T20:06:05.309813554+05:30","level":"INFO","msg":"stream: closing","id":"mf6iern4"}
+{"time":"2025-03-09T20:06:05.309834644+05:30","level":"INFO","msg":"handler: closed","stream_id":"mf6iern4"}
+{"time":"2025-03-09T20:06:05.309846219+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mf6iern4"}
+{"time":"2025-03-09T20:06:05.309909537+05:30","level":"INFO","msg":"sender: closed","stream_id":"mf6iern4"}
+{"time":"2025-03-09T20:06:05.309960394+05:30","level":"INFO","msg":"stream: closed","id":"mf6iern4"}
