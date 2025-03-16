@@ -1,0 +1,98 @@
+Epoch 1/20 | Loss: 0.5737 | Training Accuracy: 0.8339
+Epoch 2/20 | Loss: 0.4053 | Training Accuracy: 0.8684
+Epoch 3/20 | Loss: 0.3627 | Training Accuracy: 0.8793
+Epoch 4/20 | Loss: 0.3385 | Training Accuracy: 0.8788
+Epoch 5/20 | Loss: 0.3179 | Training Accuracy: 0.8899
+Epoch 6/20 | Loss: 0.3028 | Training Accuracy: 0.8936
+Epoch 7/20 | Loss: 0.2905 | Training Accuracy: 0.8840
+Epoch 8/20 | Loss: 0.2807 | Training Accuracy: 0.9048
+Epoch 9/20 | Loss: 0.2683 | Training Accuracy: 0.8902
+Epoch 10/20 | Loss: 0.2633 | Training Accuracy: 0.9028
+Epoch 11/20 | Loss: 0.2546 | Training Accuracy: 0.9107
+Epoch 12/20 | Loss: 0.2474 | Training Accuracy: 0.9130
+Epoch 13/20 | Loss: 0.2379 | Training Accuracy: 0.9052
+Epoch 14/20 | Loss: 0.2343 | Training Accuracy: 0.9153
+Epoch 15/20 | Loss: 0.2277 | Training Accuracy: 0.9085
+Epoch 16/20 | Loss: 0.2226 | Training Accuracy: 0.9179
+Epoch 17/20 | Loss: 0.2178 | Training Accuracy: 0.9239
+Epoch 18/20 | Loss: 0.2120 | Training Accuracy: 0.9227
+Epoch 19/20 | Loss: 0.2055 | Training Accuracy: 0.9225
+Epoch 20/20 | Loss: 0.2042 | Training Accuracy: 0.9227
+Final Test Accuracy: 0.8796
+
+Test Sample 10 Probability Distribution:
+T-shirt/top: 0.0002
+Trouser: 0.0001
+Pullover: 0.0681
+Dress: 0.0000
+Coat: 0.8610
+Sandal: 0.0000
+Shirt: 0.0703
+Sneaker: 0.0000
+Bag: 0.0002
+Ankle boot: 0.0001
+
+
+Test Sample 20 Probability Distribution:
+T-shirt/top: 0.0076
+Trouser: 0.0000
+Pullover: 0.9842
+Dress: 0.0000
+Coat: 0.0001
+Sandal: 0.0000
+Shirt: 0.0080
+Sneaker: 0.0000
+Bag: 0.0000
+Ankle boot: 0.0000
+
+
+Test Sample 45 Probability Distribution:
+T-shirt/top: 0.0000
+Trouser: 0.0000
+Pullover: 0.0000
+Dress: 0.0000
+Coat: 0.0000
+Sandal: 0.0154
+Shirt: 0.0000
+Sneaker: 0.9771
+Bag: 0.0000
+Ankle boot: 0.0075
+
+
+Test Sample 80 Probability Distribution:
+T-shirt/top: 0.0002
+Trouser: 0.9975
+Pullover: 0.0001
+Dress: 0.0018
+Coat: 0.0003
+Sandal: 0.0000
+Shirt: 0.0002
+Sneaker: 0.0000
+Bag: 0.0000
+Ankle boot: 0.0000
+
+
+Test Sample 980 Probability Distribution:
+T-shirt/top: 0.0000
+Trouser: 0.0000
+Pullover: 0.0000
+Dress: 0.0000
+Coat: 0.0000
+Sandal: 0.0000
+Shirt: 0.0000
+Sneaker: 0.0002
+Bag: 0.0000
+Ankle boot: 0.9998
+
+
+Test Sample 60 Probability Distribution:
+T-shirt/top: 0.0000
+Trouser: 0.0000
+Pullover: 0.0000
+Dress: 0.0000
+Coat: 0.0000
+Sandal: 0.0000
+Shirt: 0.0000
+Sneaker: 0.9999
+Bag: 0.0000
+Ankle boot: 0.0000

@@ -1,0 +1,18 @@
+{"time":"2025-03-16T13:21:26.432739768+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_132126-k411akna/logs/debug-core.log"}
+{"time":"2025-03-16T13:21:26.535545685+05:30","level":"INFO","msg":"created new stream","id":"k411akna"}
+{"time":"2025-03-16T13:21:26.535561979+05:30","level":"INFO","msg":"stream: started","id":"k411akna"}
+{"time":"2025-03-16T13:21:26.535631416+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"k411akna"}
+{"time":"2025-03-16T13:21:26.535674433+05:30","level":"INFO","msg":"sender: started","stream_id":"k411akna"}
+{"time":"2025-03-16T13:21:26.535683097+05:30","level":"INFO","msg":"handler: started","stream_id":"k411akna"}
+{"time":"2025-03-16T13:21:27.293139769+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T13:22:24.865082125+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T13:22:24.878387143+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T13:22:25.873349579+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T13:22:25.873996284+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T13:22:26.876437083+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-k411akna-SampleProbabilityDistributions","runtime_seconds":1.00839205},{"desc":"uploading output.log","runtime_seconds":0.191189972,"progress":"2.3KB/2.3KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.191172905,"progress":"885B/885B"}],"total_operations":3}}
+{"time":"2025-03-16T13:22:30.315707218+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T13:22:31.695430956+05:30","level":"INFO","msg":"stream: closing","id":"k411akna"}
+{"time":"2025-03-16T13:22:31.695464525+05:30","level":"INFO","msg":"handler: closed","stream_id":"k411akna"}
+{"time":"2025-03-16T13:22:31.695484317+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"k411akna"}
+{"time":"2025-03-16T13:22:31.695538611+05:30","level":"INFO","msg":"sender: closed","stream_id":"k411akna"}
+{"time":"2025-03-16T13:22:31.695627263+05:30","level":"INFO","msg":"stream: closed","id":"k411akna"}
