@@ -1,0 +1,16 @@
+{"time":"2025-03-16T18:02:58.089146167+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_180258-oddfh8cr/logs/debug-core.log"}
+{"time":"2025-03-16T18:02:58.192839971+05:30","level":"INFO","msg":"created new stream","id":"oddfh8cr"}
+{"time":"2025-03-16T18:02:58.192886701+05:30","level":"INFO","msg":"stream: started","id":"oddfh8cr"}
+{"time":"2025-03-16T18:02:58.192952095+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"oddfh8cr"}
+{"time":"2025-03-16T18:02:58.19298963+05:30","level":"INFO","msg":"sender: started","stream_id":"oddfh8cr"}
+{"time":"2025-03-16T18:02:58.192998976+05:30","level":"INFO","msg":"handler: started","stream_id":"oddfh8cr"}
+{"time":"2025-03-16T18:02:58.745646831+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T18:03:21.892375227+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T18:03:21.893254764+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T18:03:22.899043205+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.399197647,"progress":"70B/70B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.39920509,"progress":"222B/222B"},{"desc":"uploading config.yaml","runtime_seconds":0.116714996,"progress":"894B/894B"}],"total_operations":3}}
+{"time":"2025-03-16T18:03:23.81746615+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T18:03:25.154854022+05:30","level":"INFO","msg":"stream: closing","id":"oddfh8cr"}
+{"time":"2025-03-16T18:03:25.154903045+05:30","level":"INFO","msg":"handler: closed","stream_id":"oddfh8cr"}
+{"time":"2025-03-16T18:03:25.154922853+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"oddfh8cr"}
+{"time":"2025-03-16T18:03:25.154934159+05:30","level":"INFO","msg":"sender: closed","stream_id":"oddfh8cr"}
+{"time":"2025-03-16T18:03:25.155070525+05:30","level":"INFO","msg":"stream: closed","id":"oddfh8cr"}

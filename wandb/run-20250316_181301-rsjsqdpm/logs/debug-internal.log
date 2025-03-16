@@ -1,0 +1,16 @@
+{"time":"2025-03-16T18:13:01.202317967+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_181301-rsjsqdpm/logs/debug-core.log"}
+{"time":"2025-03-16T18:13:01.305970253+05:30","level":"INFO","msg":"created new stream","id":"rsjsqdpm"}
+{"time":"2025-03-16T18:13:01.306003066+05:30","level":"INFO","msg":"stream: started","id":"rsjsqdpm"}
+{"time":"2025-03-16T18:13:01.306112471+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rsjsqdpm"}
+{"time":"2025-03-16T18:13:01.306191087+05:30","level":"INFO","msg":"handler: started","stream_id":"rsjsqdpm"}
+{"time":"2025-03-16T18:13:01.306193156+05:30","level":"INFO","msg":"sender: started","stream_id":"rsjsqdpm"}
+{"time":"2025-03-16T18:13:01.700613034+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T18:13:18.568746036+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T18:13:18.569684393+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T18:13:19.575411072+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.395531651,"progress":"70B/70B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.395501337,"progress":"208B/208B"},{"desc":"uploading config.yaml","runtime_seconds":0.11140355,"progress":"895B/895B"}],"total_operations":3}}
+{"time":"2025-03-16T18:13:19.930912724+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T18:13:21.352201524+05:30","level":"INFO","msg":"stream: closing","id":"rsjsqdpm"}
+{"time":"2025-03-16T18:13:21.352216852+05:30","level":"INFO","msg":"handler: closed","stream_id":"rsjsqdpm"}
+{"time":"2025-03-16T18:13:21.352226245+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rsjsqdpm"}
+{"time":"2025-03-16T18:13:21.352277337+05:30","level":"INFO","msg":"sender: closed","stream_id":"rsjsqdpm"}
+{"time":"2025-03-16T18:13:21.352314217+05:30","level":"INFO","msg":"stream: closed","id":"rsjsqdpm"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-16T18:25:40.194776289+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_182540-y50jbro1/logs/debug-core.log"}
+{"time":"2025-03-16T18:25:40.310651895+05:30","level":"INFO","msg":"created new stream","id":"y50jbro1"}
+{"time":"2025-03-16T18:25:40.31068848+05:30","level":"INFO","msg":"stream: started","id":"y50jbro1"}
+{"time":"2025-03-16T18:25:40.3107416+05:30","level":"INFO","msg":"sender: started","stream_id":"y50jbro1"}
+{"time":"2025-03-16T18:25:40.310763899+05:30","level":"INFO","msg":"handler: started","stream_id":"y50jbro1"}
+{"time":"2025-03-16T18:25:40.310736429+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"y50jbro1"}
+{"time":"2025-03-16T18:25:40.696257225+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T18:25:49.137781022+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T18:25:49.139680608+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T18:25:50.143891709+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.347732297,"progress":"80B/80B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.347704753,"progress":"208B/208B"},{"desc":"uploading config.yaml","runtime_seconds":0.120675825,"progress":"890B/890B"}],"total_operations":3}}
+{"time":"2025-03-16T18:25:50.392675814+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T18:25:52.116941843+05:30","level":"INFO","msg":"stream: closing","id":"y50jbro1"}
+{"time":"2025-03-16T18:25:52.116988426+05:30","level":"INFO","msg":"handler: closed","stream_id":"y50jbro1"}
+{"time":"2025-03-16T18:25:52.117013232+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"y50jbro1"}
+{"time":"2025-03-16T18:25:52.117078964+05:30","level":"INFO","msg":"sender: closed","stream_id":"y50jbro1"}
+{"time":"2025-03-16T18:25:52.117200214+05:30","level":"INFO","msg":"stream: closed","id":"y50jbro1"}

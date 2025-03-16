@@ -1,0 +1,16 @@
+{"time":"2025-03-16T18:02:49.506646717+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_180249-5943edux/logs/debug-core.log"}
+{"time":"2025-03-16T18:02:49.610067945+05:30","level":"INFO","msg":"created new stream","id":"5943edux"}
+{"time":"2025-03-16T18:02:49.610103052+05:30","level":"INFO","msg":"stream: started","id":"5943edux"}
+{"time":"2025-03-16T18:02:49.610126886+05:30","level":"INFO","msg":"handler: started","stream_id":"5943edux"}
+{"time":"2025-03-16T18:02:49.610137012+05:30","level":"INFO","msg":"sender: started","stream_id":"5943edux"}
+{"time":"2025-03-16T18:02:49.610123464+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5943edux"}
+{"time":"2025-03-16T18:02:49.956986732+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T18:02:50.922106435+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T18:02:50.922622732+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T18:02:51.924405926+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-5943edux-OptimizerComparison","runtime_seconds":1.258689213,"subtasks":[{"desc":"Optimizer Comparison.table.json","runtime_seconds":0.156522957,"progress":"992B/992B"}]},{"desc":"uploading output.log","runtime_seconds":0.690256983},{"desc":"uploading wandb-summary.json","runtime_seconds":0.690242147,"progress":"743B/743B"},{"desc":"uploading config.yaml","runtime_seconds":0.417195109,"progress":"602B/602B"}],"total_operations":4}}
+{"time":"2025-03-16T18:02:53.291540217+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T18:02:54.683504011+05:30","level":"INFO","msg":"stream: closing","id":"5943edux"}
+{"time":"2025-03-16T18:02:54.68352456+05:30","level":"INFO","msg":"handler: closed","stream_id":"5943edux"}
+{"time":"2025-03-16T18:02:54.683533804+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5943edux"}
+{"time":"2025-03-16T18:02:54.683577294+05:30","level":"INFO","msg":"sender: closed","stream_id":"5943edux"}
+{"time":"2025-03-16T18:02:54.683592742+05:30","level":"INFO","msg":"stream: closed","id":"5943edux"}

@@ -17,3 +17,14 @@ config: {'optimizer': 'Nadam', 'num_epochs': 10, 'batch_size': 64, 'layer_sizes'
 2025-03-16 17:45:54,405 INFO    MainThread:42539 [wandb_run.py:_redirect():2292] Wrapping output streams.
 2025-03-16 17:45:54,405 INFO    MainThread:42539 [wandb_run.py:_redirect():2317] Redirects installed.
 2025-03-16 17:45:54,406 INFO    MainThread:42539 [wandb_init.py:init():1037] run started, returning control to user process
+2025-03-16 18:02:45,459 INFO    MainThread:42539 [wandb_run.py:_finish():2112] finishing run snehalma23m020-iit-madras/DLassignment1/sjtrg7eh
+2025-03-16 18:02:45,459 ERROR   MainThread:42539 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-03-16 18:02:45,460 INFO    MainThread:42539 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 18:02:45,460 INFO    MainThread:42539 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-16 18:02:45,460 INFO    MainThread:42539 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 0
+2025-03-16 18:02:45,460 INFO    MainThread:42539 [wandb_run.py:_restore():2324] restore
+2025-03-16 18:02:45,460 INFO    MainThread:42539 [wandb_run.py:_restore():2330] restore done
+2025-03-16 18:02:49,220 INFO    MsgRouterThr:42539 [mailbox.py:close():115] Closing mailbox, abandoning 1 handles.
+2025-03-16 18:02:49,220 INFO    MainThread:42539 [wandb_run.py:_footer_history_summary_info():3958] rendering history
+2025-03-16 18:02:49,220 INFO    MainThread:42539 [wandb_run.py:_footer_history_summary_info():3990] rendering summary
+2025-03-16 18:02:49,222 INFO    MainThread:42539 [wandb_run.py:_footer_sync_info():3919] logging synced files

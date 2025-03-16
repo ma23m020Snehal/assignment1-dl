@@ -1,0 +1,16 @@
+{"time":"2025-03-16T18:23:29.717221891+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_182329-jsrx3scn/logs/debug-core.log"}
+{"time":"2025-03-16T18:23:29.824194527+05:30","level":"INFO","msg":"created new stream","id":"jsrx3scn"}
+{"time":"2025-03-16T18:23:29.82429127+05:30","level":"INFO","msg":"stream: started","id":"jsrx3scn"}
+{"time":"2025-03-16T18:23:29.824430027+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jsrx3scn"}
+{"time":"2025-03-16T18:23:29.824447776+05:30","level":"INFO","msg":"handler: started","stream_id":"jsrx3scn"}
+{"time":"2025-03-16T18:23:29.82452358+05:30","level":"INFO","msg":"sender: started","stream_id":"jsrx3scn"}
+{"time":"2025-03-16T18:23:30.33363755+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T18:23:38.915581636+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T18:23:38.916145875+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T18:23:39.919142959+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.196351588,"progress":"223B/223B"},{"desc":"uploading output.log","runtime_seconds":0.196320273,"progress":"79B/79B"}],"total_operations":2}}
+{"time":"2025-03-16T18:23:40.539458677+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T18:23:41.870835586+05:30","level":"INFO","msg":"stream: closing","id":"jsrx3scn"}
+{"time":"2025-03-16T18:23:41.870867701+05:30","level":"INFO","msg":"handler: closed","stream_id":"jsrx3scn"}
+{"time":"2025-03-16T18:23:41.870886465+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jsrx3scn"}
+{"time":"2025-03-16T18:23:41.870906098+05:30","level":"INFO","msg":"sender: closed","stream_id":"jsrx3scn"}
+{"time":"2025-03-16T18:23:41.871000279+05:30","level":"INFO","msg":"stream: closed","id":"jsrx3scn"}

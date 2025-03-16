@@ -1,0 +1,16 @@
+{"time":"2025-03-16T18:30:26.80972807+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_183026-bzct4xxk/logs/debug-core.log"}
+{"time":"2025-03-16T18:30:26.91452715+05:30","level":"INFO","msg":"created new stream","id":"bzct4xxk"}
+{"time":"2025-03-16T18:30:26.914580678+05:30","level":"INFO","msg":"stream: started","id":"bzct4xxk"}
+{"time":"2025-03-16T18:30:26.914655451+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bzct4xxk"}
+{"time":"2025-03-16T18:30:26.914703014+05:30","level":"INFO","msg":"sender: started","stream_id":"bzct4xxk"}
+{"time":"2025-03-16T18:30:26.914710285+05:30","level":"INFO","msg":"handler: started","stream_id":"bzct4xxk"}
+{"time":"2025-03-16T18:30:27.331612558+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T18:31:40.710060805+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T18:31:40.710839106+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T18:31:41.674104625+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.377251559,"progress":"961B/961B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3772176,"progress":"192B/192B"},{"desc":"uploading config.yaml","runtime_seconds":0.085924083,"progress":"1.0KB/1.0KB"}],"total_operations":3}}
+{"time":"2025-03-16T18:31:42.201445438+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T18:31:43.661069139+05:30","level":"INFO","msg":"stream: closing","id":"bzct4xxk"}
+{"time":"2025-03-16T18:31:43.661101349+05:30","level":"INFO","msg":"handler: closed","stream_id":"bzct4xxk"}
+{"time":"2025-03-16T18:31:43.661116575+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bzct4xxk"}
+{"time":"2025-03-16T18:31:43.661184668+05:30","level":"INFO","msg":"sender: closed","stream_id":"bzct4xxk"}
+{"time":"2025-03-16T18:31:43.661234171+05:30","level":"INFO","msg":"stream: closed","id":"bzct4xxk"}

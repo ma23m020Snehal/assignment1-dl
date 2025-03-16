@@ -1,0 +1,16 @@
+{"time":"2025-03-16T18:20:43.386341933+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_182043-widzcqil/logs/debug-core.log"}
+{"time":"2025-03-16T18:20:43.493595321+05:30","level":"INFO","msg":"created new stream","id":"widzcqil"}
+{"time":"2025-03-16T18:20:43.49365272+05:30","level":"INFO","msg":"stream: started","id":"widzcqil"}
+{"time":"2025-03-16T18:20:43.49371761+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"widzcqil"}
+{"time":"2025-03-16T18:20:43.493785971+05:30","level":"INFO","msg":"handler: started","stream_id":"widzcqil"}
+{"time":"2025-03-16T18:20:43.493934553+05:30","level":"INFO","msg":"sender: started","stream_id":"widzcqil"}
+{"time":"2025-03-16T18:20:44.090569381+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T18:22:57.78894934+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T18:22:57.78958228+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T18:22:58.794064964+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.218240875}],"total_operations":1}}
+{"time":"2025-03-16T18:22:59.739535617+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T18:23:01.203069503+05:30","level":"INFO","msg":"stream: closing","id":"widzcqil"}
+{"time":"2025-03-16T18:23:01.203111216+05:30","level":"INFO","msg":"handler: closed","stream_id":"widzcqil"}
+{"time":"2025-03-16T18:23:01.203131449+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"widzcqil"}
+{"time":"2025-03-16T18:23:01.203144343+05:30","level":"INFO","msg":"sender: closed","stream_id":"widzcqil"}
+{"time":"2025-03-16T18:23:01.203300749+05:30","level":"INFO","msg":"stream: closed","id":"widzcqil"}

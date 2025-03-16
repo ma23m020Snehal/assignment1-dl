@@ -1,0 +1,16 @@
+{"time":"2025-03-16T18:26:19.662386311+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_182619-bzct4xxk/logs/debug-core.log"}
+{"time":"2025-03-16T18:26:19.770719121+05:30","level":"INFO","msg":"created new stream","id":"bzct4xxk"}
+{"time":"2025-03-16T18:26:19.770808186+05:30","level":"INFO","msg":"stream: started","id":"bzct4xxk"}
+{"time":"2025-03-16T18:26:19.770939421+05:30","level":"INFO","msg":"handler: started","stream_id":"bzct4xxk"}
+{"time":"2025-03-16T18:26:19.770983842+05:30","level":"INFO","msg":"sender: started","stream_id":"bzct4xxk"}
+{"time":"2025-03-16T18:26:19.770963159+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bzct4xxk"}
+{"time":"2025-03-16T18:26:20.094985769+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T18:27:39.962155574+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T18:27:39.963373424+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T18:27:40.96956314+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-bzct4xxk-val_confusion_matrix_interactive_table","runtime_seconds":1.016298942},{"desc":"uploading config.yaml","runtime_seconds":0.408956426,"progress":"2.2KB/2.2KB"}],"total_operations":2}}
+{"time":"2025-03-16T18:27:43.267788933+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T18:27:44.735581449+05:30","level":"INFO","msg":"stream: closing","id":"bzct4xxk"}
+{"time":"2025-03-16T18:27:44.735626149+05:30","level":"INFO","msg":"handler: closed","stream_id":"bzct4xxk"}
+{"time":"2025-03-16T18:27:44.735652667+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bzct4xxk"}
+{"time":"2025-03-16T18:27:44.735696014+05:30","level":"INFO","msg":"sender: closed","stream_id":"bzct4xxk"}
+{"time":"2025-03-16T18:27:44.735835637+05:30","level":"INFO","msg":"stream: closed","id":"bzct4xxk"}

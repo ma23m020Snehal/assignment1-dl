@@ -1,0 +1,16 @@
+{"time":"2025-03-16T18:07:27.334578391+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_180727-rfpoekwi/logs/debug-core.log"}
+{"time":"2025-03-16T18:07:27.437738501+05:30","level":"INFO","msg":"created new stream","id":"rfpoekwi"}
+{"time":"2025-03-16T18:07:27.437786747+05:30","level":"INFO","msg":"stream: started","id":"rfpoekwi"}
+{"time":"2025-03-16T18:07:27.437838749+05:30","level":"INFO","msg":"sender: started","stream_id":"rfpoekwi"}
+{"time":"2025-03-16T18:07:27.437915549+05:30","level":"INFO","msg":"handler: started","stream_id":"rfpoekwi"}
+{"time":"2025-03-16T18:07:27.437956816+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rfpoekwi"}
+{"time":"2025-03-16T18:07:27.831517515+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T18:08:02.409336733+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T18:08:02.41075449+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T18:08:03.414889572+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.283959679}],"total_operations":1}}
+{"time":"2025-03-16T18:08:04.272412604+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T18:08:05.904732706+05:30","level":"INFO","msg":"stream: closing","id":"rfpoekwi"}
+{"time":"2025-03-16T18:08:05.904761865+05:30","level":"INFO","msg":"handler: closed","stream_id":"rfpoekwi"}
+{"time":"2025-03-16T18:08:05.904778715+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rfpoekwi"}
+{"time":"2025-03-16T18:08:05.904838948+05:30","level":"INFO","msg":"sender: closed","stream_id":"rfpoekwi"}
+{"time":"2025-03-16T18:08:05.9049065+05:30","level":"INFO","msg":"stream: closed","id":"rfpoekwi"}

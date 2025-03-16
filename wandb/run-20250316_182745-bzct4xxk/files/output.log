@@ -1,0 +1,10 @@
+Loss type: cross_entropy | Epoch 1/10 | Train Loss: 0.5215 | Val Loss: 0.3749 | Val Acc: 0.8638
+Loss type: cross_entropy | Epoch 2/10 | Train Loss: 0.3825 | Val Loss: 0.3868 | Val Acc: 0.8562
+Loss type: cross_entropy | Epoch 3/10 | Train Loss: 0.3425 | Val Loss: 0.3597 | Val Acc: 0.8738
+Loss type: cross_entropy | Epoch 4/10 | Train Loss: 0.3193 | Val Loss: 0.3162 | Val Acc: 0.8848
+Loss type: cross_entropy | Epoch 5/10 | Train Loss: 0.3048 | Val Loss: 0.3231 | Val Acc: 0.8813
+Loss type: cross_entropy | Epoch 6/10 | Train Loss: 0.2903 | Val Loss: 0.3235 | Val Acc: 0.8817
+Loss type: cross_entropy | Epoch 7/10 | Train Loss: 0.2795 | Val Loss: 0.3052 | Val Acc: 0.8858
+Loss type: cross_entropy | Epoch 8/10 | Train Loss: 0.2653 | Val Loss: 0.3059 | Val Acc: 0.8875
+Loss type: cross_entropy | Epoch 9/10 | Train Loss: 0.2569 | Val Loss: 0.3264 | Val Acc: 0.8808
+Loss type: cross_entropy | Epoch 10/10 | Train Loss: 0.2472 | Val Loss: 0.3311 | Val Acc: 0.8815
