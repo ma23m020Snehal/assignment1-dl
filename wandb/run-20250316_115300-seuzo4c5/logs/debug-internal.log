@@ -1,0 +1,30 @@
+{"time":"2025-03-16T11:53:00.184394506+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_115300-seuzo4c5/logs/debug-core.log"}
+{"time":"2025-03-16T11:53:00.292387928+05:30","level":"INFO","msg":"created new stream","id":"seuzo4c5"}
+{"time":"2025-03-16T11:53:00.292438238+05:30","level":"INFO","msg":"stream: started","id":"seuzo4c5"}
+{"time":"2025-03-16T11:53:00.29261653+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"seuzo4c5"}
+{"time":"2025-03-16T11:53:00.292629028+05:30","level":"INFO","msg":"handler: started","stream_id":"seuzo4c5"}
+{"time":"2025-03-16T11:53:00.292686869+05:30","level":"INFO","msg":"sender: started","stream_id":"seuzo4c5"}
+{"time":"2025-03-16T11:53:00.759917938+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T11:53:00.929772592+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T11:54:46.118197536+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T11:54:46.422597596+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T11:54:48.31863307+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T11:54:48.320383994+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T11:54:54.359437673+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T11:54:54.401490906+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T11:55:00.71206273+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T11:55:01.229686736+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T11:55:08.240269483+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T11:55:08.2437728+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T11:55:12.680360151+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T11:55:12.722994412+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T11:55:32.410840622+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T11:55:33.125366361+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T11:55:33.126286813+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T11:55:34.130903909+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.289478751,"progress":"623B/623B"}],"total_operations":1}}
+{"time":"2025-03-16T11:55:34.309109894+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T11:55:35.799618906+05:30","level":"INFO","msg":"stream: closing","id":"seuzo4c5"}
+{"time":"2025-03-16T11:55:35.799678316+05:30","level":"INFO","msg":"handler: closed","stream_id":"seuzo4c5"}
+{"time":"2025-03-16T11:55:35.799704195+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"seuzo4c5"}
+{"time":"2025-03-16T11:55:35.799843709+05:30","level":"INFO","msg":"sender: closed","stream_id":"seuzo4c5"}
+{"time":"2025-03-16T11:55:35.799927441+05:30","level":"INFO","msg":"stream: closed","id":"seuzo4c5"}

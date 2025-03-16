@@ -1,0 +1,18 @@
+{"time":"2025-03-16T11:52:01.842611298+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_115201-4r4vc5jq/logs/debug-core.log"}
+{"time":"2025-03-16T11:52:01.95072018+05:30","level":"INFO","msg":"created new stream","id":"4r4vc5jq"}
+{"time":"2025-03-16T11:52:01.950755376+05:30","level":"INFO","msg":"stream: started","id":"4r4vc5jq"}
+{"time":"2025-03-16T11:52:01.950876222+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4r4vc5jq"}
+{"time":"2025-03-16T11:52:01.950881463+05:30","level":"INFO","msg":"handler: started","stream_id":"4r4vc5jq"}
+{"time":"2025-03-16T11:52:01.950923909+05:30","level":"INFO","msg":"sender: started","stream_id":"4r4vc5jq"}
+{"time":"2025-03-16T11:52:02.472694076+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T11:52:02.671283734+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T11:52:02.76587828+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T11:52:03.056518564+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T11:52:04.270611046+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T11:52:04.311483519+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T11:52:10.29433449+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T11:52:10.297950433+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T11:52:11.781372019+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T11:52:12.168708229+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T11:52:30.111545039+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T11:52:30.152563869+05:30","level":"INFO","msg":"Pausing system monitor"}

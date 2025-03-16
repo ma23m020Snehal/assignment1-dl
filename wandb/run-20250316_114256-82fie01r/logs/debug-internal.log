@@ -1,0 +1,16 @@
+{"time":"2025-03-16T11:42:56.10642727+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_114256-82fie01r/logs/debug-core.log"}
+{"time":"2025-03-16T11:42:56.213396508+05:30","level":"INFO","msg":"created new stream","id":"82fie01r"}
+{"time":"2025-03-16T11:42:56.213442447+05:30","level":"INFO","msg":"stream: started","id":"82fie01r"}
+{"time":"2025-03-16T11:42:56.213501631+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"82fie01r"}
+{"time":"2025-03-16T11:42:56.213537893+05:30","level":"INFO","msg":"sender: started","stream_id":"82fie01r"}
+{"time":"2025-03-16T11:42:56.213555383+05:30","level":"INFO","msg":"handler: started","stream_id":"82fie01r"}
+{"time":"2025-03-16T11:42:56.606313295+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T11:42:57.367856839+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T11:42:57.368604156+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T11:42:58.342167109+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.186260797},{"desc":"uploading media/images/Second Batch_0_c5a7eaa6a52ac0e794bb.png","runtime_seconds":0.186238657,"progress":"631B/631B"},{"desc":"uploading media/images/Second Batch_0_f9ae28233f32bf80214f.png","runtime_seconds":0.186227929,"progress":"681B/681B"},{"desc":"uploading media/images/Second Batch_0_1e8e2a9377834f0a8913.png","runtime_seconds":0.186225847,"progress":"555B/555B"},{"desc":"uploading media/images/Second Batch_0_811d9a6e54bca1da4d2e.png","runtime_seconds":0.186222626,"progress":"591B/591B"},{"desc":"uploading media/images/Second Batch_0_b01db1f3135d9abf5dda.png","runtime_seconds":0.186208788,"progress":"535B/535B"},{"desc":"uploading media/images/First Batch_0_f0d95813663251b7fdfc.png","runtime_seconds":0.186204905,"progress":"412B/412B"},{"desc":"uploading media/images/First Batch_0_ba8afe5093296b9da95d.png","runtime_seconds":0.186201137,"progress":"424B/424B"},{"desc":"uploading media/images/Second Batch_0_38a78edc13346d3c129e.png","runtime_seconds":0.1861973,"progress":"379B/379B"},{"desc":"uploading media/images/Second Batch_0_4e3042e3ba5ec4a9917f.png","runtime_seconds":0.186191212,"progress":"692B/692B"}],"total_operations":38}}
+{"time":"2025-03-16T11:42:59.49874472+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T11:43:00.860064413+05:30","level":"INFO","msg":"stream: closing","id":"82fie01r"}
+{"time":"2025-03-16T11:43:00.860112185+05:30","level":"INFO","msg":"handler: closed","stream_id":"82fie01r"}
+{"time":"2025-03-16T11:43:00.860146632+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"82fie01r"}
+{"time":"2025-03-16T11:43:00.860261195+05:30","level":"INFO","msg":"sender: closed","stream_id":"82fie01r"}
+{"time":"2025-03-16T11:43:00.860337849+05:30","level":"INFO","msg":"stream: closed","id":"82fie01r"}

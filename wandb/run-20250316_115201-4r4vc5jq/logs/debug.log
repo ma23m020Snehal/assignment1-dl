@@ -1,0 +1,36 @@
+2025-03-16 11:52:01,837 INFO    MainThread:13360 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250316_115201-4r4vc5jq/logs/debug.log
+2025-03-16 11:52:01,838 INFO    MainThread:13360 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250316_115201-4r4vc5jq/logs/debug-internal.log
+2025-03-16 11:52:01,838 INFO    MainThread:13360 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7182a46f2480>
+2025-03-16 11:52:01,838 INFO    MainThread:13360 [wandb_init.py:init():761] calling init triggers
+2025-03-16 11:52:01,838 INFO    MainThread:13360 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-16 11:52:01,838 INFO    MainThread:13360 [wandb_init.py:init():784] starting backend
+2025-03-16 11:52:01,838 INFO    MainThread:13360 [wandb_init.py:init():788] sending inform_init request
+2025-03-16 11:52:01,841 INFO    MainThread:13360 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-03-16 11:52:01,842 INFO    MainThread:13360 [wandb_init.py:init():803] backend started and connected
+2025-03-16 11:52:01,844 INFO    MainThread:13360 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-16 11:52:01,859 INFO    MainThread:13360 [wandb_init.py:init():896] updated telemetry
+2025-03-16 11:52:01,865 INFO    MainThread:13360 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-16 11:52:02,469 INFO    MainThread:13360 [wandb_init.py:init():995] starting run threads in backend
+2025-03-16 11:52:02,632 INFO    MainThread:13360 [wandb_run.py:_console_start():2377] atexit reg
+2025-03-16 11:52:02,632 INFO    MainThread:13360 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-16 11:52:02,632 INFO    MainThread:13360 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-16 11:52:02,632 INFO    MainThread:13360 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-03-16 11:52:02,633 INFO    MainThread:13360 [wandb_init.py:init():1037] run started, returning control to user process
+2025-03-16 11:52:02,635 INFO    MainThread:13360 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 11:52:02,635 INFO    MainThread:13360 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-16 11:52:02,763 INFO    MainThread:13360 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-16 11:52:03,056 INFO    MainThread:13360 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 11:52:03,056 INFO    MainThread:13360 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-16 11:52:04,269 INFO    MainThread:13360 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-16 11:52:04,270 INFO    MainThread:13360 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 11:52:04,271 INFO    MainThread:13360 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-16 11:52:10,293 INFO    MainThread:13360 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-16 11:52:10,297 INFO    MainThread:13360 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 11:52:10,297 INFO    MainThread:13360 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-16 11:52:11,780 INFO    MainThread:13360 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-16 11:52:12,168 INFO    MainThread:13360 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 11:52:12,168 INFO    MainThread:13360 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-16 11:52:30,109 INFO    MainThread:13360 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-16 11:52:30,115 INFO    MainThread:13360 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 11:52:30,115 INFO    MainThread:13360 [wandb_init.py:_pause_backend():564] pausing backend
