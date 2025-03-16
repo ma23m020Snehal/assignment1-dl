@@ -1,0 +1,16 @@
+{"time":"2025-03-16T17:15:05.938130209+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_171505-u8bktu08/logs/debug-core.log"}
+{"time":"2025-03-16T17:15:06.056199659+05:30","level":"INFO","msg":"created new stream","id":"u8bktu08"}
+{"time":"2025-03-16T17:15:06.056230827+05:30","level":"INFO","msg":"stream: started","id":"u8bktu08"}
+{"time":"2025-03-16T17:15:06.057023329+05:30","level":"INFO","msg":"handler: started","stream_id":"u8bktu08"}
+{"time":"2025-03-16T17:15:06.057054807+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"u8bktu08"}
+{"time":"2025-03-16T17:15:06.057192185+05:30","level":"INFO","msg":"sender: started","stream_id":"u8bktu08"}
+{"time":"2025-03-16T17:15:06.429450467+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T17:15:06.980396813+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T17:15:06.980989566+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T17:15:07.950108595+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-u8bktu08-OptimizerComparison","runtime_seconds":0.716451121},{"desc":"uploading media/table/Optimizer Comparison_0_e23716acafe8f7df93ea.table.json","runtime_seconds":0.41004496,"progress":"441B/441B"},{"desc":"uploading output.log","runtime_seconds":0.410030999},{"desc":"uploading config.yaml","runtime_seconds":0.132703233,"progress":"602B/602B"}],"total_operations":4}}
+{"time":"2025-03-16T17:15:09.77028451+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T17:15:11.103987574+05:30","level":"INFO","msg":"stream: closing","id":"u8bktu08"}
+{"time":"2025-03-16T17:15:11.104010968+05:30","level":"INFO","msg":"handler: closed","stream_id":"u8bktu08"}
+{"time":"2025-03-16T17:15:11.104095255+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"u8bktu08"}
+{"time":"2025-03-16T17:15:11.104198497+05:30","level":"INFO","msg":"sender: closed","stream_id":"u8bktu08"}
+{"time":"2025-03-16T17:15:11.104209074+05:30","level":"INFO","msg":"stream: closed","id":"u8bktu08"}

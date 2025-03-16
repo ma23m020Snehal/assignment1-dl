@@ -1,0 +1,23 @@
+Epoch 1/10 - Loss: 0.5784 - Accuracy: 0.8504
+Epoch 2/10 - Loss: 0.4147 - Accuracy: 0.8633
+Epoch 3/10 - Loss: 0.3712 - Accuracy: 0.8605
+Epoch 4/10 - Loss: 0.3436 - Accuracy: 0.8658
+Epoch 5/10 - Loss: 0.3254 - Accuracy: 0.8906
+Epoch 6/10 - Loss: 0.3072 - Accuracy: 0.8921
+Epoch 7/10 - Loss: 0.2956 - Accuracy: 0.8988
+Epoch 8/10 - Loss: 0.2852 - Accuracy: 0.8943
+Epoch 9/10 - Loss: 0.2756 - Accuracy: 0.9042
+Epoch 10/10 - Loss: 0.2660 - Accuracy: 0.9033
+Test Accuracy: 0.8761
+
+Probability distribution for the first test image:
+T-shirt/top: 0.0039
+Trouser: 0.0000
+Pullover: 0.0000
+Dress: 0.0000
+Coat: 0.0001
+Sandal: 0.0000
+Shirt: 0.0000
+Sneaker: 0.0000
+Bag: 0.9960
+Ankle boot: 0.0000

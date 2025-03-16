@@ -1,0 +1,16 @@
+{"time":"2025-03-16T16:39:30.231419939+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_163930-eml28dyz/logs/debug-core.log"}
+{"time":"2025-03-16T16:39:30.339200972+05:30","level":"INFO","msg":"created new stream","id":"eml28dyz"}
+{"time":"2025-03-16T16:39:30.339281903+05:30","level":"INFO","msg":"stream: started","id":"eml28dyz"}
+{"time":"2025-03-16T16:39:30.339360334+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"eml28dyz"}
+{"time":"2025-03-16T16:39:30.339460626+05:30","level":"INFO","msg":"handler: started","stream_id":"eml28dyz"}
+{"time":"2025-03-16T16:39:30.339459527+05:30","level":"INFO","msg":"sender: started","stream_id":"eml28dyz"}
+{"time":"2025-03-16T16:39:30.849082079+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T16:40:01.971904782+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T16:40:01.972540009+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T16:40:02.976328823+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.36761552,"progress":"180B/180B"},{"desc":"uploading output.log","runtime_seconds":0.367591981,"progress":"638B/638B"},{"desc":"uploading config.yaml","runtime_seconds":0.071359832,"progress":"779B/779B"}],"total_operations":3}}
+{"time":"2025-03-16T16:40:03.926392696+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T16:40:05.313756558+05:30","level":"INFO","msg":"stream: closing","id":"eml28dyz"}
+{"time":"2025-03-16T16:40:05.313812931+05:30","level":"INFO","msg":"handler: closed","stream_id":"eml28dyz"}
+{"time":"2025-03-16T16:40:05.313848131+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"eml28dyz"}
+{"time":"2025-03-16T16:40:05.313878432+05:30","level":"INFO","msg":"sender: closed","stream_id":"eml28dyz"}
+{"time":"2025-03-16T16:40:05.314008455+05:30","level":"INFO","msg":"stream: closed","id":"eml28dyz"}

@@ -1,0 +1,13 @@
+
+Starting training with optimizer: Nadam
+Nadam | Epoch 1/10 - Loss: 0.4863 - Train Accuracy: 0.8671
+Nadam | Epoch 2/10 - Loss: 0.3640 - Train Accuracy: 0.8782
+Nadam | Epoch 3/10 - Loss: 0.3265 - Train Accuracy: 0.8907
+Nadam | Epoch 4/10 - Loss: 0.3060 - Train Accuracy: 0.9004
+Nadam | Epoch 5/10 - Loss: 0.2864 - Train Accuracy: 0.9004
+Nadam | Epoch 6/10 - Loss: 0.2740 - Train Accuracy: 0.8953
+Nadam | Epoch 7/10 - Loss: 0.2619 - Train Accuracy: 0.9100
+Nadam | Epoch 8/10 - Loss: 0.2512 - Train Accuracy: 0.9139
+Nadam | Epoch 9/10 - Loss: 0.2424 - Train Accuracy: 0.9168
+Nadam | Epoch 10/10 - Loss: 0.2314 - Train Accuracy: 0.9169
+Nadam | Test Accuracy: 0.8825

@@ -1,0 +1,13 @@
+
+Starting training with optimizer: Momentum
+Momentum | Epoch 1/10 - Loss: 0.5550 - Train Accuracy: 0.8518
+Momentum | Epoch 2/10 - Loss: 0.3981 - Train Accuracy: 0.8716
+Momentum | Epoch 3/10 - Loss: 0.3638 - Train Accuracy: 0.8705
+Momentum | Epoch 4/10 - Loss: 0.3373 - Train Accuracy: 0.8796
+Momentum | Epoch 5/10 - Loss: 0.3199 - Train Accuracy: 0.8899
+Momentum | Epoch 6/10 - Loss: 0.3056 - Train Accuracy: 0.8991
+Momentum | Epoch 7/10 - Loss: 0.2941 - Train Accuracy: 0.8956
+Momentum | Epoch 8/10 - Loss: 0.2845 - Train Accuracy: 0.8940
+Momentum | Epoch 9/10 - Loss: 0.2730 - Train Accuracy: 0.9086
+Momentum | Epoch 10/10 - Loss: 0.2654 - Train Accuracy: 0.9022
+Momentum | Test Accuracy: 0.8731

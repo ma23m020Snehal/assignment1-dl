@@ -1,0 +1,20 @@
+{"time":"2025-03-16T16:38:57.208387809+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_163857-szy7038w/logs/debug-core.log"}
+{"time":"2025-03-16T16:38:57.315205185+05:30","level":"INFO","msg":"created new stream","id":"szy7038w"}
+{"time":"2025-03-16T16:38:57.315272661+05:30","level":"INFO","msg":"stream: started","id":"szy7038w"}
+{"time":"2025-03-16T16:38:57.315377476+05:30","level":"INFO","msg":"handler: started","stream_id":"szy7038w"}
+{"time":"2025-03-16T16:38:57.315358563+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"szy7038w"}
+{"time":"2025-03-16T16:38:57.315427045+05:30","level":"INFO","msg":"sender: started","stream_id":"szy7038w"}
+{"time":"2025-03-16T16:38:57.868588805+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T16:39:24.347617135+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T16:39:24.374271844+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T16:39:25.191476963+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T16:39:25.198950393+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T16:39:25.201175739+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T16:39:25.201844374+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T16:39:26.205534484+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-szy7038w-sample_prob_distributions","runtime_seconds":1.200966777},{"desc":"uploading output.log","runtime_seconds":0.693862663,"progress":"1.3KB/1.3KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.693831981,"progress":"847B/847B"},{"desc":"uploading config.yaml","runtime_seconds":0.380904126,"progress":"602B/602B"}],"total_operations":4}}
+{"time":"2025-03-16T16:39:28.13156582+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T16:39:29.703906275+05:30","level":"INFO","msg":"stream: closing","id":"szy7038w"}
+{"time":"2025-03-16T16:39:29.703946965+05:30","level":"INFO","msg":"handler: closed","stream_id":"szy7038w"}
+{"time":"2025-03-16T16:39:29.703969106+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"szy7038w"}
+{"time":"2025-03-16T16:39:29.704049955+05:30","level":"INFO","msg":"sender: closed","stream_id":"szy7038w"}
+{"time":"2025-03-16T16:39:29.704137536+05:30","level":"INFO","msg":"stream: closed","id":"szy7038w"}

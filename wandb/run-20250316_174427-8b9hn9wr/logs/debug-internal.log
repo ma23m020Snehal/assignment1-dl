@@ -1,0 +1,7 @@
+{"time":"2025-03-16T17:44:27.334841224+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250316_174427-8b9hn9wr/logs/debug-core.log"}
+{"time":"2025-03-16T17:44:27.4463063+05:30","level":"INFO","msg":"created new stream","id":"8b9hn9wr"}
+{"time":"2025-03-16T17:44:27.446606532+05:30","level":"INFO","msg":"stream: started","id":"8b9hn9wr"}
+{"time":"2025-03-16T17:44:27.446679916+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"8b9hn9wr"}
+{"time":"2025-03-16T17:44:27.446727879+05:30","level":"INFO","msg":"handler: started","stream_id":"8b9hn9wr"}
+{"time":"2025-03-16T17:44:27.44680935+05:30","level":"INFO","msg":"sender: started","stream_id":"8b9hn9wr"}
+{"time":"2025-03-16T17:44:28.099399772+05:30","level":"INFO","msg":"Starting system monitor"}

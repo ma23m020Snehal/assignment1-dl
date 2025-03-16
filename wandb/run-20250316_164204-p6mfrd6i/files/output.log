@@ -1,0 +1,13 @@
+
+Starting training with optimizer: SGD
+SGD | Epoch 1/10 - Loss: 0.8353 - Train Accuracy: 0.8113
+SGD | Epoch 2/10 - Loss: 0.5302 - Train Accuracy: 0.8280
+SGD | Epoch 3/10 - Loss: 0.4786 - Train Accuracy: 0.8450
+SGD | Epoch 4/10 - Loss: 0.4509 - Train Accuracy: 0.8520
+SGD | Epoch 5/10 - Loss: 0.4324 - Train Accuracy: 0.8547
+SGD | Epoch 6/10 - Loss: 0.4169 - Train Accuracy: 0.8578
+SGD | Epoch 7/10 - Loss: 0.4040 - Train Accuracy: 0.8577
+SGD | Epoch 8/10 - Loss: 0.3948 - Train Accuracy: 0.8660
+SGD | Epoch 9/10 - Loss: 0.3850 - Train Accuracy: 0.8714
+SGD | Epoch 10/10 - Loss: 0.3765 - Train Accuracy: 0.8703
+SGD | Test Accuracy: 0.8499
