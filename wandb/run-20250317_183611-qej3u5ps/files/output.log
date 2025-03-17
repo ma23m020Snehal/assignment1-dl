@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/home/snehal/Downloads/dl_ass1/strain.py", line 371, in <module>
+    train_image_classifier(args)
+  File "/home/snehal/Downloads/dl_ass1/strain.py", line 337, in train_image_classifier
+    model = initialize_model(args)
+            ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/strain.py", line 270, in initialize_model
+    return MLPmodel(
+           ^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/strain.py", line 172, in __init__
+    raise ValueError("Unsupported activation")
+ValueError: Unsupported activation

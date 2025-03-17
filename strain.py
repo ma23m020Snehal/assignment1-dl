@@ -137,31 +137,21 @@ class Nadam(Adam):
             wts[i] -= self.lr * (self.beta1 * m_hat + (1 - self.beta1) * dW[i] / (1 - self.beta1 ** t)) / (np.sqrt(v_hat) + self.epsilon)
             bias[i]  -= self.lr * (self.beta1 * m_hat_b + (1 - self.beta1) * db[i] / (1 - self.beta1 ** t)) / (np.sqrt(v_hat_b) + self.epsilon)
 
-
-
-
-optimizers_dict = {
-    "SGD": SGD,
-    "Momentum":  Momentum,
-    "Nesterov":  Nesterov,
-    "RMSProp":  RMSProp,
-    "Adam":  Adam,
-    "Nadam":  Nadam
+optimizers_dicto = {
+    "sgd": SGD,
+    "momentum":  Momentum,
+    "nag":  Nesterov,
+    "rmsprop":  RMSProp,
+    "adam":  Adam,
+    "nadam":  Nadam
 }
-
-
-
 def xavier_init(fan_in, fan_out):
     """Xavier/Glorot initialization."""
     bound = np.sqrt(6 / (fan_in + fan_out))
     return np.random.uniform(-bound, bound, (fan_in, fan_out))
 
 
-
-
-import math
-
-class SimpleMLPWithLoss:
+class MLPmodel:
     def __init__(self, input_dim, num_hidden_layers, hidden_size, output_dim, weight_init='random', activation='relu', weight_decay=0.0, loss_type='cross_entropy'):
         self.num_hidden_layers = num_hidden_layers
         self.hidden_size = hidden_size
@@ -254,23 +244,110 @@ class SimpleMLPWithLoss:
         return dW, db
 
 
+def load_dataset(dataset_name):
+    if dataset_name.lower() == "mnist":
+        return mnist.load_data()
+    else:
+        return fashion_mnist.load_data()
 
+def preprocess_data(train_images, train_labels_mnist, test_images, test_labels):
+    val_split = int(0.1 * train_images.shape[0])
+    val_images = train_images[:val_split]
+    val_labels_mnist = train_labels_mnist[:val_split]
+    train_images = train_images[val_split:]
+    train_labels_mnist = train_labels_mnist[val_split:]
 
+    train_images = train_images.reshape(-1, 28*28) / 255.0
+    val_images = val_images.reshape(-1, 28*28) / 255.0
+    test_images = test_images.reshape(-1, 28*28) / 255.0
+    
+    train_labels = np.eye(10)[train_labels_mnist]
+    val_labels = np.eye(10)[val_labels_mnist]
+    
+    return train_images, train_labels, val_images, val_labels, test_images, test_labels, val_labels_mnist
 
+def initialize_model(args):
+    return MLPmodel(
+        input_dim=784,
+        num_hidden_layers=args.num_layers,
+        hidden_size=args.hidden_size,
+        output_dim=10,
+        weight_init=args.weight_init,
+        activation=args.activation,
+        weight_decay=args.weight_decay,
+        loss_type=args.loss
+    )
 
+def initialize_optimizer(args):
+    opt_class = optimizers_dicto.get(args.optimizer.lower())
+    if opt_class is None:
+        raise ValueError(f"Unsupported optimizer : {args.optimizer}")
+    if args.optimizer.lower() == "sgd":
+        return opt_class(lr=args.learning_rate)
+    elif args.optimizer.lower() in ["momentum", "nag"]:
+        return opt_class(lr=args.learning_rate, momentum=args.momentum)
+    elif args.optimizer.lower() == "rmsprop":
+        return opt_class(lr=args.learning_rate, beta=args.beta, epsilon=args.epsilon)
+    elif args.optimizer.lower() in ["adam", "nadam"]:
+        return opt_class(lr=args.learning_rate, beta1=args.beta1, beta2=args.beta2, epsilon=args.epsilon)
+    else:
+        return opt_class(lr=args.learning_rate)
 
+def train_model(model, optimizer, train_images, train_labels, val_images, val_labels, val_labels_mnist, args):
+    num_samples = train_images.shape[0]
+    num_batches = num_samples // args.batch_size
+    global_step = 1
+    
+    for epoch in range(args.epochs):
+        indices = np.random.permutation(num_samples)
+        train_images_shuffled = train_images[indices]
+        train_labels_shuffled = train_labels[indices]
+        epoch_loss = 0.0
+        
+        for i in range(num_batches):
+            start = i * args.batch_size
+            end = start + args.batch_size
+            X_batch = train_images_shuffled[start:end]
+            y_batch = train_labels_shuffled[start:end]
+            y_pred = model.forward(X_batch)
+            loss = model.compute_loss(y_pred, y_batch)
+            epoch_loss += loss
+            dW, db = model.backward(y_pred, y_batch)
+            optimizer.update(model.weights, model.biases, dW, db, global_step)
+            global_step += 1
+        
+        avg_loss = epoch_loss / num_batches
+        val_acc, val_loss = evaluate_model(model, val_images, val_labels, val_labels_mnist)
+        
+        print(f"Epoch {epoch+1}/{args.epochs} - Train Loss: {avg_loss:.4f} - Val Loss: {val_loss:.4f} - Val Acc: {val_acc:.4f}")
+        wandb.log({"epoch": epoch+1, "train_loss": avg_loss, "val_loss": val_loss, "val_accuracy": val_acc})
 
+def evaluate_model(model, images, labels, true_labels):
+    predictions = model.forward(images)
+    loss = model.compute_loss(predictions, labels)
+    accuracy = np.mean(np.argmax(predictions, axis=1) == true_labels)
+    return accuracy, loss
 
-
-
-
-
-
+def train_image_classifier(args):
+    wandb.init(entity=args.wandb_entity, project=args.wandb_project, config=vars(args))
+    
+    (train_images, train_labels_mnist), (test_images, test_labels) = load_dataset(args.dataset)
+    train_images, train_labels, val_images, val_labels, test_images, test_labels, val_labels_mnist = preprocess_data(train_images, train_labels_mnist, test_images, test_labels)
+    
+    model = initialize_model(args)
+    optimizer = initialize_optimizer(args)
+    
+    train_model(model, optimizer, train_images, train_labels, val_images, val_labels, val_labels_mnist, args)
+    
+    test_acc, _ = evaluate_model(model, test_images, np.eye(10)[test_labels], test_labels)
+    print(f"Test Accuracy: {test_acc:.4f}")
+    wandb.log({"test_accuracy": test_acc})
+    wandb.finish()
 
 # Main: Argument Parsing and Script Execution
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Train a feedforward neural network with wandb logging.")
+    parser = argparse.ArgumentParser(description="Train a neural network.")
     parser.add_argument("-wp", "--wandb_project", default="myprojectname", help="Project name used to track experiments in Weights & Biases dashboard")
     parser.add_argument("-we", "--wandb_entity", default="myname", help="Wandb Entity used to track experiments in the Weights & Biases dashboard")
     parser.add_argument("-d", "--dataset", default="fashion_mnist", choices=["mnist", "fashion_mnist"], help="Dataset to use.")
@@ -288,7 +365,7 @@ if __name__ == "__main__":
     parser.add_argument("-w_i", "--weight_init", default="Xavier", choices=["random", "Xavier"], help="Weight initialization method.")
     parser.add_argument("-nhl", "--num_layers", type=int, default=3, help="Number of hidden layers used in feedforward neural network.")
     parser.add_argument("-sz", "--hidden_size", type=int, default=128, help="Number of hidden neurons in a feedforward layer.")
-    parser.add_argument("-a", "--activation", default="ReLU", choices=["identity", "sigmoid", "tanh", "ReLU"], help="Activation function.")
+    parser.add_argument("-a", "--activation", default="relu", choices=["identity", "sigmoid", "tanh", "relu"], help="Activation function.")
     
     args = parser.parse_args()
-    train_model(args)
+    train_image_classifier(args)

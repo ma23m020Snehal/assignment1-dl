@@ -1,0 +1,37 @@
+{
+  "os":  "Linux-6.8.0-52-generic-x86_64-with-glibc2.39",
+  "python":  "CPython 3.12.3",
+  "startedAt":  "2025-03-17T13:16:16.755307Z",
+  "args":  [
+    "--wandb_entity",
+    "snehalma23m020-iit-madras",
+    "--wandb_project",
+    "DLassigment1"
+  ],
+  "program":  "/home/snehal/Downloads/dl_ass1/strain.py",
+  "codePath":  "strain.py",
+  "git":  {
+    "remote":  "git@github.com:ma23m020Snehal/assignment1-dl.git",
+    "commit":  "cb5526f07ff8ae48a1a238ac297c888d4c429646"
+  },
+  "email":  "ma23m020@smail.iitm.ac.in",
+  "root":  "/home/snehal/Downloads/dl_ass1",
+  "host":  "snehal-HP-Laptop-15s-fq5xxx",
+  "executable":  "/home/snehal/Downloads/dl_ass1/dvenv/bin/python",
+  "codePathLocal":  "strain.py",
+  "cpu_count":  10,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "194964811776",
+      "used":  "153886396416"
+    }
+  },
+  "memory":  {
+    "total":  "16425238528"
+  },
+  "cpu":  {
+    "count":  10,
+    "countLogical":  12
+  }
+}
