@@ -1,0 +1,21 @@
+Epoch 1/20 - Train Loss: 0.5103 - Val Loss: 0.4083 - Val Acc: 0.8460
+Epoch 2/20 - Train Loss: 0.3829 - Val Loss: 0.3960 - Val Acc: 0.8532
+Epoch 3/20 - Train Loss: 0.3528 - Val Loss: 0.3475 - Val Acc: 0.8765
+Epoch 4/20 - Train Loss: 0.3287 - Val Loss: 0.3371 - Val Acc: 0.8778
+Epoch 5/20 - Train Loss: 0.3131 - Val Loss: 0.3166 - Val Acc: 0.8838
+Epoch 6/20 - Train Loss: 0.2994 - Val Loss: 0.3354 - Val Acc: 0.8787
+Epoch 7/20 - Train Loss: 0.2885 - Val Loss: 0.3302 - Val Acc: 0.8798
+Epoch 8/20 - Train Loss: 0.2791 - Val Loss: 0.3172 - Val Acc: 0.8832
+Epoch 9/20 - Train Loss: 0.2734 - Val Loss: 0.3123 - Val Acc: 0.8898
+Epoch 10/20 - Train Loss: 0.2636 - Val Loss: 0.3149 - Val Acc: 0.8893
+Epoch 11/20 - Train Loss: 0.2574 - Val Loss: 0.3296 - Val Acc: 0.8847
+Epoch 12/20 - Train Loss: 0.2504 - Val Loss: 0.3153 - Val Acc: 0.8840
+Epoch 13/20 - Train Loss: 0.2448 - Val Loss: 0.3363 - Val Acc: 0.8868
+Epoch 14/20 - Train Loss: 0.2376 - Val Loss: 0.3146 - Val Acc: 0.8908
+Epoch 15/20 - Train Loss: 0.2328 - Val Loss: 0.3121 - Val Acc: 0.8898
+Epoch 16/20 - Train Loss: 0.2281 - Val Loss: 0.3282 - Val Acc: 0.8927
+Epoch 17/20 - Train Loss: 0.2244 - Val Loss: 0.3335 - Val Acc: 0.8925
+Epoch 18/20 - Train Loss: 0.2193 - Val Loss: 0.3618 - Val Acc: 0.8818
+Epoch 19/20 - Train Loss: 0.2171 - Val Loss: 0.3531 - Val Acc: 0.8935
+Epoch 20/20 - Train Loss: 0.2127 - Val Loss: 0.3864 - Val Acc: 0.8768
+Test Accuracy: 0.8766

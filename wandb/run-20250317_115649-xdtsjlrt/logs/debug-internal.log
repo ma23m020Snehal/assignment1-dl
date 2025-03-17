@@ -1,0 +1,18 @@
+{"time":"2025-03-17T11:56:49.691631948+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250317_115649-xdtsjlrt/logs/debug-core.log"}
+{"time":"2025-03-17T11:56:49.794860295+05:30","level":"INFO","msg":"created new stream","id":"xdtsjlrt"}
+{"time":"2025-03-17T11:56:49.794900032+05:30","level":"INFO","msg":"stream: started","id":"xdtsjlrt"}
+{"time":"2025-03-17T11:56:49.795040691+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xdtsjlrt"}
+{"time":"2025-03-17T11:56:49.7950961+05:30","level":"INFO","msg":"handler: started","stream_id":"xdtsjlrt"}
+{"time":"2025-03-17T11:56:49.79511937+05:30","level":"INFO","msg":"sender: started","stream_id":"xdtsjlrt"}
+{"time":"2025-03-17T11:56:50.156106746+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T11:59:28.844706083+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T12:00:48.569376611+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T12:00:48.610380138+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T12:00:48.610881848+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T12:00:49.586736648+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.301805834,"progress":"451B/451B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.301778565,"progress":"160B/160B"}],"total_operations":2}}
+{"time":"2025-03-17T12:00:50.168208415+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T12:00:51.626116851+05:30","level":"INFO","msg":"stream: closing","id":"xdtsjlrt"}
+{"time":"2025-03-17T12:00:51.626200548+05:30","level":"INFO","msg":"handler: closed","stream_id":"xdtsjlrt"}
+{"time":"2025-03-17T12:00:51.626227977+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xdtsjlrt"}
+{"time":"2025-03-17T12:00:51.626264084+05:30","level":"INFO","msg":"sender: closed","stream_id":"xdtsjlrt"}
+{"time":"2025-03-17T12:00:51.626348708+05:30","level":"INFO","msg":"stream: closed","id":"xdtsjlrt"}

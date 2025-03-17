@@ -1,0 +1,16 @@
+{"time":"2025-03-17T11:46:33.863299006+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250317_114630-yh14p0gz/logs/debug-core.log"}
+{"time":"2025-03-17T11:46:33.966066335+05:30","level":"INFO","msg":"created new stream","id":"yh14p0gz"}
+{"time":"2025-03-17T11:46:33.966088965+05:30","level":"INFO","msg":"stream: started","id":"yh14p0gz"}
+{"time":"2025-03-17T11:46:33.966142076+05:30","level":"INFO","msg":"handler: started","stream_id":"yh14p0gz"}
+{"time":"2025-03-17T11:46:33.966159206+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"yh14p0gz"}
+{"time":"2025-03-17T11:46:33.966199289+05:30","level":"INFO","msg":"sender: started","stream_id":"yh14p0gz"}
+{"time":"2025-03-17T11:46:34.559167136+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T11:49:07.733013559+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T11:49:07.733795929+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T11:49:08.737539577+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-yh14p0gz-final_confusion_matrix_interactive_table","runtime_seconds":1.011251944},{"desc":"uploading media/table/final_confusion_matrix_interactive_table_12_d180cc33307b6bba2185.table.json","runtime_seconds":0.582543672,"progress":"2.9KB/2.9KB"},{"desc":"uploading output.log","runtime_seconds":0.582526842,"progress":"451B/451B"},{"desc":"uploading config.yaml","runtime_seconds":0.078005417,"progress":"2.0KB/2.0KB"}],"total_operations":4}}
+{"time":"2025-03-17T11:49:10.958889987+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T11:49:12.438450736+05:30","level":"INFO","msg":"stream: closing","id":"yh14p0gz"}
+{"time":"2025-03-17T11:49:12.438485104+05:30","level":"INFO","msg":"handler: closed","stream_id":"yh14p0gz"}
+{"time":"2025-03-17T11:49:12.438503548+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"yh14p0gz"}
+{"time":"2025-03-17T11:49:12.438518175+05:30","level":"INFO","msg":"sender: closed","stream_id":"yh14p0gz"}
+{"time":"2025-03-17T11:49:12.438624446+05:30","level":"INFO","msg":"stream: closed","id":"yh14p0gz"}

@@ -1,0 +1,18 @@
+{"time":"2025-03-17T11:04:00.170497967+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250317_110400-17zr1vnh/logs/debug-core.log"}
+{"time":"2025-03-17T11:04:00.275109238+05:30","level":"INFO","msg":"created new stream","id":"17zr1vnh"}
+{"time":"2025-03-17T11:04:00.275217359+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"17zr1vnh"}
+{"time":"2025-03-17T11:04:00.275155161+05:30","level":"INFO","msg":"stream: started","id":"17zr1vnh"}
+{"time":"2025-03-17T11:04:00.27525873+05:30","level":"INFO","msg":"handler: started","stream_id":"17zr1vnh"}
+{"time":"2025-03-17T11:04:00.275269519+05:30","level":"INFO","msg":"sender: started","stream_id":"17zr1vnh"}
+{"time":"2025-03-17T11:04:00.742707108+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T11:06:15.299085626+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T12:08:16.477703627+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T12:08:16.484450931+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T12:08:16.485991918+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T12:08:17.491394382+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.395082788,"progress":"270B/270B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.395055136,"progress":"161B/161B"},{"desc":"uploading config.yaml","runtime_seconds":0.125756577,"progress":"623B/623B"}],"total_operations":3}}
+{"time":"2025-03-17T12:08:18.529316668+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T12:08:19.909910476+05:30","level":"INFO","msg":"stream: closing","id":"17zr1vnh"}
+{"time":"2025-03-17T12:08:19.909945377+05:30","level":"INFO","msg":"handler: closed","stream_id":"17zr1vnh"}
+{"time":"2025-03-17T12:08:19.909958312+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"17zr1vnh"}
+{"time":"2025-03-17T12:08:19.910028359+05:30","level":"INFO","msg":"sender: closed","stream_id":"17zr1vnh"}
+{"time":"2025-03-17T12:08:19.910040441+05:30","level":"INFO","msg":"stream: closed","id":"17zr1vnh"}

@@ -1,0 +1,7 @@
+Epoch 1/10 - Loss: 0.4841 - Accuracy: 0.8640
+Epoch 2/10 - Loss: 0.3700 - Accuracy: 0.8620
+Epoch 3/10 - Loss: 0.3371 - Accuracy: 0.8777
+Epoch 4/10 - Loss: 0.3136 - Accuracy: 0.8700
+Epoch 5/10 - Loss: 0.2980 - Accuracy: 0.8842
+Epoch 6/10 - Loss: 0.2853 - Accuracy: 0.8847
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.

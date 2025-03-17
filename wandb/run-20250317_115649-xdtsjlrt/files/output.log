@@ -1,0 +1,10 @@
+Epoch 1/10 - Loss: 0.4833 - Accuracy: 0.8642
+Epoch 2/10 - Loss: 0.3686 - Accuracy: 0.8695
+Epoch 3/10 - Loss: 0.3351 - Accuracy: 0.8758
+Epoch 4/10 - Loss: 0.3151 - Accuracy: 0.8742
+Epoch 5/10 - Loss: 0.2992 - Accuracy: 0.8807
+Epoch 6/10 - Loss: 0.2868 - Accuracy: 0.8865
+Epoch 7/10 - Loss: 0.2766 - Accuracy: 0.8880
+Epoch 8/10 - Loss: 0.2664 - Accuracy: 0.8922
+Epoch 9/10 - Loss: 0.2579 - Accuracy: 0.8873
+Epoch 10/10 - Loss: 0.2491 - Accuracy: 0.8867

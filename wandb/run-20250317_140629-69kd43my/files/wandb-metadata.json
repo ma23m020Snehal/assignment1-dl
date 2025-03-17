@@ -1,0 +1,53 @@
+{
+  "os":  "Linux-6.8.0-52-generic-x86_64-with-glibc2.39",
+  "python":  "CPython 3.12.3",
+  "startedAt":  "2025-03-17T08:36:29.654442Z",
+  "args":  [
+    "--wandb_entity",
+    "snehalma23m020-iit-madras",
+    "--wandb_project",
+    "DLassigment1",
+    "--epochs",
+    "20",
+    "--batch_size",
+    "32",
+    "--loss",
+    "cross_entropy",
+    "--optimizer",
+    "adam",
+    "--learning_rate",
+    "0.001",
+    "--num_layers",
+    "4",
+    "--hidden_size",
+    "128",
+    "--activation",
+    "ReLU"
+  ],
+  "program":  "/home/snehal/Downloads/dl_ass1/train.py",
+  "codePath":  "train.py",
+  "git":  {
+    "remote":  "git@github.com:ma23m020Snehal/assignment1-dl.git",
+    "commit":  "9e3cb446a60749f76729ccb4d3baf8c9f6565931"
+  },
+  "email":  "ma23m020@smail.iitm.ac.in",
+  "root":  "/home/snehal/Downloads/dl_ass1",
+  "host":  "snehal-HP-Laptop-15s-fq5xxx",
+  "executable":  "/home/snehal/Downloads/dl_ass1/dvenv/bin/python",
+  "codePathLocal":  "train.py",
+  "cpu_count":  10,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "194964811776",
+      "used":  "153342881792"
+    }
+  },
+  "memory":  {
+    "total":  "16425238528"
+  },
+  "cpu":  {
+    "count":  10,
+    "countLogical":  12
+  }
+}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T13:55:11.20395059+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250317_135511-aq910lgj/logs/debug-core.log"}
+{"time":"2025-03-17T13:55:11.313508655+05:30","level":"INFO","msg":"created new stream","id":"aq910lgj"}
+{"time":"2025-03-17T13:55:11.313564993+05:30","level":"INFO","msg":"stream: started","id":"aq910lgj"}
+{"time":"2025-03-17T13:55:11.314741732+05:30","level":"INFO","msg":"handler: started","stream_id":"aq910lgj"}
+{"time":"2025-03-17T13:55:11.314812811+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"aq910lgj"}
+{"time":"2025-03-17T13:55:11.315010429+05:30","level":"INFO","msg":"sender: started","stream_id":"aq910lgj"}
+{"time":"2025-03-17T13:55:11.831612906+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T13:56:47.696293674+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T13:56:47.697797592+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T13:56:48.660742664+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.337460939,"progress":"961B/961B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.337428627,"progress":"204B/204B"},{"desc":"uploading config.yaml","runtime_seconds":0.058702971,"progress":"895B/895B"}],"total_operations":3}}
+{"time":"2025-03-17T13:56:48.969205927+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T13:56:50.335530374+05:30","level":"INFO","msg":"stream: closing","id":"aq910lgj"}
+{"time":"2025-03-17T13:56:50.335554134+05:30","level":"INFO","msg":"handler: closed","stream_id":"aq910lgj"}
+{"time":"2025-03-17T13:56:50.335564741+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"aq910lgj"}
+{"time":"2025-03-17T13:56:50.335640667+05:30","level":"INFO","msg":"sender: closed","stream_id":"aq910lgj"}
+{"time":"2025-03-17T13:56:50.335716274+05:30","level":"INFO","msg":"stream: closed","id":"aq910lgj"}
