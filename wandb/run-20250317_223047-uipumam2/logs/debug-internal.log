@@ -1,0 +1,16 @@
+{"time":"2025-03-17T22:30:47.8470128+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250317_223047-uipumam2/logs/debug-core.log"}
+{"time":"2025-03-17T22:30:47.951864201+05:30","level":"INFO","msg":"created new stream","id":"uipumam2"}
+{"time":"2025-03-17T22:30:47.951897119+05:30","level":"INFO","msg":"stream: started","id":"uipumam2"}
+{"time":"2025-03-17T22:30:47.951932894+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"uipumam2"}
+{"time":"2025-03-17T22:30:47.951960229+05:30","level":"INFO","msg":"handler: started","stream_id":"uipumam2"}
+{"time":"2025-03-17T22:30:47.95199895+05:30","level":"INFO","msg":"sender: started","stream_id":"uipumam2"}
+{"time":"2025-03-17T22:30:48.664970409+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T22:31:53.055030747+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T22:31:53.056352139+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T22:31:54.060506578+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.164834875}],"total_operations":1}}
+{"time":"2025-03-17T22:31:55.221495695+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T22:31:56.639984395+05:30","level":"INFO","msg":"stream: closing","id":"uipumam2"}
+{"time":"2025-03-17T22:31:56.640010841+05:30","level":"INFO","msg":"handler: closed","stream_id":"uipumam2"}
+{"time":"2025-03-17T22:31:56.640024591+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"uipumam2"}
+{"time":"2025-03-17T22:31:56.640145592+05:30","level":"INFO","msg":"sender: closed","stream_id":"uipumam2"}
+{"time":"2025-03-17T22:31:56.640218284+05:30","level":"INFO","msg":"stream: closed","id":"uipumam2"}

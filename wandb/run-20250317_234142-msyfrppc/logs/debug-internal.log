@@ -1,0 +1,16 @@
+{"time":"2025-03-17T23:41:42.964347893+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250317_234142-msyfrppc/logs/debug-core.log"}
+{"time":"2025-03-17T23:41:43.070965923+05:30","level":"INFO","msg":"created new stream","id":"msyfrppc"}
+{"time":"2025-03-17T23:41:43.071018969+05:30","level":"INFO","msg":"stream: started","id":"msyfrppc"}
+{"time":"2025-03-17T23:41:43.071099066+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"msyfrppc"}
+{"time":"2025-03-17T23:41:43.071110208+05:30","level":"INFO","msg":"sender: started","stream_id":"msyfrppc"}
+{"time":"2025-03-17T23:41:43.071196598+05:30","level":"INFO","msg":"handler: started","stream_id":"msyfrppc"}
+{"time":"2025-03-17T23:41:44.076031408+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T23:42:21.54238476+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T23:42:21.543664806+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T23:42:22.543590651+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.221423688}],"total_operations":1}}
+{"time":"2025-03-17T23:42:24.277128668+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T23:42:25.639679865+05:30","level":"INFO","msg":"stream: closing","id":"msyfrppc"}
+{"time":"2025-03-17T23:42:25.639703097+05:30","level":"INFO","msg":"handler: closed","stream_id":"msyfrppc"}
+{"time":"2025-03-17T23:42:25.63971492+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"msyfrppc"}
+{"time":"2025-03-17T23:42:25.639736815+05:30","level":"INFO","msg":"sender: closed","stream_id":"msyfrppc"}
+{"time":"2025-03-17T23:42:25.639793454+05:30","level":"INFO","msg":"stream: closed","id":"msyfrppc"}

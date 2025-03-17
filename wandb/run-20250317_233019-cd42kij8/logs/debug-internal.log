@@ -1,0 +1,18 @@
+{"time":"2025-03-17T23:30:19.063105827+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250317_233019-cd42kij8/logs/debug-core.log"}
+{"time":"2025-03-17T23:30:19.179818843+05:30","level":"INFO","msg":"created new stream","id":"cd42kij8"}
+{"time":"2025-03-17T23:30:19.179903048+05:30","level":"INFO","msg":"stream: started","id":"cd42kij8"}
+{"time":"2025-03-17T23:30:19.180000619+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cd42kij8"}
+{"time":"2025-03-17T23:30:19.180061982+05:30","level":"INFO","msg":"sender: started","stream_id":"cd42kij8"}
+{"time":"2025-03-17T23:30:19.18016289+05:30","level":"INFO","msg":"handler: started","stream_id":"cd42kij8"}
+{"time":"2025-03-17T23:30:19.669466138+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T23:30:35.478131256+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/snehalma23m020-iit-madras/DLassignment1/cd42kij8/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-03-17T23:30:37.706503728+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/snehalma23m020-iit-madras/DLassignment1/cd42kij8/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-03-17T23:31:07.206386547+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T23:31:07.207753046+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T23:31:08.209607931+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 10-17, summary","runtime_seconds":2.73270414},{"desc":"updating run config","runtime_seconds":0.33024863}],"total_operations":2}}
+{"time":"2025-03-17T23:31:10.55269912+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T23:31:12.621033213+05:30","level":"INFO","msg":"stream: closing","id":"cd42kij8"}
+{"time":"2025-03-17T23:31:12.621072564+05:30","level":"INFO","msg":"handler: closed","stream_id":"cd42kij8"}
+{"time":"2025-03-17T23:31:12.621093326+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cd42kij8"}
+{"time":"2025-03-17T23:31:12.621166882+05:30","level":"INFO","msg":"sender: closed","stream_id":"cd42kij8"}
+{"time":"2025-03-17T23:31:12.621237745+05:30","level":"INFO","msg":"stream: closed","id":"cd42kij8"}

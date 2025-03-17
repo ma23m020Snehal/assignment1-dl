@@ -352,7 +352,7 @@ if __name__ == "__main__":
     parser.add_argument("-we", "--wandb_entity", default="myname", help="Wandb Entity used to track experiments in the Weights & Biases dashboard")
     parser.add_argument("-d", "--dataset", default="fashion_mnist", choices=["mnist", "fashion_mnist"], help="Dataset to use.")
     parser.add_argument("-e", "--epochs", type=int, default=10, help="Number of epochs to train neural network.")
-    parser.add_argument("-b", "--batch_size", type=int, default=64, help="Batch size used to train neural network.")
+    parser.add_argument("-b", "--batch_size", type=int, default=32, help="Batch size used to train neural network.")
     parser.add_argument("-l", "--loss", default="cross_entropy", choices=["mean_squared_error", "cross_entropy"], help="Loss function.")
     parser.add_argument("-o", "--optimizer", default="nadam", choices=["sgd", "momentum", "nag", "rmsprop", "adam", "nadam"], help="Optimizer to use.")
     parser.add_argument("-lr", "--learning_rate", type=float, default=0.001, help="Learning rate used to optimize model parameters")
@@ -365,7 +365,7 @@ if __name__ == "__main__":
     parser.add_argument("-w_i", "--weight_init", default="Xavier", choices=["random", "Xavier"], help="Weight initialization method.")
     parser.add_argument("-nhl", "--num_layers", type=int, default=3, help="Number of hidden layers used in feedforward neural network.")
     parser.add_argument("-sz", "--hidden_size", type=int, default=128, help="Number of hidden neurons in a feedforward layer.")
-    parser.add_argument("-a", "--activation", default="relu", choices=["identity", "sigmoid", "tanh", "relu"], help="Activation function.")
+    parser.add_argument("-a", "--activation", default="tanh", choices=["identity", "sigmoid", "tanh", "relu"], help="Activation function.")
     
     args = parser.parse_args()
     train_image_classifier(args)

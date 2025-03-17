@@ -1,0 +1,4 @@
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.
+Create sweep with ID: pgxedlqh
+Sweep URL: https://wandb.ai/snehalma23m020-iit-madras/DLassignment1/sweeps/pgxedlqh
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.

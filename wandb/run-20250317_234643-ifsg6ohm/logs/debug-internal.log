@@ -1,0 +1,11 @@
+{"time":"2025-03-17T23:46:43.30657653+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250317_234643-ifsg6ohm/logs/debug-core.log"}
+{"time":"2025-03-17T23:46:43.417363005+05:30","level":"INFO","msg":"created new stream","id":"ifsg6ohm"}
+{"time":"2025-03-17T23:46:43.417433613+05:30","level":"INFO","msg":"stream: started","id":"ifsg6ohm"}
+{"time":"2025-03-17T23:46:43.417497448+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ifsg6ohm"}
+{"time":"2025-03-17T23:46:43.417549548+05:30","level":"INFO","msg":"handler: started","stream_id":"ifsg6ohm"}
+{"time":"2025-03-17T23:46:43.417633894+05:30","level":"INFO","msg":"sender: started","stream_id":"ifsg6ohm"}
+{"time":"2025-03-17T23:46:44.018757114+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T23:46:52.468516225+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T23:48:11.885282622+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T23:48:11.886333427+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T23:48:13.855073996+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}

@@ -1,0 +1,17 @@
+{"time":"2025-03-17T23:29:33.138447074+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250317_232933-y20wk7m7/logs/debug-core.log"}
+{"time":"2025-03-17T23:29:33.245881553+05:30","level":"INFO","msg":"created new stream","id":"y20wk7m7"}
+{"time":"2025-03-17T23:29:33.245921593+05:30","level":"INFO","msg":"stream: started","id":"y20wk7m7"}
+{"time":"2025-03-17T23:29:33.246025472+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"y20wk7m7"}
+{"time":"2025-03-17T23:29:33.246070992+05:30","level":"INFO","msg":"handler: started","stream_id":"y20wk7m7"}
+{"time":"2025-03-17T23:29:33.24614603+05:30","level":"INFO","msg":"sender: started","stream_id":"y20wk7m7"}
+{"time":"2025-03-17T23:29:33.782789871+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T23:29:53.007781201+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/snehalma23m020-iit-madras/DLassignment1/y20wk7m7/file_stream\": dial tcp 35.186.228.49:443: connect: no route to host"}
+{"time":"2025-03-17T23:30:10.654147603+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T23:30:10.654831293+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T23:30:11.659829509+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.225611281}],"total_operations":1}}
+{"time":"2025-03-17T23:30:12.565611356+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T23:30:13.991885107+05:30","level":"INFO","msg":"stream: closing","id":"y20wk7m7"}
+{"time":"2025-03-17T23:30:13.99191881+05:30","level":"INFO","msg":"handler: closed","stream_id":"y20wk7m7"}
+{"time":"2025-03-17T23:30:13.991934278+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"y20wk7m7"}
+{"time":"2025-03-17T23:30:13.991983797+05:30","level":"INFO","msg":"sender: closed","stream_id":"y20wk7m7"}
+{"time":"2025-03-17T23:30:13.99202745+05:30","level":"INFO","msg":"stream: closed","id":"y20wk7m7"}

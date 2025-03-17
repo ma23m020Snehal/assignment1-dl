@@ -1,0 +1,122 @@
+2025-03-17 23:46:43,294 INFO    Thread-266 (_run_job):150237 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-17 23:46:43,294 INFO    Thread-266 (_run_job):150237 [wandb_setup.py:_flush():67] Configure stats pid to 150237
+2025-03-17 23:46:43,295 INFO    Thread-266 (_run_job):150237 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/.config/wandb/settings
+2025-03-17 23:46:43,295 INFO    Thread-266 (_run_job):150237 [wandb_setup.py:_flush():67] Loading settings from /home/snehal/Downloads/dl_ass1/wandb/settings
+2025-03-17 23:46:43,295 INFO    Thread-266 (_run_job):150237 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-17 23:46:43,295 INFO    Thread-266 (_run_job):150237 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250317_234643-ifsg6ohm/logs/debug.log
+2025-03-17 23:46:43,295 INFO    Thread-266 (_run_job):150237 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/snehal/Downloads/dl_ass1/wandb/run-20250317_234643-ifsg6ohm/logs/debug-internal.log
+2025-03-17 23:46:43,296 INFO    Thread-266 (_run_job):150237 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x74943573a390>
+2025-03-17 23:46:43,296 INFO    Thread-266 (_run_job):150237 [wandb_init.py:init():761] calling init triggers
+2025-03-17 23:46:43,296 INFO    Thread-266 (_run_job):150237 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation_function': 'tanh', 'batch_size': 64, 'epochs': 10, 'hidden_layer_size': 128, 'learning_rate': 0.001, 'num_hidden_layers': 3, 'optimizer': 'nadam', 'weight_decay': 0.0005, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-17 23:46:43,296 INFO    Thread-266 (_run_job):150237 [wandb_init.py:init():784] starting backend
+2025-03-17 23:46:43,296 INFO    Thread-266 (_run_job):150237 [wandb_init.py:init():788] sending inform_init request
+2025-03-17 23:46:43,299 INFO    Thread-266 (_run_job):150237 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-03-17 23:46:43,300 INFO    Thread-266 (_run_job):150237 [wandb_init.py:init():803] backend started and connected
+2025-03-17 23:46:43,303 INFO    Thread-266 (_run_job):150237 [wandb_run.py:_config_callback():1261] config_cb None None {'activation_function': 'tanh', 'batch_size': 64, 'epochs': 10, 'hidden_layer_size': 128, 'learning_rate': 0.001, 'num_hidden_layers': 3, 'optimizer': 'nadam', 'weight_decay': 0.0005, 'weight_init': 'xavier'}
+2025-03-17 23:46:43,306 INFO    Thread-266 (_run_job):150237 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-17 23:46:43,369 INFO    Thread-266 (_run_job):150237 [wandb_init.py:init():896] updated telemetry
+2025-03-17 23:46:43,375 INFO    Thread-266 (_run_job):150237 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-17 23:46:44,014 INFO    Thread-266 (_run_job):150237 [wandb_init.py:init():995] starting run threads in backend
+2025-03-17 23:46:44,180 INFO    Thread-266 (_run_job):150237 [wandb_run.py:_console_start():2377] atexit reg
+2025-03-17 23:46:44,180 INFO    Thread-266 (_run_job):150237 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-17 23:46:44,180 INFO    Thread-266 (_run_job):150237 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-17 23:46:44,180 INFO    Thread-266 (_run_job):150237 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-03-17 23:46:44,181 INFO    Thread-266 (_run_job):150237 [wandb_init.py:init():1037] run started, returning control to user process
+2025-03-17 23:46:52,429 INFO    MainThread:150237 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 23:46:52,429 INFO    MainThread:150237 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 23:48:11,883 INFO    Thread-266 (_run_job):150237 [wandb_run.py:_finish():2112] finishing run snehalma23m020-iit-madras/DLassignment1/ifsg6ohm
+2025-03-17 23:48:11,884 ERROR   Thread-266 (_run_job):150237 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-03-17 23:48:11,884 INFO    Thread-266 (_run_job):150237 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 23:48:11,884 INFO    Thread-266 (_run_job):150237 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-17 23:48:11,884 INFO    Thread-266 (_run_job):150237 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 1
+2025-03-17 23:48:11,884 INFO    Thread-266 (_run_job):150237 [wandb_run.py:_restore():2324] restore
+2025-03-17 23:48:11,885 INFO    Thread-266 (_run_job):150237 [wandb_run.py:_restore():2330] restore done
+2025-03-17 23:48:11,887 INFO    Thread-266 (_run_job):150237 [wandb_run.py:_restore():2324] restore
+2025-03-17 23:48:11,887 INFO    Thread-266 (_run_job):150237 [wandb_run.py:_restore():2330] restore done
+2025-03-17 23:48:11,887 ERROR   Thread-266 (_run_job):150237 [wandb_run.py:_atexit_cleanup():2363] Problem finishing run
+Traceback (most recent call last):
+  File "/tmp/ipykernel_150237/1934752252.py", line 79, in train_model_sweep
+    print(f"Run {run_name} finished with val_acc={val_acc:.4f}, test_acc={test_acc:.4f}")
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/redirect.py", line 645, in write
+    self._old_write(data)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/ipykernel/iostream.py", line 694, in write
+    self._schedule_flush()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/ipykernel/iostream.py", line 590, in _schedule_flush
+    self.pub_thread.schedule(_schedule_in_thread)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/ipykernel/iostream.py", line 267, in schedule
+    self._event_pipe.send(b"")
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/zmq/sugar/socket.py", line 707, in send
+    return super().send(data, flags=flags, copy=copy, track=track)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "_zmq.py", line 1092, in zmq.backend.cython._zmq.Socket.send
+  File "_zmq.py", line 1134, in zmq.backend.cython._zmq.Socket.send
+  File "_zmq.py", line 1209, in zmq.backend.cython._zmq._check_closed
+zmq.error.ZMQError: Socket operation on non-socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/agents/pyagent.py", line 306, in _run_job
+    self._function()
+  File "/tmp/ipykernel_150237/1934752252.py", line 2, in train_model_sweep
+    with wandb.init(config=config):
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 3615, in __exit__
+    traceback.print_exception(exc_type, exc_val, exc_tb)
+  File "/usr/lib/python3.12/traceback.py", line 125, in print_exception
+    te.print(file=file, chain=chain)
+  File "/usr/lib/python3.12/traceback.py", line 1050, in print
+    print(line, file=file, end="")
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/redirect.py", line 645, in write
+    self._old_write(data)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/ipykernel/iostream.py", line 694, in write
+    self._schedule_flush()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/ipykernel/iostream.py", line 590, in _schedule_flush
+    self.pub_thread.schedule(_schedule_in_thread)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/ipykernel/iostream.py", line 267, in schedule
+    self._event_pipe.send(b"")
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/zmq/sugar/socket.py", line 707, in send
+    return super().send(data, flags=flags, copy=copy, track=track)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "_zmq.py", line 1092, in zmq.backend.cython._zmq.Socket.send
+  File "_zmq.py", line 1134, in zmq.backend.cython._zmq.Socket.send
+  File "_zmq.py", line 1209, in zmq.backend.cython._zmq._check_closed
+zmq.error.ZMQError: Socket operation on non-socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 2354, in _atexit_cleanup
+    self._on_finish()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 2606, in _on_finish
+    with progress.progress_printer(
+  File "/usr/lib/python3.12/contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/progress.py", line 92, in progress_printer
+    with printer.dynamic_text() as text_area:
+  File "/usr/lib/python3.12/contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/wandb/sdk/lib/printer.py", line 436, in dynamic_text
+    handle = self._ipython_display.display(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/IPython/core/display_functions.py", line 305, in display
+    publish_display_data(data=format_dict, metadata=md_dict, **kwargs)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/IPython/core/display_functions.py", line 93, in publish_display_data
+    display_pub.publish(
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/ipykernel/zmqshell.py", line 103, in publish
+    self._flush_streams()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/ipykernel/zmqshell.py", line 66, in _flush_streams
+    sys.stdout.flush()
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/ipykernel/iostream.py", line 604, in flush
+    self.pub_thread.schedule(self._flush)
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/ipykernel/iostream.py", line 267, in schedule
+    self._event_pipe.send(b"")
+  File "/home/snehal/Downloads/dl_ass1/dvenv/lib/python3.12/site-packages/zmq/sugar/socket.py", line 707, in send
+    return super().send(data, flags=flags, copy=copy, track=track)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "_zmq.py", line 1092, in zmq.backend.cython._zmq.Socket.send
+  File "_zmq.py", line 1134, in zmq.backend.cython._zmq.Socket.send
+  File "_zmq.py", line 1209, in zmq.backend.cython._zmq._check_closed
+zmq.error.ZMQError: Socket operation on non-socket

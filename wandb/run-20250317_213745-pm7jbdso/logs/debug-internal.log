@@ -1,0 +1,16 @@
+{"time":"2025-03-17T21:37:45.763952781+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250317_213745-pm7jbdso/logs/debug-core.log"}
+{"time":"2025-03-17T21:37:45.872162642+05:30","level":"INFO","msg":"created new stream","id":"pm7jbdso"}
+{"time":"2025-03-17T21:37:45.872196982+05:30","level":"INFO","msg":"stream: started","id":"pm7jbdso"}
+{"time":"2025-03-17T21:37:45.872286183+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pm7jbdso"}
+{"time":"2025-03-17T21:37:45.872344332+05:30","level":"INFO","msg":"sender: started","stream_id":"pm7jbdso"}
+{"time":"2025-03-17T21:37:45.872393256+05:30","level":"INFO","msg":"handler: started","stream_id":"pm7jbdso"}
+{"time":"2025-03-17T21:37:46.241260503+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T21:37:46.44184394+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T21:37:46.442983125+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T21:37:47.411586559+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.681790648,"progress":"1.5KB/1.5KB"},{"desc":"uploading console lines 0-2","runtime_seconds":0.326342537},{"desc":"updating run config","runtime_seconds":0.305583939}],"total_operations":3}}
+{"time":"2025-03-17T21:37:48.804690119+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T21:37:50.188680266+05:30","level":"INFO","msg":"stream: closing","id":"pm7jbdso"}
+{"time":"2025-03-17T21:37:50.188706174+05:30","level":"INFO","msg":"handler: closed","stream_id":"pm7jbdso"}
+{"time":"2025-03-17T21:37:50.188738737+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pm7jbdso"}
+{"time":"2025-03-17T21:37:50.188780662+05:30","level":"INFO","msg":"sender: closed","stream_id":"pm7jbdso"}
+{"time":"2025-03-17T21:37:50.188845185+05:30","level":"INFO","msg":"stream: closed","id":"pm7jbdso"}

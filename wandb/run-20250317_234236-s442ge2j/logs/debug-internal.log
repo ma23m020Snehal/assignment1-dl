@@ -1,0 +1,16 @@
+{"time":"2025-03-17T23:42:36.497539802+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250317_234236-s442ge2j/logs/debug-core.log"}
+{"time":"2025-03-17T23:42:36.604005593+05:30","level":"INFO","msg":"created new stream","id":"s442ge2j"}
+{"time":"2025-03-17T23:42:36.604066427+05:30","level":"INFO","msg":"stream: started","id":"s442ge2j"}
+{"time":"2025-03-17T23:42:36.604217237+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"s442ge2j"}
+{"time":"2025-03-17T23:42:36.60423208+05:30","level":"INFO","msg":"sender: started","stream_id":"s442ge2j"}
+{"time":"2025-03-17T23:42:36.604391097+05:30","level":"INFO","msg":"handler: started","stream_id":"s442ge2j"}
+{"time":"2025-03-17T23:42:36.95954906+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T23:44:28.804102288+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T23:44:28.805444599+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T23:44:29.807642563+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.211924822}],"total_operations":1}}
+{"time":"2025-03-17T23:44:30.977657957+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T23:44:32.416804393+05:30","level":"INFO","msg":"stream: closing","id":"s442ge2j"}
+{"time":"2025-03-17T23:44:32.416823841+05:30","level":"INFO","msg":"handler: closed","stream_id":"s442ge2j"}
+{"time":"2025-03-17T23:44:32.41684389+05:30","level":"INFO","msg":"sender: closed","stream_id":"s442ge2j"}
+{"time":"2025-03-17T23:44:32.416839107+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"s442ge2j"}
+{"time":"2025-03-17T23:44:32.41690729+05:30","level":"INFO","msg":"stream: closed","id":"s442ge2j"}

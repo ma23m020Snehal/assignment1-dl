@@ -1,0 +1,18 @@
+{"time":"2025-03-17T23:32:50.504063191+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250317_233250-y1hs6o4y/logs/debug-core.log"}
+{"time":"2025-03-17T23:32:50.609955148+05:30","level":"INFO","msg":"created new stream","id":"y1hs6o4y"}
+{"time":"2025-03-17T23:32:50.610011987+05:30","level":"INFO","msg":"stream: started","id":"y1hs6o4y"}
+{"time":"2025-03-17T23:32:50.610104205+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"y1hs6o4y"}
+{"time":"2025-03-17T23:32:50.610156775+05:30","level":"INFO","msg":"handler: started","stream_id":"y1hs6o4y"}
+{"time":"2025-03-17T23:32:50.610308732+05:30","level":"INFO","msg":"sender: started","stream_id":"y1hs6o4y"}
+{"time":"2025-03-17T23:32:51.104492845+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T23:33:08.515120614+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/snehalma23m020-iit-madras/DLassignment1/y1hs6o4y/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-03-17T23:33:32.897186331+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T23:33:32.899489629+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T23:33:33.900573438+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":1.006305215}],"total_operations":1}}
+{"time":"2025-03-17T23:33:38.515201851+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/snehalma23m020-iit-madras/DLassignment1/y1hs6o4y/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-03-17T23:34:05.267573485+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T23:34:07.1065081+05:30","level":"INFO","msg":"stream: closing","id":"y1hs6o4y"}
+{"time":"2025-03-17T23:34:07.106535229+05:30","level":"INFO","msg":"handler: closed","stream_id":"y1hs6o4y"}
+{"time":"2025-03-17T23:34:07.106548659+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"y1hs6o4y"}
+{"time":"2025-03-17T23:34:07.106559264+05:30","level":"INFO","msg":"sender: closed","stream_id":"y1hs6o4y"}
+{"time":"2025-03-17T23:34:07.106636873+05:30","level":"INFO","msg":"stream: closed","id":"y1hs6o4y"}

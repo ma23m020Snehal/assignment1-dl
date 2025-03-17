@@ -1,0 +1,16 @@
+{"time":"2025-03-17T22:03:44.85190412+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/snehal/Downloads/dl_ass1/wandb/run-20250317_220344-zrfdhewi/logs/debug-core.log"}
+{"time":"2025-03-17T22:03:44.957754595+05:30","level":"INFO","msg":"created new stream","id":"zrfdhewi"}
+{"time":"2025-03-17T22:03:44.95780249+05:30","level":"INFO","msg":"stream: started","id":"zrfdhewi"}
+{"time":"2025-03-17T22:03:44.957898511+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zrfdhewi"}
+{"time":"2025-03-17T22:03:44.957904132+05:30","level":"INFO","msg":"handler: started","stream_id":"zrfdhewi"}
+{"time":"2025-03-17T22:03:44.957977563+05:30","level":"INFO","msg":"sender: started","stream_id":"zrfdhewi"}
+{"time":"2025-03-17T22:03:45.34585135+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T22:05:35.5904686+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T22:05:35.591605372+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T22:05:36.554288282+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.270452273}],"total_operations":1}}
+{"time":"2025-03-17T22:05:37.568977378+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T22:05:38.986079285+05:30","level":"INFO","msg":"stream: closing","id":"zrfdhewi"}
+{"time":"2025-03-17T22:05:38.986106556+05:30","level":"INFO","msg":"handler: closed","stream_id":"zrfdhewi"}
+{"time":"2025-03-17T22:05:38.986121847+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zrfdhewi"}
+{"time":"2025-03-17T22:05:38.986131314+05:30","level":"INFO","msg":"sender: closed","stream_id":"zrfdhewi"}
+{"time":"2025-03-17T22:05:38.986256915+05:30","level":"INFO","msg":"stream: closed","id":"zrfdhewi"}
